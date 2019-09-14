@@ -1,2 +1,2 @@
 # z
-jancox(jancox.com)
+[jancox](jancox.com)
