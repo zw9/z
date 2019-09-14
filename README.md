@@ -1,2 +1,3 @@
 # z
-[jancox](jancox.com)
+[jancox](http://jancox.com)
+[weblist](weblist.md)
