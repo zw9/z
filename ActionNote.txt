@@ -1,0 +1,3 @@
+todo list
+create projects in r and py sh
+git@github.com:atang148/z.git
