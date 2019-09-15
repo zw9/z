@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 def fetch_fnc(url,cl):
     import re
     import io
-    fn= re.sub('[^A-Za-z0-9]+', '', url.split("/")[-1] ) + ".txt"
+    fn= re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-1] ) + ".txt"
     fn
     encoding = 'utf-8'
     f = io.open(fn, "w+",encoding='utf-8')
