@@ -1,0 +1,41 @@
+---
+title: "R Notebook"
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+
+[healthit](http://healthit.somee.com)
+
+POS_OTHER_DEC18 <- read.csv("~/Downloads/pos_other_csv_dec18/POS_OTHER_DEC18.csv", nrows=100)
+View(POS_OTHER_DEC18)
+
+POS_OTHER_LAYOUT_DEC18 <- read.csv("~/Downloads/pos_other_csv_dec18/POS_OTHER_LAYOUT_DEC18.txt", comment.char="#", nrows=100)
+View(POS_OTHER_LAYOUT_DEC18)
+
+POS_OTHER_UPDATE_DEC18 <- read.csv("~/Downloads/pos_other_csv_dec18/POS_OTHER_UPDATE_DEC18.txt", comment.char="#", nrows=100)
+
+View(POS_OTHER_UPDATE_DEC18)
+
+POS_CLIA_DEC18 <- read.csv("~/Downloads/pos_clia_csv_dec18/POS_CLIA_DEC18.csv", nrows=100)
+
+load(dplyr)
+
+describe(POS_CLIA_DEC18)
+
+.describe()
+
+setwd("~/Downloads")
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
