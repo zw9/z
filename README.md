@@ -12,6 +12,8 @@
 [https://notebooks.azure.com/faq#top](https://notebooks.azure.com/faq#top)
 [http://rpubs.com/Atang148](http://rpubs.com/Atang148)
 
+[https://notebooks.azure.com/readerweb/projects/datanow](https://notebooks.azure.com/readerweb/projects/datanow)
+
 [http://localhost:8888](http://localhost:8888)
 
 [pi1299.local](http://pi1299.local)
