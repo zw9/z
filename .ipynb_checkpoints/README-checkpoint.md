@@ -1,16 +1,18 @@
+
+
+
+
+
+
+
+
+
 # z
-[jancox](http://jancox.com)
-[weblist](weblist.md)
-[sep09](sep09.ipynb)
 
-[Exploring_File_System.ipynb](Exploring_File_System.ipynb)
+## [./weblist_inc.md](./weblist_inc.md)
 
-[./Exploring_File_System.ipynb](Exploring_File_System.ipynb)
-[./README.md](README.md)
-[./filesystemplay.py](filesystemplay.py)
-[./system_commands.ipynb](./system_commands.ipynb)
-[./ActionNote.txt](./ActionNote.txt)
-[./Untitled.ipynb copy](./Untitled.ipynb copy)
-[./_config.yml](./_config.yml)
-[./z.Rproj](./z.Rproj)
-[./weblist.md](./weblist.md)
+## [http://localhost:8888](http://localhost:8888)
+## [http://rpubs.com/Atang148](http://rpubs.com/Atang148)
+## [https://notebooks.azure.com/readerweb](https://notebooks.azure.com/readerweb)
+## [jancox](http://jancox.com)
+## [pi1299.local](http://pi1299.local)

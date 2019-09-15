@@ -1,4 +1,5 @@
 from  web_fetch_def import fetch_fnc
+
 fetch_fnc("https://duckduckgo.com/html/?q=stock+vfiax&ia=web",{"result__url","result__snippet","result__title"})
 fetch_fnc("https://duckduckgo.com/html/?q=stock+vig&ia=web",{"result__url","result__snippet","result__title"})
 fetch_fnc("https://duckduckgo.com/html/?q=stock+rxdx&ia=web",{"result__url","result__snippet","result__title"})
