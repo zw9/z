@@ -14,6 +14,6 @@
 
 [http://localhost:8888](http://localhost:8888)
 
-[pi1299.local]](http://pi1299.local)
+[pi1299.local](http://pi1299.local)
 
 [jancox](http://jancox.com)
