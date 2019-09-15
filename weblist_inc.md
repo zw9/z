@@ -47,3 +47,6 @@
 ## [./web-scrape/Nguoi-Viet/viec-van-phong-office-clerical-jobs-browse-97aspx.txt](./web-scrape/Nguoi-Viet/viec-van-phong-office-clerical-jobs-browse-97aspx.txt)
 ## [./web-scrape/Nguoi-Viet/sua-may-moc-appliances-repair-browse-103aspx.txt](./web-scrape/Nguoi-Viet/sua-may-moc-appliances-repair-browse-103aspx.txt)
 ## [./file-system/macos.txt](./file-system/macos.txt)
+## [./weblist_inc.md](./weblist_inc.md)
+## [./README.md](./README.md)
+## [./weblist.md](./weblist.md)
