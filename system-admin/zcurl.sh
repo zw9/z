@@ -43,7 +43,6 @@ cd ../html/dl
 
 # curl -s -L  https://www.thestreet.com/quote/UNH/details/{profile,news,financials,events,ownership,options}.html > UNH_thestreet.htm
 
-curl -s -L https://www.zacks.com/stock/quote/UNH >UNH_zacks.htm
 
 # curl -L  "http://www.google.com/finance?q=NSE:UNH"
 
@@ -51,17 +50,9 @@ curl -s -L https://www.zacks.com/stock/quote/UNH >UNH_zacks.htm
 
 #curl -o optumsearch.htm -L "https://www.google.com/search?q=optum+reports"
 
-curl -s -L  https://www.marketwatch.com/investing/stock/unh/{profile,news,charts,financials,historical,analystestimates,options,secfilings,insideractions} > UNH_marketwatch.htm
 
-curl -s -L -o UNH_marketwatch_summary.htm https://www.marketwatch.com/investing/stock/unh
 
-curl -s -L -o sinh-hoat-cong-dong.htm https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/
-
-curl -s -L -o dam-bop-thu-gian-massage-relax.htm https://raovat.nguoi-viet.com/classified/dam-bop-thu-gian-massage-relax-browse-123.aspx
-
-curl -s -L -o sang-nhuong-co-so-business-opportunities.htm https://raovat.nguoi-viet.com/classified/sang-nhuong-co-so-business-opportunities-browse-92.aspx
-
-curl -s -L -o viec-van-phong-office-clerical-jobs.htm https://raovat.nguoi-viet.com/classified/viec-van-phong-office-clerical-jobs-browse-97.aspx
+#curl -s -L -o viec-van-phong-office-clerical-jobs.htm https://raovat.nguoi-viet.com/classified/viec-van-phong-office-clerical-jobs-browse-97.aspx
 #cd ../../Unix
 
  #. zrsync.sh
