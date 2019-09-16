@@ -18,13 +18,14 @@ encoding = 'utf-8'
 g = io.open(fn, "w",encoding='utf-8')
 
 fnmd1 = glob.glob('./**/*.htm*',recursive=True)
-fnmd1.extend ( glob.glob('./**/*.txt*',recursive=True))
-fnmd1.extend ( glob.glob('./**/*.md*',recursive=True))
+fnmd1.extend ( glob.glob('./**/*.txt',recursive=True))
+fnmd1.extend ( glob.glob('./**/*.md',recursive=True))
+#fnmd1.extend ( glob.glob('./**/*.ipynb',recursive=True))
 #display(fnmd)
 
 for f in fnmd1:
-    print ( '## [' + f + ']' + '(' + f +')' + "\n")
-    g.write( '## [' + f + ']' + '(' + f +')' + "\n")
+    print ( '#### [' + f + ']' + '(' + f +')' + "\n")
+    g.write( '#### [' + f + ']' + '(' + f +')' + "\n")
 
 g.close()
 
