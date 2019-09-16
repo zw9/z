@@ -1,3 +1,7 @@
+
+logfile=$(basename $0|cut -d. -f1)"_output_"$(uname -n)".txt"
+echo $logfile 
+
 (
 ps -all
 top -b -n 1 |grep -v '0.0  0.'
@@ -12,10 +16,7 @@ service
 free
 lsof|head -n 10
 
-)>sysadmin_rpt.txt
+) &>  $logfile
 
-#gedit ~/Dropbox/txt/sysadmin_rpt.txt &
-#gedit ~/Dropbox/bash/sysadmin_rpt.sh &
-
-xed sysadmin_rpt.txt &
+xed $logfile  &
 xed sysadmin_rpt.sh &

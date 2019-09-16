@@ -1,0 +1,78 @@
+rptone.sh
+Filesystem                                     Size   Used  Avail Capacity iused               ifree %iused  Mounted on
+/dev/disk1s1                                  113Gi   84Gi   26Gi    77% 1536486 9223372036853239321    0%   /
+devfs                                         198Ki  198Ki    0Bi   100%     684                   0  100%   /dev
+/dev/disk1s4                                  113Gi  2.0Gi   26Gi     8%       2 9223372036854775805    0%   /private/var/vm
+map -hosts                                      0Bi    0Bi    0Bi   100%       0                   0  100%   /net
+map auto_home                                   0Bi    0Bi    0Bi   100%       0                   0  100%   /home
+/dev/disk4s1                                  112Gi  212Mi  112Gi     1%     103          4294967176    0%   /Volumes/water120gb
+/dev/disk3s2                                  465Gi  900Ki  464Gi     1%      79 9223372036854775728    0%   /Volumes/Untitled
+/dev/disk3s1                                  465Gi  867Mi  464Gi     1%   32430 9223372036854743377    0%   /Volumes/lawn500gb
+/dev/disk5s1                                  549Mi  496Mi   53Mi    91%    1922          4294965357    0%   /Volumes/RStudio-1.2.1335
+/Users/atang148/Downloads/GitHub Desktop.app  113Gi   82Gi   28Gi    75% 1530976 9223372036853244831    0%   /private/var/folders/fj/ckmkx1px10d7cwhw09zfzks00000gn/T/AppTranslocation/395A65A7-F67E-43CB-9464-90BB1EFCF91D
+/Users/atang148/Dropbox/z/system-admin
+declare -x Apple_PubSub_Socket_Render="/private/tmp/com.apple.launchd.3MecAID1KO/Render"
+declare -x CONDA_DEFAULT_ENV="base"
+declare -x CONDA_EXE="//anaconda3/bin/conda"
+declare -x CONDA_PREFIX="//anaconda3"
+declare -x CONDA_PROMPT_MODIFIER="(base) "
+declare -x CONDA_PYTHON_EXE="//anaconda3/bin/python"
+declare -x CONDA_SHLVL="1"
+declare -x HOME="/Users/atang148"
+declare -x LANG="en_US.UTF-8"
+declare -x LOGNAME="atang148"
+declare -x OLDPWD
+declare -x PATH="//anaconda3/bin://anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin"
+declare -x PWD="/Users/atang148/Dropbox/z/system-admin"
+declare -x SHELL="/bin/bash"
+declare -x SHLVL="2"
+declare -x SSH_AUTH_SOCK="/private/tmp/com.apple.launchd.azfjyZAS3k/Listeners"
+declare -x TERM="xterm-256color"
+declare -x TERM_PROGRAM="Apple_Terminal"
+declare -x TERM_PROGRAM_VERSION="421.2"
+declare -x TERM_SESSION_ID="A9C31A45-5CEE-4F24-A62B-7199217F81BD"
+declare -x TMPDIR="/var/folders/fj/ckmkx1px10d7cwhw09zfzks00000gn/T/"
+declare -x USER="atang148"
+declare -x XPC_FLAGS="0x0"
+declare -x XPC_SERVICE_NAME="0"
+declare -x _CE_CONDA=""
+declare -x _CE_M=""
+TERM_PROGRAM=Apple_Terminal
+TERM=xterm-256color
+SHELL=/bin/bash
+TMPDIR=/var/folders/fj/ckmkx1px10d7cwhw09zfzks00000gn/T/
+Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.3MecAID1KO/Render
+CONDA_SHLVL=1
+TERM_PROGRAM_VERSION=421.2
+CONDA_PROMPT_MODIFIER=(base) 
+TERM_SESSION_ID=A9C31A45-5CEE-4F24-A62B-7199217F81BD
+USER=atang148
+CONDA_EXE=//anaconda3/bin/conda
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.azfjyZAS3k/Listeners
+_CE_CONDA=
+PATH=//anaconda3/bin://anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin
+CONDA_PREFIX=//anaconda3
+PWD=/Users/atang148/Dropbox/z/system-admin
+LANG=en_US.UTF-8
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+_CE_M=
+HOME=/Users/atang148
+SHLVL=2
+LOGNAME=atang148
+CONDA_PYTHON_EXE=//anaconda3/bin/python
+CONDA_DEFAULT_ENV=base
+_=/usr/bin/printenv
+8.0K	..//rsconnect
+1.9M	..//test
+720K	..//healthcare
+3.2M	..//web-scrape
+3.1M	..//html
+ 16K	..//.spyproject
+2.7M	..//system-admin
+140K	..//stock-market
+1.6M	..//.ipynb_checkpoints
+444K	..//file-system
+4.5M	..//.git
+232K	..//.Rproj.user
+ 19M	../

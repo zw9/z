@@ -1,0 +1,90 @@
++ date
+Sun Sep 15 23:47:06 PDT 2019
++ /sbin/ifconfig
++ grep inet
++ awk '{gsub("addr:","",$0);print "lynx " $2}'
+lynx 127.0.0.1
+lynx ::1
+lynx fe80::1%lo0
+lynx fe80::4e3:4c41:d02e:edae%en0
+lynx 192.168.1.13
+lynx fe80::342e:75ff:fe40:2206%awdl0
+lynx fe80::3cfe:e646:f8f0:f8ba%utun0
+lynx fe80::16e4:1de9:ef77:82ca%utun1
+lynx fe80::10d5:1939:1675:fddb%en3
+lynx 169.254.21.103
++ w
+23:47  up 1 day, 12:47, 2 users, load averages: 2.36 2.24 2.20
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+atang148 console  -                Sat11   1day  -
+atang148 s002     -                22:52       6 -bash
++ df -h
+Filesystem                                     Size   Used  Avail Capacity iused               ifree %iused  Mounted on
+/dev/disk1s1                                  113Gi   84Gi   26Gi    77% 1536493 9223372036853239314    0%   /
+devfs                                         198Ki  198Ki    0Bi   100%     684                   0  100%   /dev
+/dev/disk1s4                                  113Gi  2.0Gi   26Gi     8%       2 9223372036854775805    0%   /private/var/vm
+map -hosts                                      0Bi    0Bi    0Bi   100%       0                   0  100%   /net
+map auto_home                                   0Bi    0Bi    0Bi   100%       0                   0  100%   /home
+/dev/disk4s1                                  112Gi  212Mi  112Gi     1%     103          4294967176    0%   /Volumes/water120gb
+/dev/disk3s2                                  465Gi  900Ki  464Gi     1%      79 9223372036854775728    0%   /Volumes/Untitled
+/dev/disk3s1                                  465Gi  867Mi  464Gi     1%   32430 9223372036854743377    0%   /Volumes/lawn500gb
+/dev/disk5s1                                  549Mi  496Mi   53Mi    91%    1922          4294965357    0%   /Volumes/RStudio-1.2.1335
+/Users/atang148/Downloads/GitHub Desktop.app  113Gi   82Gi   28Gi    75% 1530976 9223372036853244831    0%   /private/var/folders/fj/ckmkx1px10d7cwhw09zfzks00000gn/T/AppTranslocation/395A65A7-F67E-43CB-9464-90BB1EFCF91D
++ last
++ head
+atang148  ttys002                   Sun Sep 15 22:52   still logged in
+atang148  ttys004                   Sun Sep 15 02:28 - 02:28  (00:00)
+atang148  ttys003                   Sat Sep 14 20:07 - 20:07  (00:00)
+atang148  ttys002                   Sat Sep 14 18:35 - 18:35  (00:00)
+atang148  ttys001                   Sat Sep 14 18:26 - 18:26  (00:00)
+atang148  ttys000                   Sat Sep 14 12:06 - 12:06  (00:00)
+atang148  ttys000                   Sat Sep 14 11:19 - 11:19  (00:00)
+atang148  console                   Sat Sep 14 11:00   still logged in
+reboot    ~                         Sat Sep 14 10:59 
+
++ ps auxc
++ egrep -v ' 0.0 '
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+atang148           899 116.4  5.9  7416328 495276   ??  R    Sat11AM  74:40.90 Dropbox
+atang148           812  24.7  2.3  6896304 189352   ??  S    Sat11AM  29:43.75 Finder
+root                76  21.1  0.6  4499852  50952   ??  Ss   Sat10AM   8:19.04 mds
+root               355  13.5  1.0  5359584  82064   ??  Ss   Sat11AM   8:16.91 mds_stores
+atang148         23680   8.5  1.3  4470136 110032   ??  Ss   11:22PM   1:16.02 QuickLookSatellite
+_windowserver      233   5.2  0.9  6799356  71496   ??  Ss   Sat10AM  42:56.17 WindowServer
+atang148         13544   5.2  2.4  5445320 199020   ??  S     9:23PM   4:43.84 Code Helper
+atang148           827   2.0  0.2  4394176  19168   ??  Ss   Sat11AM   0:58.85 garcon
+root               113   1.9  0.1  4335644   9128   ??  Ss   Sat10AM   0:55.51 bluetoothd
+atang148         11290   1.3  0.3  4535912  24716   ??  S     2:37PM   4:33.09 IDLE
+atang148         13538   0.7  1.0  5403476  82092   ??  S     9:23PM   1:54.63 Electron
+root                 1   0.6  0.2  4330796  15448   ??  Ss   Sat10AM   3:58.00 launchd
+atang148           898   0.6  0.2  4332908  18468   ??  S    Sat11AM   0:09.01 cloudpaird
+atang148           875   0.5  0.2  4377148  16776   ??  Ss   Sat11AM   0:24.55 garcon
+atang148           811   0.5  0.4  4921580  36664   ??  S    Sat11AM   0:31.35 SystemUIServer
+atang148         11299   0.5  0.2  4305828  13472   ??  S     2:37PM   2:03.56 Python
+atang148         22613   0.4  1.7  4886488 143560   ??  S    10:20PM   0:41.84 QtWebEngineProcess
+atang148           402   0.4  0.4  4334888  34072   ??  S    Sat11AM   0:21.81 UserEventAgent
+root                62   0.3  0.3  4349632  27924   ??  Ss   Sat10AM   0:56.11 systemstats
+atang148           443   0.3  0.5  4373728  38280   ??  S    Sat11AM   0:41.15 sharingd
+atang148           458   0.2  0.1  4333504   9668   ??  S    Sat11AM   0:12.12 useractivityd
+root                86   0.2  0.1  4347312  12544   ??  Ss   Sat10AM   0:48.05 opendirectoryd
+atang148         13542   0.1  0.5  4730516  41988   ??  S     9:23PM   1:35.62 Code Helper
+atang148         22609   0.1  0.9  4507000  75404   ??  S    10:20PM   0:16.12 rsession
+atang148         12150   0.1  0.6  4367192  49760   ??  S     3:24PM   0:38.86 python
+_hidd              114   0.1  0.1  4335280   7616   ??  Ss   Sat10AM   4:39.92 hidd
+root               437   0.1  0.1  4332740   6624   ??  Ss   Sat11AM   0:11.47 wirelessproxd
+atang148           939   0.1  0.4  4792752  36284   ??  S    Sat11AM   0:21.94 Dropbox Web Helper
+root                69   0.1  0.3  4423900  24968   ??  Ss   Sat10AM   0:42.44 logd
++ du -d 1 ../
+16	..//rsconnect
+3952	..//test
+1440	..//healthcare
+6616	..//web-scrape
+6664	..//html
+32	..//.spyproject
+5720	..//system-admin
+280	..//stock-market
+3320	..//.ipynb_checkpoints
+888	..//file-system
+9312	..//.git
+464	..//.Rproj.user
+39376	../

@@ -5,11 +5,11 @@ set -x
 
 #!/bin/bash -v 
 
-logfile="output_"$(basename $0|cut -d. -f1)"_"$(uname -n)".txt"
+logfile=$(basename $0|cut -d. -f1)"_output_"$(uname -n)".txt"
 echo $logfile 
 
 # export PS1='\u@\h:\w \d \@\$'
-(
+( 
     date 
 /sbin/ifconfig |grep 'inet'|awk '{gsub("addr:","",$0);print "lynx " $2}'
 

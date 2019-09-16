@@ -1,0 +1,94 @@
+  UID   PID  PPID        F CPU PRI NI       SZ    RSS WCHAN     S             ADDR TTY           TIME CMD
+  501 23961 13544     4006   0  31  0  4296528   1596 -      Ss+                 0 ttys001    0:00.05 /bin/bash -l
+    0 22945 22944     4106   0  31  0  4296456   4924 -      Ss                  0 ttys002    0:00.03 login -pf atang148
+  501 22946 22945     4006   0  31  0  4296528   1460 -      S                   0 ttys002    0:00.19 -bash
+  501 24415 22946     4006   0  31  0  4269644   1148 -      S+                  0 ttys002    0:00.01 bash sysadmin_rpt.sh
+  501 24420 24415        6   0  31  0  4269644    540 -      S+                  0 ttys002    0:00.00 bash sysadmin_rpt.sh
+    0 24421 24420     4106   0  31  0  4268588   1104 -      R+                  0 ttys002    0:00.00 ps -all
+invalid option or syntax: -b
+top usage: top
+		[-a | -d | -e | -c <mode>]
+		[-F | -f]
+		[-h]
+		[-i <interval>]
+		[-l <samples>]
+		[-ncols <columns>]
+		[-o <key>] [-O <secondaryKey>]
+			keys: pid (default), command, cpu, cpu_me, cpu_others, csw,
+				time, threads, ports, mregion, mem, rprvt, purg, vsize, vprvt,
+				kprvt, kshrd, pgrp, ppid, state, uid, wq, faults, cow, user,
+				msgsent, msgrecv, sysbsd, sysmach, pageins, boosts, instrs, cycles
+		[-R | -r]
+		[-S]
+		[-s <delay>]
+		[-n <nprocs>]
+		[-stats <key(s)>]
+		[-pid <processid>]
+		[-user <username>]
+		[-U <username>]
+		[-u]
+
+23:50  up 1 day, 12:51, 2 users, load averages: 2.12 2.27 2.22
+23:50  up 1 day, 12:51, 2 users, load averages: 2.12 2.27 2.22
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+atang148 console  -                Sat11   1day  -
+atang148 s002     -                22:52       - w
+atang148 console  Sep 14 11:00 
+atang148 ttys002  Sep 15 22:52 
+doadmin.sh
+doadmin_output_kaleinfo.local.txt
+html_header.txt
+html_tail.txt
+rptone.sh
+rptone_kaleinfo_local.txt
+sysadmin.html
+sysadmin.ipynb
+sysadmin_inc.py
+sysadmin_rpt.sh
+sysadmin_rpt_output_kaleinfo.local.txt
+sysinfo.sh
+sysinfo_kaleinfo_local.htm
+sysinfo_kaleinfo_local.txt
+system_commands.ipynb
+zcurl.sh
+TERM_PROGRAM=Apple_Terminal
+TERM=xterm-256color
+SHELL=/bin/bash
+TMPDIR=/var/folders/fj/ckmkx1px10d7cwhw09zfzks00000gn/T/
+Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.3MecAID1KO/Render
+CONDA_SHLVL=1
+TERM_PROGRAM_VERSION=421.2
+CONDA_PROMPT_MODIFIER=(base) 
+TERM_SESSION_ID=A9C31A45-5CEE-4F24-A62B-7199217F81BD
+USER=atang148
+CONDA_EXE=//anaconda3/bin/conda
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.azfjyZAS3k/Listeners
+_CE_CONDA=
+PATH=//anaconda3/bin://anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin
+CONDA_PREFIX=//anaconda3
+PWD=/Users/atang148/Dropbox/z/system-admin
+LANG=en_US.UTF-8
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+_CE_M=
+HOME=/Users/atang148
+SHLVL=2
+LOGNAME=atang148
+CONDA_PYTHON_EXE=//anaconda3/bin/python
+CONDA_DEFAULT_ENV=base
+_=/usr/bin/printenv
+atang148
+11 * * * * bash /Users/atang148/Dropbox/wcode/mkrpt.sh
+
+sysadmin_rpt.sh: line 15: service: command not found
+sysadmin_rpt.sh: line 16: free: command not found
+COMMAND     PID     USER   FD      TYPE             DEVICE   SIZE/OFF       NODE NAME
+loginwind   108 atang148  cwd       DIR                1,4       1024          2 /
+loginwind   108 atang148  txt       REG                1,4    1237152 8618309860 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+loginwind   108 atang148  txt       REG                1,4      21024 8618732402 /Library/Preferences/Logging/.plist-cache.RHBTKX1z
+loginwind   108 atang148  txt       REG                1,4   27154336 8618712362 /usr/share/icu/icudt62l.dat
+loginwind   108 atang148  txt       REG                1,4     268600 8593864630 /Library/Application Support/CrashReporter/SubmitDiagInfo.domains
+loginwind   108 atang148  txt       REG                1,4     115776 8618460305 /System/Library/LoginPlugins/DisplayServices.loginPlugin/Contents/MacOS/DisplayServices
+loginwind   108 atang148  txt       REG                1,4     114224 8618460356 /System/Library/LoginPlugins/FSDisconnect.loginPlugin/Contents/MacOS/FSDisconnect
+loginwind   108 atang148  txt       REG                1,4    4186528 8618304981 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+loginwind   108 atang148  txt       REG                1,4     510512 8618304985 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantLightAppearance.car
