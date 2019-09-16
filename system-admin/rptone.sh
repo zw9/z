@@ -15,18 +15,18 @@ export
 alias
 printenv
 
-du / -h -d 1
-du /data -h -d 1
-du $dropbox -h -d 1
+du  -d 1 -h ../ 
+#du /data -h -d 1
+#du $dropbox -h -d 1
 
-find $task -mindepth 1   -maxdepth 1 -type f 
+#find $task -mindepth 1   -maxdepth 1 -type f 
 
-ls $task -R
+#ls $task -R
 
 }
-stepone >$rpt/${fn}.txt
+stepone >${fn}.txt
 
-tail $rpt/${fn}.txt
+tail ${fn}.txt
 
 : '
 bash $task/fn/rptone.sh

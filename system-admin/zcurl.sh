@@ -5,16 +5,16 @@ mkdir -p ../html
 mkdir -p ../html/dl
 cd ../html/dl
 
-curl -s http://localhost  > index_php_`hostname`.htm
-curl -s http://localhost/sysinfo.php > sysinfo_`hostname`.htm
+#curl -s http://localhost  > index_php_`hostname`.htm
+#curl -s http://localhost/sysinfo.php > sysinfo_`hostname`.htm
 
-curl -s http://192.168.1.{12}  > index_php.htm
-svr=("6" ) #"12" "16")
+#curl -s http://192.168.1.{12}  > index_php.htm
+#svr=("6" ) #"12" "16")
 
-for a in ${svr[@]}
-do
-curl  -s http://192.168.1.$a/sysinfo.php > sysinfo_$a.htm
-done
+#for a in ${svr[@]}
+#do
+#curl  -s http://192.168.1.$a/sysinfo.php > sysinfo_$a.htm
+#done
 
 #curl -L jancox.com > jancox.htm
 
@@ -62,6 +62,6 @@ curl -s -L -o dam-bop-thu-gian-massage-relax.htm https://raovat.nguoi-viet.com/c
 curl -s -L -o sang-nhuong-co-so-business-opportunities.htm https://raovat.nguoi-viet.com/classified/sang-nhuong-co-so-business-opportunities-browse-92.aspx
 
 curl -s -L -o viec-van-phong-office-clerical-jobs.htm https://raovat.nguoi-viet.com/classified/viec-van-phong-office-clerical-jobs-browse-97.aspx
-cd ../../Unix
+#cd ../../Unix
 
- . zrsync.sh
+ #. zrsync.sh

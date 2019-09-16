@@ -1,0 +1,63 @@
+  UID   PID  PPID        F CPU PRI NI       SZ    RSS WCHAN     S             ADDR TTY           TIME CMD
+  501 13560 13544     4006   0  31  0  4296528   1204 -      Ss+                 0 ttys000    0:00.02 /bin/bash -l
+  501 13602 13544     4006   0  31  0  4296528   1340 -      Ss+                 0 ttys001    0:00.12 /bin/bash -l
+    0 22945 22944     4106   0  31  0  4296456   5796 -      Ss                  0 ttys002    0:00.03 login -pf atang148
+  501 22946 22945     4006   0  31  0  4296528   1700 -      S                   0 ttys002    0:00.14 -bash
+  501 23238 22946     4006   0  31  0  4285792   1216 -      S+                  0 ttys002    0:00.02 info du
+  501 23533 23338     4006   0  31  0  4278860   1156 -      Ss+                 0 ttys003    0:00.01 /bin/sh -c  . ./sysadmin_rpt.sh
+  501 23534 23533        6   0  31  0  4288076    564 -      S+                  0 ttys003    0:00.00 /bin/sh -c  . ./sysadmin_rpt.sh
+    0 23535 23534     4106   0  31  0  4268580   1100 -      R+                  0 ttys003    0:00.00 ps -all
+23:17  up 1 day, 12:18, 2 users, load averages: 2.62 2.27 2.12
+23:17  up 1 day, 12:18, 2 users, load averages: 2.62 2.27 2.12
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+atang148 console  -                Sat11   1day  -
+atang148 s002     -                22:52       8 info du
+atang148 console  Sep 14 11:00 
+atang148 ttys002  Sep 15 22:52 
+doadmin.sh
+output_bash_kaleinfo.local.txt
+rptone.sh
+sysadmin.html
+sysadmin.ipynb
+sysadmin_inc.py
+sysadmin_rpt.sh
+sysadmin_rpt.txt
+sysinfo.sh
+system_commands.ipynb
+zcurl.sh
+TERM=xterm-color
+SHELL=/bin/bash
+CLICOLOR=1
+TMPDIR=/var/folders/fj/ckmkx1px10d7cwhw09zfzks00000gn/T/
+CONDA_SHLVL=1
+Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.3MecAID1KO/Render
+CONDA_PROMPT_MODIFIER=(base) 
+LC_ALL=en_US.UTF-8
+USER=atang148
+CONDA_EXE=//anaconda3/bin/conda
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.azfjyZAS3k/Listeners
+KERNEL_LAUNCH_TIMEOUT=40
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0
+JPY_PARENT_PID=22892
+PAGER=cat
+_CE_CONDA=
+CONDA_ROOT=//anaconda3
+PATH=//anaconda3/bin://anaconda3/condabin:/usr/bin:/bin:/usr/sbin:/sbin
+CONDA_PREFIX=//anaconda3
+PWD=/Users/atang148/Dropbox/z/system-admin
+MPLBACKEND=module://ipykernel.pylab.backend_inline
+LANG=en_US.UTF-8
+XPC_FLAGS=0x0
+_CE_M=
+XPC_SERVICE_NAME=0
+SHLVL=3
+HOME=/Users/atang148
+CONDA_PYTHON_EXE=//anaconda3/bin/python
+LOGNAME=atang148
+LC_CTYPE=UTF-8
+CONDA_DEFAULT_ENV=base
+GIT_PAGER=cat
+_=/usr/bin/printenv
+atang148
+11 * * * * bash /Users/atang148/Dropbox/wcode/mkrpt.sh
+
