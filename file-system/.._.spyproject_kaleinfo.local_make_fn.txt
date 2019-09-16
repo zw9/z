@@ -1,4 +1,0 @@
-../.spyproject/workspace.ini
-../.spyproject/codestyle.ini
-../.spyproject/vcs.ini
-../.spyproject/encoding.ini

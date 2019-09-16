@@ -1,7 +1,0 @@
-./.ipynb_checkpoints/filelist-checkpoint.Rmd
-./.ipynb_checkpoints/fn_inc-checkpoint.md
-./.ipynb_checkpoints/filesystemplay-checkpoint.py
-./.ipynb_checkpoints/ls_IOS-checkpoint.sh
-./.ipynb_checkpoints/make_fn-checkpoint.sh
-./.ipynb_checkpoints/Untitled-checkpoint.ipynb
-./.ipynb_checkpoints/Exploring_File_System-checkpoint.html

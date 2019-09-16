@@ -1,2 +1,0 @@
-../healthcare/cms_play.html
-../healthcare/cms_play.Rmd

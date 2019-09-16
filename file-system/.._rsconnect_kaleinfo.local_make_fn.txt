@@ -1,2 +1,0 @@
-../rsconnect/documents/TEST copy.Rmd/rpubs.com/rpubs/Publish Document.dcf
-../rsconnect/documents/TEST.Rmd/rpubs.com/rpubs/Publish Document.dcf
