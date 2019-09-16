@@ -12,6 +12,8 @@ import io
 
 
 fn=  "fn_inc.md"
+encoding = 'utf-8'
+
 g = io.open(fn, "w",encoding='utf-8')
 
 fnmd = glob.glob('./**/*',recursive=True)
@@ -19,8 +21,7 @@ fnmd = glob.glob('./**/*',recursive=True)
 #display(fnmd)
 #print(fnmd)
 for e in fnmd:
-    e_txt="##[" + e +"]("+ e + ")\n"
+    e_txt="##[" + e +"]("+ e + ")"
+    g.write(e_txt)
     print(e_txt)
-    g.write(e_txt )
-
 g.close

@@ -1,0 +1,6 @@
+../stock-market/.DS_Store
+../stock-market/stock_inc.py
+../stock-market/google-finance.ipynb
+../stock-market/zstock.sh
+../stock-market/1_stockrpt.ipynb
+../stock-market/finance-yahoo.ipynb

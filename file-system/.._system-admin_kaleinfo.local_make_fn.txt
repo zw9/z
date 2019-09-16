@@ -1,0 +1,9 @@
+../system-admin/sysadmin_inc.py
+../system-admin/sysinfo.sh
+../system-admin/doadmin.sh
+../system-admin/sysadmin.ipynb
+../system-admin/system_commands.ipynb
+../system-admin/rptone.sh
+../system-admin/sysadmin.html
+../system-admin/zcurl.sh
+../system-admin/sysadmin_rpt.sh
