@@ -1,6 +1,6 @@
 #
 fn=$(basename $1|cut -d_ -f1)_
-fn=$(uname -a)_$(basename $0|cut -d. -f1)
+fn=$(basename $0|cut -d. -f1)_$(uname -n)
 fn=${fn//[^a-z A-Z 0-9]/_}
 fn=${fn//\:/}
 fn=${fn//\ /_}
@@ -9,9 +9,9 @@ echo $fn
 
 (
 # cd /run/user/1000/gvfs/ftp:host=192.168.1.1/shares/USB_Storage/Unix
-mkdir -p $html
-mkdir -p $html/dl
-cd $html/dl
+mkdir -p ../html
+mkdir -p ../html/dl
+cd ../html/dl
 
 export pick="{unh,amzn,msft,voo,fb,spy,qqq,fxi,vwo,wdc,rht,Gild,aapl,goog,dis}"
 
@@ -28,7 +28,7 @@ curl  -s -L https://finance.google.com/finance?q={unh,amzn,msft,voo,fb,spy,qqq,f
 curl -s -L  https://www.marketwatch.com/investing/stock/$pick/{profile,news,charts,financials,historical,analystestimates,options,secfilings,insideractions} > marketwatch.htm
 
 curl -s -L  https://www.marketwatch.com/investing/stock/$pick>marketwatch_summary.htm
- )>$rpt/$fn.txt
+ )>$fn.txt
 
 #cd ../../Unix
 

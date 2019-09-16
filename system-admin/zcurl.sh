@@ -47,7 +47,7 @@ curl -s -L https://www.zacks.com/stock/quote/UNH >UNH_zacks.htm
 
 # curl -L  "http://www.google.com/finance?q=NSE:UNH"
 
-curl  -s -o UNH_googlefinance.htm  -L https://finance.google.com/finance?q=UNH
+# curl  -s -o UNH_googlefinance.htm  -L https://finance.google.com/finance?q=UNH
 
 #curl -o optumsearch.htm -L "https://www.google.com/search?q=optum+reports"
 

@@ -1,6 +1,6 @@
 import glob,os
 import sqlite3
-sqlitedb = sqlite3.connect('/home/b4gone/sqlite/stock_db.sqlite')
+sqlitedb = sqlite3.connect('stock_db.sqlite')
 from ipywidgets import widgets
 from IPython.display import display
 from ipywidgets import interactive
