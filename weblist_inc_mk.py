@@ -17,6 +17,12 @@ encoding = 'utf-8'
 
 g = io.open(fn, "w",encoding='utf-8')
 
+
+fnhtml=  "weblist_inc.html"
+encoding = 'utf-8'
+
+gfnhtml = io.open(fnhtml, "w",encoding='utf-8')
+
 fnmd1 = glob.glob('./**/*.htm*',recursive=True)
 fnmd1.extend ( glob.glob('./**/*.txt',recursive=True))
 fnmd1.extend ( glob.glob('./**/*.md',recursive=True))
@@ -26,7 +32,8 @@ fnmd1.extend ( glob.glob('./**/*.md',recursive=True))
 for f in fnmd1:
     print ( '#### [' + f + ']' + '(' + f +')' + "\n")
     g.write( '#### [' + f + ']' + '(' + f +')' + "\n")
+    gfnhtml.write( '<a href="' + f + '">' + f +'</a><br>' + "\n")
 
 g.close()
-
+gfnhtml.close()
         
