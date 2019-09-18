@@ -1,7 +1,0 @@
-todo list
-create projects in r and py sh
-git@github.com:atang148/z.git
-use IDE:Rstudio, spyder, vcode, xcode
-
-use github to push changes to github pages
-
