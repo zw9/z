@@ -27,7 +27,7 @@ def fetch_fnc(url,cl):
     TBLRoll=soup.find_all( class_=cl)
     for each in TBLRoll:
         if each.get_text():
-            print("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') +"  ")
+            #print("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') +"  ")
             f.write("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') +"  ")
     f.close()
 

@@ -17,12 +17,14 @@ import glob
 #!pwd
 
 fn="weblist_inc.md"
+print(fn)
 encoding = 'utf-8'
 
 g = io.open(fn, "w",encoding='utf-8')
 
 
 fnhtml=  "weblist_inc.html"
+print(fnhtml)
 encoding = 'utf-8'
 
 gfnhtml = io.open(fnhtml, "w",encoding='utf-8')
@@ -34,7 +36,7 @@ fnmd1.extend ( glob.glob('./**/*.md',recursive=True))
 #display(fnmd)
 
 for f in fnmd1:
-    print ( '#### [' + f + ']' + '(' + f +')' + "\n")
+    #print ( '#### [' + f + ']' + '(' + f +')' + "\n")
     g.write( '#### [' + f + ']' + '(' + f +')' + "\n")
     gfnhtml.write( '<a href="' + f + '">' + f +'</a><br>' + "\n")
 
