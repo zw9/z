@@ -1,18 +1,22 @@
-#!/usr/bin/env python3
+#!//anaconda3/bin/python3
+
+##!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 Created on Sun Sep 15 22:27:14 2019
 
 @author: zzz
+
 """
 
-#import re
+import re
 import io
 import glob
 
 #!pwd
 
-fn=  "weblist_inc.md"
+fn="weblist_inc.md"
 encoding = 'utf-8'
 
 g = io.open(fn, "w",encoding='utf-8')
