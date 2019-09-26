@@ -1,0 +1,324 @@
+https://www.cms.gov/Outreach-and-Education/Outreach-and-Education.html
+Outreach-and-Education.txt
+## Outreach & Education - Centers for Medicare & Medicaid Services
+The page could not be loaded. The CMS.gov Web site currently does not fully support browsers with 
+			“JavaScript” disabled. Please enable “JavaScript” and revisit this page or proceed with browsing CMS.gov with 
+			“JavaScript” disabled. 
+			
+			Instructions for enabling “JavaScript” can be found here. 
+				 Please note that if you choose 
+			to continue without enabling “JavaScript” certain functionalities on this website may not be available.
+			
+
+
+
+
+                  Home - Opens in a new window
+
+
+
+
+
+
+About CMS
+
+
+
+
+
+Newsroom
+
+
+
+
+
+
+                  Archive - Opens in a new window
+
+
+
+
+
+Share
+
+
+
+Help
+
+
+
+Print
+
+
+Main Menu
+
+
+Medicare
+
+
+
+Medicaid/CHIP
+
+
+
+Medicare-Medicaid Coordination
+
+
+
+Private Insurance
+
+
+
+Innovation Center
+
+
+
+Regulations & Guidance
+
+
+
+Research, Statistics, Data & Systems
+
+
+
+Outreach & Education
+
+
+Outreach & Education
+
+Learn
+
+ Get training
+
+
+ Earn credit
+
+
+ Attend events
+
+
+ Find resources
+
+
+Partner with us
+
+ Become a partner
+
+
+ Partner Resources
+
+
+Reach out
+
+ Find tools to help you help others
+
+
+ Get digital media
+
+
+Look up topics
+
+ ACA & Marketplace
+
+
+ Medicare
+
+
+ Medicaid
+
+
+ CHIP
+
+
+ American Indian/Alaska Native
+
+
+ Special populations
+
+
+ Quality of care
+
+
+ Fraud & abuse
+
+
+ States
+
+
+ Privacy
+
+
+ Health conditions & campaigns
+
+
+Find your provider type
+
+ Physicians & other health professionals
+
+
+ Facilities
+
+
+ Health & drug plans
+
+
+ Employers & unions
+
+
+CMS news
+
+Footer
+
+CMS & HHS Websites
+
+
+
+									Medicare.gov - Opens in a new window
+
+
+
+
+
+									MyMedicare.gov - Opens in a new window
+
+
+
+
+
+									Medicaid.gov - Opens in a new window
+
+
+
+
+
+									InsureKidsNow.gov - Opens in a new window
+
+
+
+
+
+									HealthCare.gov - Opens in a new window
+
+
+
+
+
+									HHS.gov/Open - Opens in a new window
+
+
+
+Tools
+
+
+
+
+										Acronyms - Opens in a new window
+
+
+
+
+
+
+
+										Contacts - Opens in a new window
+
+
+
+
+
+
+
+										Glossary - Opens in a new window
+
+
+
+
+
+
+
+										Archive - Opens in a new window
+
+
+
+
+
+							Helpful Links
+						
+
+
+Web Policies & Important Links
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.developer.cms.gov/" title="For Developers">For Developers</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://developer.cms.gov/" title="For Developers">For Developers</a>');
+                    }
+                  
+
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://www.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    }
+                  
+
+
+
+ Privacy settings
+
+
+
+ Plain Language
+
+
+
+Freedom of Information Act
+
+
+
+
+										No
+										Fear Act
+									
+
+
+
+
+										Nondiscrimination/Accessibility
+									
+
+
+
+
+										HHS.gov
+										 - Opens in a new window
+
+
+
+
+
+										Inspector General
+										 - Opens in a new window
+
+
+
+
+
+										USA.gov
+										 - Opens in a new window
+
+
+
+
+Help with file formats & plug-ins
+
+

@@ -1,0 +1,280 @@
+http://www.cms.gov/cmsfeeds/
+cmsfeeds.txt
+## RSS Feeds and Podcasts - Centers for Medicare & Medicaid Services
+The page could not be loaded. The CMS.gov Web site currently does not fully support browsers with 
+			“JavaScript” disabled. Please enable “JavaScript” and revisit this page or proceed with browsing CMS.gov with 
+			“JavaScript” disabled. 
+			
+			Instructions for enabling “JavaScript” can be found here. 
+				 Please note that if you choose 
+			to continue without enabling “JavaScript” certain functionalities on this website may not be available.
+			
+
+
+
+
+                  Home - Opens in a new window
+
+
+
+
+
+
+About CMS
+
+
+
+
+
+Newsroom
+
+
+
+
+
+
+                  Archive - Opens in a new window
+
+
+
+
+
+Share
+
+
+
+Help
+
+
+
+Print
+
+
+Main Menu
+
+
+Medicare
+
+
+
+Medicaid/CHIP
+
+
+
+Medicare-Medicaid Coordination
+
+
+
+Private Insurance
+
+
+
+Innovation Center
+
+
+
+Regulations & Guidance
+
+
+
+Research, Statistics, Data & Systems
+
+
+
+Outreach & Education
+
+
+RSS Feeds and Podcasts
+
+List of Podcasts
+
+RSS Feeds and Podcasts
+	
+
+CMS is making available a series of RSS feeds and podcasts to improve our communication on important news and initiatives. We will continue to update and expand the types of information available via RSS and podcasting over the upcoming months.
+
+What's an RSS feed? RSS, or Really Simple Syndication, allows you to receive news summaries from our websites whenever new information is added.
+
+What's a podcast?A podcast is a multimedia version of an RSS feed that allows you to receive audio or video content from our websites whenever new information is added.
+
+For additional help or background on these technologies, please see the links below.
+
+Related Links
+
+
+Medicare RSS News Service - Opens in a new window
+
+
+
+Help with Podcasting - Opens in a new window
+
+
+
+
+Help with RSS Feeds - Opens in a new window
+
+
+
+
+									Page last Modified: 04/06/2016 10:10 AM
+							
+
+
+Help with File Formats and Plug-Ins
+
+
+Footer
+
+CMS & HHS Websites
+
+
+
+									Medicare.gov - Opens in a new window
+
+
+
+
+
+									MyMedicare.gov - Opens in a new window
+
+
+
+
+
+									Medicaid.gov - Opens in a new window
+
+
+
+
+
+									InsureKidsNow.gov - Opens in a new window
+
+
+
+
+
+									HealthCare.gov - Opens in a new window
+
+
+
+
+
+									HHS.gov/Open - Opens in a new window
+
+
+
+Tools
+
+
+
+
+										Acronyms - Opens in a new window
+
+
+
+
+
+
+
+										Contacts - Opens in a new window
+
+
+
+
+
+
+
+										Glossary - Opens in a new window
+
+
+
+
+
+
+
+										Archive - Opens in a new window
+
+
+
+
+
+							Helpful Links
+						
+
+
+Web Policies & Important Links
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.developer.cms.gov/" title="For Developers">For Developers</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://developer.cms.gov/" title="For Developers">For Developers</a>');
+                    }
+                  
+
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://www.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    }
+                  
+
+
+
+ Privacy settings
+
+
+
+ Plain Language
+
+
+
+Freedom of Information Act
+
+
+
+
+										No
+										Fear Act
+									
+
+
+
+
+										Nondiscrimination/Accessibility
+									
+
+
+
+
+										HHS.gov
+										 - Opens in a new window
+
+
+
+
+
+										Inspector General
+										 - Opens in a new window
+
+
+
+
+
+										USA.gov
+										 - Opens in a new window
+
+
+
+
+Help with file formats & plug-ins
+
+

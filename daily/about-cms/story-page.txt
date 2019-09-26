@@ -1,0 +1,323 @@
+https://www.cms.gov/about-cms/story-page/reducing-opioid-misuse.html
+story-page.txt
+## Reducing Opioid Misuse - Centers for Medicare & Medicaid Services
+The page could not be loaded. The CMS.gov Web site currently does not fully support browsers with 
+			“JavaScript” disabled. Please enable “JavaScript” and revisit this page or proceed with browsing CMS.gov with 
+			“JavaScript” disabled. 
+			
+			Instructions for enabling “JavaScript” can be found here. 
+				 Please note that if you choose 
+			to continue without enabling “JavaScript” certain functionalities on this website may not be available.
+			
+
+
+
+
+                  Home - Opens in a new window
+
+
+
+
+
+
+About CMS
+
+
+
+
+
+Newsroom
+
+
+
+
+
+
+                  Archive - Opens in a new window
+
+
+
+
+
+Share
+
+
+
+Help
+
+
+
+Print
+
+
+Main Menu
+
+
+Medicare
+
+
+
+Medicaid/CHIP
+
+
+
+Medicare-Medicaid Coordination
+
+
+
+Private Insurance
+
+
+
+Innovation Center
+
+
+
+Regulations & Guidance
+
+
+
+Research, Statistics, Data & Systems
+
+
+
+Outreach & Education
+
+
+Reducing Opioid Misuse 
+
+We're responding to the opioid epidemic by promoting safe and responsible pain management, making sure patients can access treatment for opioid use disorder, and using data to target prevention and treatment.
+
+See our roadmap.
+
+Learn how we're fighting the opioid crisis.
+
+*New* Read our RFI and let us know by 5pm ET on 10/11/19 how we can address the opioid crisis with our Action Plan.
+
+Prevention
+
+Stop improper prescribing
+
+Enhance diagnosis of opioid use disorder
+
+Encourage non-opioid pain treatments
+
+Treatment
+
+Make sure people can access treatment
+
+Give patients choices
+
+Support innovation
+
+Data
+
+Understand opioid use patterns
+
+Promote data sharing
+
+Watch trends to see if solutions are working
+
+Resources
+
+For payers
+
+For health care providers
+
+For states
+
+*New* Read about our $48.5 million state grants to help with treatment & recovery
+*New* See a video & infographic about our state grants
+
+
+
+*New* Read about our $48.5 million state grants to help with treatment & recovery
+
+*New* See a video & infographic about our state grants
+
+For partners
+
+          
+
+ 
+
+We’re just part of the solution. See what’s going on across HHS.
+
+Featured video
+
+
+**It is recommended to view the video below with Flash disabled in Chrome, Firefox, or Internet Explorer 11 browsers, due to known usability issues with other browsers.
+
+
+SUPPORT Act Planning Grant Award
+
+ “President Trump and HHS have made fighting the opioid crisis a top priority. That includes working to expand the set of tools we have for solving this crisis, such as new therapies for treating opioid use disorder and helping people stay in recovery…Evidence-based treatment for addiction saves lives, and HHS will continue to support efforts to develop new treatments and provide approved treatments to those in need.”
+-HHS Secretary Alex Azar  Twitter: @CMSgov
+
+“President Trump and HHS have made fighting the opioid crisis a top priority. That includes working to expand the set of tools we have for solving this crisis, such as new therapies for treating opioid use disorder and helping people stay in recovery…
+
+Evidence-based treatment for addiction saves lives, and HHS will continue to support efforts to develop new treatments and provide approved treatments to those in need.”
+
+-HHS Secretary Alex Azar
+
+ Twitter: @CMSgov
+
+YouTube requires JavaScript to view videos. You will need the latest version of Adobe Flash Player to watch the video.
+
+Stay connected with CMS
+
+Footer
+
+CMS & HHS Websites
+
+
+
+									Medicare.gov - Opens in a new window
+
+
+
+
+
+									MyMedicare.gov - Opens in a new window
+
+
+
+
+
+									Medicaid.gov - Opens in a new window
+
+
+
+
+
+									InsureKidsNow.gov - Opens in a new window
+
+
+
+
+
+									HealthCare.gov - Opens in a new window
+
+
+
+
+
+									HHS.gov/Open - Opens in a new window
+
+
+
+Tools
+
+
+
+
+										Acronyms - Opens in a new window
+
+
+
+
+
+
+
+										Contacts - Opens in a new window
+
+
+
+
+
+
+
+										Glossary - Opens in a new window
+
+
+
+
+
+
+
+										Archive - Opens in a new window
+
+
+
+
+
+							Helpful Links
+						
+
+
+Web Policies & Important Links
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.developer.cms.gov/" title="For Developers">For Developers</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://developer.cms.gov/" title="For Developers">For Developers</a>');
+                    }
+                  
+
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://www.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    }
+                  
+
+
+
+ Privacy settings
+
+
+
+ Plain Language
+
+
+
+Freedom of Information Act
+
+
+
+
+										No
+										Fear Act
+									
+
+
+
+
+										Nondiscrimination/Accessibility
+									
+
+
+
+
+										HHS.gov
+										 - Opens in a new window
+
+
+
+
+
+										Inspector General
+										 - Opens in a new window
+
+
+
+
+
+										USA.gov
+										 - Opens in a new window
+
+
+
+
+Help with file formats & plug-ins
+
+

@@ -5,31 +5,42 @@
 
 import requests
 from bs4 import BeautifulSoup
-
+import re
+import io
+import os
 
 # In[2]:
 
 
 def fetch_fnc(url, cl):
-    import re
-    import io
-    fn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-1]) + ".txt"
-    fn
-    encoding = 'utf-8'
-    f = io.open(fn, "w", encoding='utf-8')
-    page = requests.get(url)
-    page.status_code
-    soup = BeautifulSoup(page.content, 'html.parser')
-    ctl01_PageHead = soup.title
-    print("## " + ctl01_PageHead.get_text() + "  ")
-    f.write("## " + ctl01_PageHead.get_text() + "  ")
-    TBLRoll = soup.find_all(class_=cl)
-    for each in TBLRoll:
-        if each.get_text():
-            # print("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') +"  ")
-            f.write("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') + "  ")
-    f.close()
+    pathn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-2])
+    print(pathn)
+    try:
+        os.makedirs(pathn,exist_ok=True)
+    except:
+        print("something wrong with: " + pathn)
 
+    fn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-1]) + ".txt"
+    encoding = 'utf-8'
+    try:
+        f = io.open(pathn + "/" + fn, "w", encoding='utf-8')
+        f.write(url + "\n")
+        f.write(fn + "\n")
+        encoding = 'utf-8'
+        page = requests.get(url)
+        page.status_code
+        soup = BeautifulSoup(page.content, 'html.parser')
+        ctl01_PageHead = soup.title
+        print("## " + ctl01_PageHead.get_text() + "  ")
+        f.write("## " + ctl01_PageHead.get_text() + "  ")
+        TBLRoll = soup.find_all(class_=cl)
+        for each in TBLRoll:
+            if each.get_text():
+                # print("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') +"  ")
+                f.write("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') + "  ")
+        f.close()
+    except:
+        print("something wrong: " + pathn)
 
 # In[3]:
 

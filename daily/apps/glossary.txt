@@ -1,0 +1,262 @@
+https://www.cms.gov/apps/glossary/
+glossary.txt
+## Glossary
+
+
+
+                  Home - Opens in a new window
+
+
+
+
+
+
+About CMS
+
+
+
+
+
+Newsroom
+
+
+
+
+
+
+                  Archive - Opens in a new window
+
+
+
+
+
+Share
+
+
+
+Help
+
+
+
+Print
+
+
+Main Menu
+
+
+Medicare
+
+
+
+Medicaid/CHIP
+
+
+
+Medicare-Medicaid Coordination
+
+
+
+Private Insurance
+
+
+
+Innovation Center
+
+
+
+Regulations & Guidance
+
+
+
+Research, Statistics, Data & Systems
+
+
+
+Outreach & Education
+
+
+
+                        Glossary
+
+Glossary 
+
+
+                    Glossary
+
+ A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | All Letters
+
+
+                                                            Downloads
+
+
+                                                            Related Links Inside CMS
+                                                        
+
+
+                                                            Related Links Outside CMS
+                                                             
+
+
+
+
+
+                                                Page Last Modified: 5/14/06 11:45 AM
+Help with File Formats and Plug-Ins
+
+Submit Feedback
+
+Footer
+
+CMS & HHS Websites
+
+
+
+									Medicare.gov - Opens in a new window
+
+
+
+
+
+									MyMedicare.gov - Opens in a new window
+
+
+
+
+
+									Medicaid.gov - Opens in a new window
+
+
+
+
+
+									InsureKidsNow.gov - Opens in a new window
+
+
+
+
+
+									HealthCare.gov - Opens in a new window
+
+
+
+
+
+									HHS.gov/Open - Opens in a new window
+
+
+
+Tools
+
+
+
+
+										Acronyms - Opens in a new window
+
+
+
+
+
+
+
+										Contacts - Opens in a new window
+
+
+
+
+
+
+
+										Glossary - Opens in a new window
+
+
+
+
+
+
+
+										Archive - Opens in a new window
+
+
+
+
+
+							Helpful Links
+						
+
+
+Web Policies & Important Links
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.developer.cms.gov/" title="For Developers">For Developers</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://developer.cms.gov/" title="For Developers">For Developers</a>');
+                    }
+                  
+
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://www.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    }
+                  
+
+
+
+ Privacy settings
+
+
+
+ Plain Language
+
+
+
+Freedom of Information Act
+
+
+
+
+										No
+										Fear Act
+									
+
+
+
+
+										Nondiscrimination/Accessibility
+									
+
+
+
+
+										HHS.gov
+										 - Opens in a new window
+
+
+
+
+
+										Inspector General
+										 - Opens in a new window
+
+
+
+
+
+										USA.gov
+										 - Opens in a new window
+
+
+
+
+Help with file formats & plug-ins
+
+

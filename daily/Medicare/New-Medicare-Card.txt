@@ -1,0 +1,443 @@
+https://www.cms.gov/Medicare/New-Medicare-Card/index.html
+New-Medicare-Card.txt
+## Overview - Centers for Medicare & Medicaid Services
+The page could not be loaded. The CMS.gov Web site currently does not fully support browsers with 
+			“JavaScript” disabled. Please enable “JavaScript” and revisit this page or proceed with browsing CMS.gov with 
+			“JavaScript” disabled. 
+			
+			Instructions for enabling “JavaScript” can be found here. 
+				 Please note that if you choose 
+			to continue without enabling “JavaScript” certain functionalities on this website may not be available.
+			
+
+
+
+
+                  Home - Opens in a new window
+
+
+
+
+
+
+About CMS
+
+
+
+
+
+Newsroom
+
+
+
+
+
+
+                  Archive - Opens in a new window
+
+
+
+
+
+Share
+
+
+
+Help
+
+
+
+Print
+
+
+Main Menu
+
+
+Medicare
+
+
+
+Medicaid/CHIP
+
+
+
+Medicare-Medicaid Coordination
+
+
+
+Private Insurance
+
+
+
+Innovation Center
+
+
+
+Regulations & Guidance
+
+
+
+Research, Statistics, Data & Systems
+
+
+
+Outreach & Education
+
+
+CMS Sub Navigation Menu
+
+
+Overview
+
+
+Overview
+ 
+
+
+
+Overview
+
+
+
+Providers & office managers
+
+
+Providers & office managers
+
+Using MBIs
+
+Getting MBIs
+
+Other payers
+ 
+
+
+
+Providers & office managers
+
+
+
+Using MBIs
+
+
+
+Getting MBIs
+
+
+
+Other payers
+
+
+
+Health & drug plans
+
+
+Health & drug plans
+ 
+
+
+
+Health & drug plans
+
+
+
+Partners & employers
+
+
+Partners & employers
+ 
+
+
+
+Partners & employers
+
+
+
+States
+
+
+States
+ 
+
+
+
+States
+
+
+
+Outreach & education
+
+
+Outreach & education
+
+Products to share with beneficiaries
+
+New Medicare card Open Door Forums
+ 
+
+
+
+Outreach & education
+
+
+
+Products to share with beneficiaries
+
+
+
+New Medicare card Open Door Forums
+
+
+Overview
+
+Medicare Beneficiary Identifiers (MBIs)
+
+The Social Security Administration (SSA)
+
+The United States Railroad Retirement Board (RRB)
+
+Health care providers
+
+Health plans
+
+Every person with Medicare has been assigned an MBI. The MBI is confidential like the SSN and should be protected as Personally Identifiable Information.
+
+Transition period
+
+Starting January 1, 2020, you MUST submit claims using MBIs (with a few exceptions), no matter what date you performed the service. We’re now in a transition period that goes through December 31, 2019, where you can use either the HICN or the MBI to exchange data with us. 
+
+Appeals - People filing appeals can use either the HICN or the MBI for their appeals and related forms.
+
+Adjustments - You can use the HICN indefinitely for some systems (Drug Data Processing, Risk Adjustment Processing, and Encounter Data) and for all records, not just adjustments.
+
+Reports - We’re using the HICN on these reports until further notice:
+
+Incoming to us (quality reporting, Disproportionate Share Hospital data requests, etc.).
+Outgoing from us (Provider Statistical & Reimbursement Report, Accountable Care Organization reports, etc.).
+
+
+
+
+
+Reports - We’re using the HICN on these reports until further notice:
+
+Incoming to us (quality reporting, Disproportionate Share Hospital data requests, etc.).
+Outgoing from us (Provider Statistical & Reimbursement Report, Accountable Care Organization reports, etc.).
+
+
+
+Incoming to us (quality reporting, Disproportionate Share Hospital data requests, etc.).
+
+Outgoing from us (Provider Statistical & Reimbursement Report, Accountable Care Organization reports, etc.).
+
+Retrospective reporting - Plans can use the HICN when submitting data for older contract years for applicable systems (e.g., Health Plan Management System).
+
+Appeals - You can use either the HICN or the MBI for claims, appeals and related forms.
+
+Audits – You can use either the HICN or the MBI for audit purposes.
+
+Claim status query - You can use either the HICN or the MBI to check the status of a claim (276 transactions) if the earliest date of service on the claim is before January 1, 2020. If you're checking the status of a claim with a date of service on or after January 1, 2020, you have to use the MBI.
+
+Span-date claims - You can use the HICN for 11X-Inpatient Hospital, 32X-Home Health (home health claims & Request for Anticipated Payments (RAPs)), and 41X-Religious Non-Medical Health Care Institution claims if the “From Date” is before the end of the transition period (12/31/2019). You can submit claims received between April 1, 2018 and December 31, 2019 using either the HICN or the MBI.  If a patient starts getting services in an inpatient hospital, home health, or religious non-medical health care institution before December 31, 2019, but stops getting those services after December 31, 2019, you may submit a claim using either the HICN or the MBI, even if you submit it after December 31, 2019.
+
+Incoming premium payments - People with Medicare who don't get SSA or RRB benefits and submit premium payments should use the MBI on incoming premium remittances. But, we'll accept the HICN on incoming premium remittances after the transition period.  (Part A premiums, Part B premiums, Part D income related monthly adjustment amounts, etc.)
+
+We’re monitoring the use of HICNs and MBIs to see how many of you are using MBIs. We’re also actively monitoring the transition to MBIs to be sure Medicare operations aren’t interrupted.
+
+What do MBIs look like?
+
+The MBIs are:
+
+Clearly different than the HICN and RRB number.
+
+11-characters in length.
+
+Made up only of numbers and uppercase letters (no special characters); if you use lowercase letters, our system will convert them to uppercase letters.
+
+The MBI doesn’t use the letters S, L, O, I, B, and Z to avoid confusion between some letters and numbers (e.g., between “0” and “O”). Learn about and use our MBI format specifications to make changes to your systems.  
+
+Each MBI is unique, randomly generated, and the characters are "non-intelligent," which means they don't have any hidden or special meaning.
+
+What do MBIs mean for people with Medicare?
+
+The MBI doesn't change Medicare benefits. People with Medicare may start using their MBIs right away. 
+
+Starting on January 1, 2020 when the transition period is over, we'll no longer accept HICNs.
+
+People with Medicare who belong to a Medicare Advantage plan or a Medicare drug plan (Part D) should keep using their Medicare Advantage and/or Medicare drug plan cards like they always have when they get health care services or fill a prescription. People with Medicare will also need their MBIs when they change plans or are admitted to the hospital.
+
+Where can I get more information about MBIs?
+
+You can:
+
+Get our Open Door Forum materials.
+
+See our Outreach & education page for resources about getting and using the MBI.
+
+Read frequently asked questions.
+
+MBI Home
+
+
+									Page last Modified: 09/19/2019 12:51 PM
+							
+
+
+Help with File Formats and Plug-Ins
+
+
+Footer
+
+CMS & HHS Websites
+
+
+
+									Medicare.gov - Opens in a new window
+
+
+
+
+
+									MyMedicare.gov - Opens in a new window
+
+
+
+
+
+									Medicaid.gov - Opens in a new window
+
+
+
+
+
+									InsureKidsNow.gov - Opens in a new window
+
+
+
+
+
+									HealthCare.gov - Opens in a new window
+
+
+
+
+
+									HHS.gov/Open - Opens in a new window
+
+
+
+Tools
+
+
+
+
+										Acronyms - Opens in a new window
+
+
+
+
+
+
+
+										Contacts - Opens in a new window
+
+
+
+
+
+
+
+										Glossary - Opens in a new window
+
+
+
+
+
+
+
+										Archive - Opens in a new window
+
+
+
+
+
+							Helpful Links
+						
+
+
+Web Policies & Important Links
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.developer.cms.gov/" title="For Developers">For Developers</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://developer.cms.gov/" title="For Developers">For Developers</a>');
+                    }
+                  
+
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://www.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    }
+                  
+
+
+
+ Privacy settings
+
+
+
+ Plain Language
+
+
+
+Freedom of Information Act
+
+
+
+
+										No
+										Fear Act
+									
+
+
+
+
+										Nondiscrimination/Accessibility
+									
+
+
+
+
+										HHS.gov
+										 - Opens in a new window
+
+
+
+
+
+										Inspector General
+										 - Opens in a new window
+
+
+
+
+
+										USA.gov
+										 - Opens in a new window
+
+
+
+
+Help with file formats & plug-ins
+
+

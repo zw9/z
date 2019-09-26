@@ -2,16 +2,30 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import io
+import os
 
 def fetch_p(url):
 
     # url = "https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/"
 
 
-    fn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-2]) + ".txt"
-    encoding = 'utf-8'
-    f = io.open(fn, "w", encoding='utf-8')
+    try:
+        pathn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-3])
+        os.makedirs(pathn,exist_ok=True)
+        fn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-2]) + ".txt"
+        encoding = 'utf-8'
+        f = io.open(pathn + "/" + fn, "w", encoding='utf-8')
+    except:
+        print("something wrong with: " + pathn)
+        pathn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-2])
+        os.makedirs(pathn,exist_ok=True)
+        fn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-1]) + ".txt"
+        encoding = 'utf-8'
+        f = io.open(pathn + "/" + fn, "w", encoding='utf-8')
+
+    f.write(url + "\n")
     f.write(fn + "\n")
+
     print(fn)
     page = requests.get(url)
     page.status_code
@@ -19,17 +33,21 @@ def fetch_p(url):
     ctl01_PageHead = soup.title
     print("## " + ctl01_PageHead.get_text() + "  ")
     f.write("## " + ctl01_PageHead.get_text() + "\n")
-    TBLRoll = soup.find_all('a')
+    TBLRoll = soup.find_all(['p','h3','li','br','h1','h2','h'])
+    AllTags = soup.find_all(True)
+    #for e in AllTags:
+    #f.write(str(e))
+
     for each in TBLRoll:
         if each.get_text():
             #print(each.get_text() + "  ")
-            f.write(each.get_text() + "\n")
+            f.write(each.get_text() + "\n\n")
     f.close()
 
 
-# fetch_p("https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
+print("fetch_p()")
 
-def fetch_menuitem(url):
+def fetch_m(url):
     page = requests.get(url)
     page.status_code
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -46,3 +64,5 @@ def fetch_menuitem(url):
                 fetch_p(each.get('href'))
             except:
                 print("url is bad: " + each.get('href'))
+
+print("fetch_m()")
