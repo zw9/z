@@ -16,7 +16,7 @@ def fetch_fnc(url, cl):
     fn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-1]) + ".txt"
     fn
     encoding = 'utf-8'
-    f = io.open(fn, "w+", encoding='utf-8')
+    f = io.open(fn, "w", encoding='utf-8')
     page = requests.get(url)
     page.status_code
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -50,6 +50,5 @@ def fetch_option(url):
 
 
 # In[4]:
-
 
 fetch_option("https://raovat.nguoi-viet.com/classified/dam-bop-thu-gian-massage-relax-browse-123.aspx")
