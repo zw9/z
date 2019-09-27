@@ -1,0 +1,639 @@
+https://www.nguoi-viet.com/xe-hoi/toyota-dung-dau-danh-sach-nhung-kieu-xe-chu-khong-biet-chan/
+toyota-dung-dau-danh-sach-nhung-kieu-xe-chu-khong-biet-chan.txt
+## Toyota đứng đầu danh sách những kiểu xe chủ 'không biết chán'
+HOME
+
+VIDEO
+
+TIN MỚI
+
+1001 CHUYỆN XE
+
+BẢO DƯỠNG XE
+
+BÍ QUYẾT LÁI XE
+
+RAO VẶT XE HƠI
+
+NV TV
+
+NV SHOP
+
+ABOUT NV
+
+THƯ VIỆN
+
+RAO VẶT
+
+LEGAL NOTICE
+
+HOME
+
+VIDEO
+
+var block_td_uid_1_5d8e24f355d87 = new tdBlock();
+block_td_uid_1_5d8e24f355d87.id = "td_uid_1_5d8e24f355d87";
+block_td_uid_1_5d8e24f355d87.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"56737","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_1_5d8e24f355d87_rand","tdc_css_class":"td_uid_1_5d8e24f355d87_rand","tdc_css_class_style":"td_uid_1_5d8e24f355d87_rand_style"}';
+block_td_uid_1_5d8e24f355d87.td_column_number = "3";
+block_td_uid_1_5d8e24f355d87.block_type = "td_block_mega_menu";
+block_td_uid_1_5d8e24f355d87.post_count = "5";
+block_td_uid_1_5d8e24f355d87.found_posts = "21";
+block_td_uid_1_5d8e24f355d87.header_color = "";
+block_td_uid_1_5d8e24f355d87.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5d8e24f355d87.max_num_pages = "5";
+tdBlocksArray.push(block_td_uid_1_5d8e24f355d87);
+
+
+
+ 
+
+Trải nghiệm chạy xe hơi tốc độ cao kiểu Đức với Porsche tại miền Nam California 
+
+
+
+
+ 
+
+Xe ‘limousine Putin‘ muốn phục vụ các lãnh đạo quốc tế 
+
+
+
+
+ 
+
+Xe cổ Mỹ: Ford Model T- ‘cỗ máy’ góp phần làm thay đổi thế giới 
+
+
+
+
+ 
+
+Không muốn khách ‘đụng hàng’, Ferrari tăng số kiểu xe, nhiều nhất từ trước đến nay 
+
+
+
+
+ 
+
+Màn ‘drift’ của chiếc Lamborghini ‘độ’ bị xe tải Dakar bay qua đầu 
+
+ 
+
+
+
+var block_td_uid_1_5d8e24f355d87 = new tdBlock();
+block_td_uid_1_5d8e24f355d87.id = "td_uid_1_5d8e24f355d87";
+block_td_uid_1_5d8e24f355d87.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"56737","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_1_5d8e24f355d87_rand","tdc_css_class":"td_uid_1_5d8e24f355d87_rand","tdc_css_class_style":"td_uid_1_5d8e24f355d87_rand_style"}';
+block_td_uid_1_5d8e24f355d87.td_column_number = "3";
+block_td_uid_1_5d8e24f355d87.block_type = "td_block_mega_menu";
+block_td_uid_1_5d8e24f355d87.post_count = "5";
+block_td_uid_1_5d8e24f355d87.found_posts = "21";
+block_td_uid_1_5d8e24f355d87.header_color = "";
+block_td_uid_1_5d8e24f355d87.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5d8e24f355d87.max_num_pages = "5";
+tdBlocksArray.push(block_td_uid_1_5d8e24f355d87);
+
+
+
+ 
+
+Trải nghiệm chạy xe hơi tốc độ cao kiểu Đức với Porsche tại miền Nam California 
+
+
+
+
+ 
+
+Xe ‘limousine Putin‘ muốn phục vụ các lãnh đạo quốc tế 
+
+
+
+
+ 
+
+Xe cổ Mỹ: Ford Model T- ‘cỗ máy’ góp phần làm thay đổi thế giới 
+
+
+
+
+ 
+
+Không muốn khách ‘đụng hàng’, Ferrari tăng số kiểu xe, nhiều nhất từ trước đến nay 
+
+
+
+
+ 
+
+Màn ‘drift’ của chiếc Lamborghini ‘độ’ bị xe tải Dakar bay qua đầu 
+
+ 
+
+Trải nghiệm chạy xe hơi tốc độ cao kiểu Đức với Porsche tại miền Nam California
+
+Xe ‘limousine Putin‘ muốn phục vụ các lãnh đạo quốc tế
+
+Xe cổ Mỹ: Ford Model T- ‘cỗ máy’ góp phần làm thay đổi thế giới
+
+Không muốn khách ‘đụng hàng’, Ferrari tăng số kiểu xe, nhiều nhất từ trước đến nay
+
+Màn ‘drift’ của chiếc Lamborghini ‘độ’ bị xe tải Dakar bay qua đầu
+
+TIN MỚI
+
+var block_td_uid_2_5d8e24f360ed4 = new tdBlock();
+block_td_uid_2_5d8e24f360ed4.id = "td_uid_2_5d8e24f360ed4";
+block_td_uid_2_5d8e24f360ed4.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53982","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_2_5d8e24f360ed4_rand","tdc_css_class":"td_uid_2_5d8e24f360ed4_rand","tdc_css_class_style":"td_uid_2_5d8e24f360ed4_rand_style"}';
+block_td_uid_2_5d8e24f360ed4.td_column_number = "3";
+block_td_uid_2_5d8e24f360ed4.block_type = "td_block_mega_menu";
+block_td_uid_2_5d8e24f360ed4.post_count = "5";
+block_td_uid_2_5d8e24f360ed4.found_posts = "232";
+block_td_uid_2_5d8e24f360ed4.header_color = "";
+block_td_uid_2_5d8e24f360ed4.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5d8e24f360ed4.max_num_pages = "47";
+tdBlocksArray.push(block_td_uid_2_5d8e24f360ed4);
+
+
+
+ 
+
+Xe hơi điện đầu tiên của Mazda sẽ ra mắt vào Tháng Mười, 2019 
+
+
+
+
+ 
+
+Bugatti làm 30 xe ‘chạy nhanh nhất thế giới’ dành cho khách mê tốc độ 
+
+
+
+
+ 
+
+Lý do khiến chi phí mua một chiếc xe hơi mới tăng cao ‘chưa từng thấy’ 
+
+
+
+
+ 
+
+Ngắm ‘huyền thoại’ Ford Model T, xe cổ Mỹ được ưa chuộng khắp thế giới 
+
+
+
+
+ 
+
+Dù không phải đổ xăng, xe điện vẫn phải trả phí cao hơn 
+
+ 
+
+
+
+var block_td_uid_2_5d8e24f360ed4 = new tdBlock();
+block_td_uid_2_5d8e24f360ed4.id = "td_uid_2_5d8e24f360ed4";
+block_td_uid_2_5d8e24f360ed4.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53982","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_2_5d8e24f360ed4_rand","tdc_css_class":"td_uid_2_5d8e24f360ed4_rand","tdc_css_class_style":"td_uid_2_5d8e24f360ed4_rand_style"}';
+block_td_uid_2_5d8e24f360ed4.td_column_number = "3";
+block_td_uid_2_5d8e24f360ed4.block_type = "td_block_mega_menu";
+block_td_uid_2_5d8e24f360ed4.post_count = "5";
+block_td_uid_2_5d8e24f360ed4.found_posts = "232";
+block_td_uid_2_5d8e24f360ed4.header_color = "";
+block_td_uid_2_5d8e24f360ed4.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5d8e24f360ed4.max_num_pages = "47";
+tdBlocksArray.push(block_td_uid_2_5d8e24f360ed4);
+
+
+
+ 
+
+Xe hơi điện đầu tiên của Mazda sẽ ra mắt vào Tháng Mười, 2019 
+
+
+
+
+ 
+
+Bugatti làm 30 xe ‘chạy nhanh nhất thế giới’ dành cho khách mê tốc độ 
+
+
+
+
+ 
+
+Lý do khiến chi phí mua một chiếc xe hơi mới tăng cao ‘chưa từng thấy’ 
+
+
+
+
+ 
+
+Ngắm ‘huyền thoại’ Ford Model T, xe cổ Mỹ được ưa chuộng khắp thế giới 
+
+
+
+
+ 
+
+Dù không phải đổ xăng, xe điện vẫn phải trả phí cao hơn 
+
+ 
+
+Xe hơi điện đầu tiên của Mazda sẽ ra mắt vào Tháng Mười, 2019
+
+Bugatti làm 30 xe ‘chạy nhanh nhất thế giới’ dành cho khách mê tốc độ
+
+Lý do khiến chi phí mua một chiếc xe hơi mới tăng cao ‘chưa từng thấy’
+
+Ngắm ‘huyền thoại’ Ford Model T, xe cổ Mỹ được ưa chuộng khắp thế giới
+
+Dù không phải đổ xăng, xe điện vẫn phải trả phí cao hơn
+
+1001 CHUYỆN XE
+
+var block_td_uid_3_5d8e24f36fd0e = new tdBlock();
+block_td_uid_3_5d8e24f36fd0e.id = "td_uid_3_5d8e24f36fd0e";
+block_td_uid_3_5d8e24f36fd0e.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53983","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_3_5d8e24f36fd0e_rand","tdc_css_class":"td_uid_3_5d8e24f36fd0e_rand","tdc_css_class_style":"td_uid_3_5d8e24f36fd0e_rand_style"}';
+block_td_uid_3_5d8e24f36fd0e.td_column_number = "3";
+block_td_uid_3_5d8e24f36fd0e.block_type = "td_block_mega_menu";
+block_td_uid_3_5d8e24f36fd0e.post_count = "5";
+block_td_uid_3_5d8e24f36fd0e.found_posts = "125";
+block_td_uid_3_5d8e24f36fd0e.header_color = "";
+block_td_uid_3_5d8e24f36fd0e.ajax_pagination_infinite_stop = "";
+block_td_uid_3_5d8e24f36fd0e.max_num_pages = "25";
+tdBlocksArray.push(block_td_uid_3_5d8e24f36fd0e);
+
+
+
+ 
+
+BMW gợi ý ‘ân ái’ trên xe hơi là một phần của xe tự lái trong tương lai 
+
+
+
+
+ 
+
+Toyota tìm cách chế tạo xe hơi có thể chạy mãi mãi 
+
+
+
+
+ 
+
+‘Vũ khí bí mật’ của Porsche để cạnh tranh với xe điện Tesla 
+
+
+
+
+ 
+
+Truy lùng nghi can đâm thủng bánh 30 xe hơi ở Rancho Cucamonga 
+
+
+
+
+ 
+
+Bugatti Chiron, ‘xe hơi chạy nhanh nhất thế giới,’ 300 dặm/giờ 
+
+ 
+
+
+
+var block_td_uid_3_5d8e24f36fd0e = new tdBlock();
+block_td_uid_3_5d8e24f36fd0e.id = "td_uid_3_5d8e24f36fd0e";
+block_td_uid_3_5d8e24f36fd0e.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53983","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_3_5d8e24f36fd0e_rand","tdc_css_class":"td_uid_3_5d8e24f36fd0e_rand","tdc_css_class_style":"td_uid_3_5d8e24f36fd0e_rand_style"}';
+block_td_uid_3_5d8e24f36fd0e.td_column_number = "3";
+block_td_uid_3_5d8e24f36fd0e.block_type = "td_block_mega_menu";
+block_td_uid_3_5d8e24f36fd0e.post_count = "5";
+block_td_uid_3_5d8e24f36fd0e.found_posts = "125";
+block_td_uid_3_5d8e24f36fd0e.header_color = "";
+block_td_uid_3_5d8e24f36fd0e.ajax_pagination_infinite_stop = "";
+block_td_uid_3_5d8e24f36fd0e.max_num_pages = "25";
+tdBlocksArray.push(block_td_uid_3_5d8e24f36fd0e);
+
+
+
+ 
+
+BMW gợi ý ‘ân ái’ trên xe hơi là một phần của xe tự lái trong tương lai 
+
+
+
+
+ 
+
+Toyota tìm cách chế tạo xe hơi có thể chạy mãi mãi 
+
+
+
+
+ 
+
+‘Vũ khí bí mật’ của Porsche để cạnh tranh với xe điện Tesla 
+
+
+
+
+ 
+
+Truy lùng nghi can đâm thủng bánh 30 xe hơi ở Rancho Cucamonga 
+
+
+
+
+ 
+
+Bugatti Chiron, ‘xe hơi chạy nhanh nhất thế giới,’ 300 dặm/giờ 
+
+ 
+
+BMW gợi ý ‘ân ái’ trên xe hơi là một phần của xe tự lái trong tương lai
+
+Toyota tìm cách chế tạo xe hơi có thể chạy mãi mãi
+
+‘Vũ khí bí mật’ của Porsche để cạnh tranh với xe điện Tesla
+
+Truy lùng nghi can đâm thủng bánh 30 xe hơi ở Rancho Cucamonga
+
+Bugatti Chiron, ‘xe hơi chạy nhanh nhất thế giới,’ 300 dặm/giờ
+
+BẢO DƯỠNG XE
+
+var block_td_uid_4_5d8e24f37fbf8 = new tdBlock();
+block_td_uid_4_5d8e24f37fbf8.id = "td_uid_4_5d8e24f37fbf8";
+block_td_uid_4_5d8e24f37fbf8.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53984","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_4_5d8e24f37fbf8_rand","tdc_css_class":"td_uid_4_5d8e24f37fbf8_rand","tdc_css_class_style":"td_uid_4_5d8e24f37fbf8_rand_style"}';
+block_td_uid_4_5d8e24f37fbf8.td_column_number = "3";
+block_td_uid_4_5d8e24f37fbf8.block_type = "td_block_mega_menu";
+block_td_uid_4_5d8e24f37fbf8.post_count = "5";
+block_td_uid_4_5d8e24f37fbf8.found_posts = "55";
+block_td_uid_4_5d8e24f37fbf8.header_color = "";
+block_td_uid_4_5d8e24f37fbf8.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5d8e24f37fbf8.max_num_pages = "11";
+tdBlocksArray.push(block_td_uid_4_5d8e24f37fbf8);
+
+
+
+ 
+
+Toyota đứng đầu danh sách những kiểu xe chủ ‘không biết chán’ 
+
+
+
+
+ 
+
+Những ‘bí quyết’ rửa xe hơi, không phải ai cũng biết 
+
+
+
+
+ 
+
+Mười kiểu xe được ‘cưng’ quá mức, hiếm khi chạy quá 30,000 mile 
+
+
+
+
+ 
+
+Làm gì khi chìa khóa xe hơi ‘remote key fob’ ngưng hoạt động? 
+
+
+
+
+ 
+
+Đèn pha xe hơi bị mờ, ố vàng: Làm sao để sáng hơn? 
+
+ 
+
+
+
+var block_td_uid_4_5d8e24f37fbf8 = new tdBlock();
+block_td_uid_4_5d8e24f37fbf8.id = "td_uid_4_5d8e24f37fbf8";
+block_td_uid_4_5d8e24f37fbf8.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53984","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_4_5d8e24f37fbf8_rand","tdc_css_class":"td_uid_4_5d8e24f37fbf8_rand","tdc_css_class_style":"td_uid_4_5d8e24f37fbf8_rand_style"}';
+block_td_uid_4_5d8e24f37fbf8.td_column_number = "3";
+block_td_uid_4_5d8e24f37fbf8.block_type = "td_block_mega_menu";
+block_td_uid_4_5d8e24f37fbf8.post_count = "5";
+block_td_uid_4_5d8e24f37fbf8.found_posts = "55";
+block_td_uid_4_5d8e24f37fbf8.header_color = "";
+block_td_uid_4_5d8e24f37fbf8.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5d8e24f37fbf8.max_num_pages = "11";
+tdBlocksArray.push(block_td_uid_4_5d8e24f37fbf8);
+
+
+
+ 
+
+Toyota đứng đầu danh sách những kiểu xe chủ ‘không biết chán’ 
+
+
+
+
+ 
+
+Những ‘bí quyết’ rửa xe hơi, không phải ai cũng biết 
+
+
+
+
+ 
+
+Mười kiểu xe được ‘cưng’ quá mức, hiếm khi chạy quá 30,000 mile 
+
+
+
+
+ 
+
+Làm gì khi chìa khóa xe hơi ‘remote key fob’ ngưng hoạt động? 
+
+
+
+
+ 
+
+Đèn pha xe hơi bị mờ, ố vàng: Làm sao để sáng hơn? 
+
+ 
+
+Toyota đứng đầu danh sách những kiểu xe chủ ‘không biết chán’
+
+Những ‘bí quyết’ rửa xe hơi, không phải ai cũng biết
+
+Mười kiểu xe được ‘cưng’ quá mức, hiếm khi chạy quá 30,000 mile
+
+Làm gì khi chìa khóa xe hơi ‘remote key fob’ ngưng hoạt động?
+
+Đèn pha xe hơi bị mờ, ố vàng: Làm sao để sáng hơn?
+
+BÍ QUYẾT LÁI XE
+
+var block_td_uid_5_5d8e24f38d330 = new tdBlock();
+block_td_uid_5_5d8e24f38d330.id = "td_uid_5_5d8e24f38d330";
+block_td_uid_5_5d8e24f38d330.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53985","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_5_5d8e24f38d330_rand","tdc_css_class":"td_uid_5_5d8e24f38d330_rand","tdc_css_class_style":"td_uid_5_5d8e24f38d330_rand_style"}';
+block_td_uid_5_5d8e24f38d330.td_column_number = "3";
+block_td_uid_5_5d8e24f38d330.block_type = "td_block_mega_menu";
+block_td_uid_5_5d8e24f38d330.post_count = "5";
+block_td_uid_5_5d8e24f38d330.found_posts = "40";
+block_td_uid_5_5d8e24f38d330.header_color = "";
+block_td_uid_5_5d8e24f38d330.ajax_pagination_infinite_stop = "";
+block_td_uid_5_5d8e24f38d330.max_num_pages = "8";
+tdBlocksArray.push(block_td_uid_5_5d8e24f38d330);
+
+
+
+ 
+
+Xe hơi còn chạy được bao xa khi đèn báo hết xăng? 
+
+
+
+
+ 
+
+Chiến dịch $1.3 triệu bảo vệ trẻ em bị bỏ quên trên xe hơi khi trời nóng 
+
+
+
+
+ 
+
+Kỹ thuật xe hơi mới giúp cứu mạng người nhưng chậm áp dụng 
+
+
+
+
+ 
+
+Ba câu hỏi quan trọng trước khi mua xe hơi cũ 
+
+
+
+
+ 
+
+Kiểu xe hơi nào được người Mỹ chạy nhiều mile nhất? 
+
+ 
+
+
+
+var block_td_uid_5_5d8e24f38d330 = new tdBlock();
+block_td_uid_5_5d8e24f38d330.id = "td_uid_5_5d8e24f38d330";
+block_td_uid_5_5d8e24f38d330.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53985","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_5_5d8e24f38d330_rand","tdc_css_class":"td_uid_5_5d8e24f38d330_rand","tdc_css_class_style":"td_uid_5_5d8e24f38d330_rand_style"}';
+block_td_uid_5_5d8e24f38d330.td_column_number = "3";
+block_td_uid_5_5d8e24f38d330.block_type = "td_block_mega_menu";
+block_td_uid_5_5d8e24f38d330.post_count = "5";
+block_td_uid_5_5d8e24f38d330.found_posts = "40";
+block_td_uid_5_5d8e24f38d330.header_color = "";
+block_td_uid_5_5d8e24f38d330.ajax_pagination_infinite_stop = "";
+block_td_uid_5_5d8e24f38d330.max_num_pages = "8";
+tdBlocksArray.push(block_td_uid_5_5d8e24f38d330);
+
+
+
+ 
+
+Xe hơi còn chạy được bao xa khi đèn báo hết xăng? 
+
+
+
+
+ 
+
+Chiến dịch $1.3 triệu bảo vệ trẻ em bị bỏ quên trên xe hơi khi trời nóng 
+
+
+
+
+ 
+
+Kỹ thuật xe hơi mới giúp cứu mạng người nhưng chậm áp dụng 
+
+
+
+
+ 
+
+Ba câu hỏi quan trọng trước khi mua xe hơi cũ 
+
+
+
+
+ 
+
+Kiểu xe hơi nào được người Mỹ chạy nhiều mile nhất? 
+
+ 
+
+Xe hơi còn chạy được bao xa khi đèn báo hết xăng?
+
+Chiến dịch $1.3 triệu bảo vệ trẻ em bị bỏ quên trên xe hơi khi trời nóng
+
+Kỹ thuật xe hơi mới giúp cứu mạng người nhưng chậm áp dụng
+
+Ba câu hỏi quan trọng trước khi mua xe hơi cũ
+
+Kiểu xe hơi nào được người Mỹ chạy nhiều mile nhất?
+
+RAO VẶT XE HƠI
+
+Toyota đứng đầu danh sách những kiểu xe chủ ‘không biết chán’
+
+WOBURN, Massachusetts (NV) – Có tới 4 kiểu xe hơi của hãng sản xuất xe hơi Nhật Bản Toyota vào top 10 những kiểu xe được chủ giữ lâu nhất tại thị trường Mỹ.
+
+Tạp chí Forbes vào cuối tuần thứ hai của Tháng Chín cho biết trong thời đại ngày nay khi việc thuê mướn xe hơi dài hạn từ 1 đến 2 năm hay sử dụng các dịch vụ “đi nhờ xe” như Uber hay Lyft thịnh hành và phổ biến, việc chủ xe giữ những chiếc xe hơi của mình lâu năm mà “không biết chán” ngày càng hiếm.
+
+Tạp chí này dẫn phúc trình từ iSeeCars cho biết khoảng thời gian trung bình chủ xe giữ chiếc xe hơi được mua mới hoàn toàn “brand new” là 8.4 năm.
+
+Phúc trình này của iSeeCars có được bằng cách phân tích số liệu từ hơn 5 triệu xe trong khoảng thời gian từ Tháng Giêng năm 2014 đến Tháng Mười Hai năm 2018.
+
+Theo đó, hãng Toyota có tới 4 kiểu xe vào danh sách top 10 đó là Toyota Land Cruiser, Toyota 4Runner, Toyota Sequoia và Toyota Avalon.
+
+Hãng sản xuất xe hơi Mỹ Ford có 2 kiểu xe là Ford Expedition và Ford Mustang.
+
+Chevrolet, Mercedes, Audi và Porsche mỗi hãng có một kiểu xe trong top 10.
+
+Forbes cho hay danh tiếng, độ tin cậy và độ bền của Toyota đã góp phần giúp kiểu xe Toyota Land Cruiser chiếm lấy vị trí số một.
+
+Chủ xe sau khi mua về những chiếc Toyota Land Cruiser thường giữ chiếc xe của mình trong thời gian 11.4 năm rồi mới chịu bán đi.
+
+Kiểu xe SUV này của hãng sản xuất xe Nhật Bản vẫn tiếp tục hút khách mà không cần phải có nhiều thay đổi về ngoại hình hoặc những thay đổi lớn nào về thiết kế trong gần một thập niên qua.
+
+Xếp ngay sau Toyota Land Cruiser lần lượt là các kiểu xe thuộc các hãng sản xuất xe hơi danh tiếng khác như Chevrolet, Mercedes-Benz, Audi, Ford và Porsche.
+
+Danh sách những kiểu xe hơi mới được người tiêu dùng Mỹ giữ lại lâu nhất theo thứ tự, cụ thể như sau:
+
+Toyota Land Cruiser (Thời gian giữ xe trung bình: 11.4 năm), Chevrolet Corvette (10.5 năm), Mercedes-Benz SL (10.3 năm), Audi TT (10.2 năm), Ford Expedition (10.1 năm), Ford Mustang (10 năm), Toyota 4Runner (10 năm), Porsche 911 (9.9 năm), Toyota Sequoia (9.9 năm), Toyota Avalon (9.7 năm). (C. Thành)
+
+Vị giác hoạt động ra sao?
+
+Những cách tăng cường an ninh cho căn nhà
+
+Messi và Rapinoe đoạt giải thưởng The Best FIFA 2019
+
+Toàn dân thi đua bịt mũi tiến lên!
+
+Sở Y Tế Los Angeles County cảnh báo nguy cơ nhiễm sởi tại phi trường LAX
+
+California ô nhiễm nước vì quá đông người ‘homeless’
+
+Bắt nghi can xâm phạm người khác tại đường mòn Aliso Creek
+
+Cal State Fullerton bắt sinh viên gốc Việt vì cầm súng vào trường
+
+Chàng trai Sài Gòn và những ‘chuyến xe cuối cùng’ cho trẻ em nghèo
+
+CSVN sợ dân, không cho tổ chức tuần hành vì khí hậu
+
+BMW gợi ý ‘ân ái’ trên xe hơi là một phần của xe tự lái trong tương lai
+
+Trực thăng Black Hawk rớt ở Louisiana, một quân nhân thiệt mạng
+
+Sở Y Tế Los Angeles County cảnh báo nguy cơ nhiễm sởi tại phi trường LAX
+
+California ô nhiễm nước vì quá đông người ‘homeless’
+

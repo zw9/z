@@ -1,4 +1,4 @@
-https://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Help.html
+http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Help.html
 Aboutwebsite.txt
 ## Help - Centers for Medicare & Medicaid Services
 The page could not be loaded. The CMS.gov Web site currently does not fully support browsers with 

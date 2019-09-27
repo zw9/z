@@ -1,6 +1,6 @@
-https://www.medicare.gov/about-us/plain-writing/plain-writing.html
-plain-writing.txt
-## Plain writing   | Medicare
+https://www.medicare.gov/sign-up-change-plans/get-started-with-medicare
+sign-up-change-plans.txt
+## Get started with Medicare | Medicare
 Site Options
 
 
@@ -345,50 +345,6 @@ Check your enrollment
 
 
 About Us
-
-
-How is Medicare funded?
-
-
-Get involved with Medicare
-
-
-Contact Medicare
-
-
-Plain writing
-
-
-Information in other languages
-
-
-Accessibility & Nondiscrimination Notice
-
-
-
-
-
-How is Medicare funded?
-
-
-
-Get involved with Medicare
-
-
-
-Contact Medicare
-
-
-
-Plain writing
-
-
-
-Information in other languages
-
-
-
-Accessibility & Nondiscrimination Notice
 
 
 
@@ -797,92 +753,125 @@ Home
 
 
 
-About Us
+Sign up/change plans
 
 
 
-                  Plain writing  
+                  Get started with Medicare
               
 
 Left navigation
 
-
-How is Medicare funded?
-
+Get started with Medicare
 
 
-Get involved with Medicare
+As you get started with Medicare, you have a choice in how you get your Medicare coverage. And, there are some important decisions for you to make. Follow these 3 steps to help you get started:
+
+1. Sign up for Medicare through Social Security
+
+If you're over 65 (or turning 65 in the next 3 months) and not already getting benefits from Social Security, you need to sign up to get Medicare 
+
+ and 
+
+. You won't get Medicare automatically.
 
 
+        Note
+      
 
-Contact Medicare
+Sign up for Medicare online or contact Social Security. Social Security will review your records to see if you qualify for Medicare.
+
+Medicare is health insurance for people 65 or older, certain people under 65 with disabilities, and people of any age with End-Stage Renal Disease (ESRD). Learn how to get started with Medicare if you have a disability or if you have ESRD.
+
+Your first chance to get Medicare usually starts 3 months before you turn 65 and ends 3 months after you turn 65. Find out when you're eligible for Medicare.
+
+You can only enroll in Medicare at certain times, and the cost can go up the longer you wait to sign up. Getting Medicare late can mean lifetime premium penalties and delays in when your coverage can start.
+
+Deciding to enroll in Part B is an important decision. It depends on the type of coverage you have now, and whether you can sign up later (without a penalty). Not all other health coverage is the same as Part B. Find out if you should get Part B.
+
+If you're getting benefits from the Railroad Retirement Board (RRB), you'll get Medicare Part A and Part B automatically when you're first eligible. Contract your local RRB office for more information about enrolling in Medicare.
+
+You'll get your Medicare card in the mail about 2 weeks after you sign up. Your card is included in your official "Welcome to Medicare" packet.
+
+If you already get benefits from Social Security, you'll get Medicare Part A and Part B automatically when you're first eligible and don't need to sign up. Medicare will send you a "Welcome to Medicare" packet 3 months before you turn 65. You'll still have other important deadlines and actions to take, so read all of the materials in the packet. (If you live in Puerto Rico, you'll only get Part A. If you want Part B, you need to sign up for it.)
+
+2. Choose your coverage
+
+People get Medicare coverage in different ways. You'll get lots of information to help you make a decision about how to get your Medicare coverage:
+
+An official "Welcome to Medicare" packet with important information about your coverage options.
+
+Your official "Medicare & You" handbook once you're enrolled and every year each fall.
+
+Mail from private insurance companies, agents and brokers, marketing the Medicare plans they offer.
+
+There are 2 main ways to get Medicare coverage:
+
+Original Medicare – Includes Part A and Part B. You can use any doctor or hospital that takes Medicare, anywhere in the U.S.
+
+If you want drug coverage, you can join a separate
+	Medicare Prescription Drug Plan (Part D)
 
 
+	.
 
-Plain writing
-
-
-
-Information in other languages
+To help pay your out-of-pocket costs in
+	Original Medicare
 
 
+	(like your 20% coinsurance), you can also shop for and buy
 
-Accessibility & Nondiscrimination Notice
-
-
-Plain writing  
+	supplemental coverage
 
 
-We’re committed to writing so you can understand
+	like a Medicare Supplement Insurance (Medigap) policy.
 
-At the Centers for Medicare & Medicaid Services (CMS), we’ve done a lot, like training our staff, to make sure we use plain language in any document that:
+If you don't get Part D or a Medigap policy when you're first eligible, you may have to pay more to get this coverage later. For Part D, this could mean a lifetime premium penalty.
 
-Is necessary for obtaining any federal government benefit or service or filing taxes
+Medicare Advantage – An "all in one" alternative to Original Medicare. These "bundled" plans include Part A, Part B, and usually Part D. Most plans offer extra benefits that Original Medicare doesn't cover – like vision, hearing, dental, and more.
 
-Provides information about any federal government benefit or service
+Plans may have lower out-of-pocket costs than Original Medicare.
 
-Explains to the public how to comply with a requirement that the federal government administers or enforces
+In most cases, you'll need to use doctors who are in the plan's network.
 
-Let us know if you’re having trouble
 
-Let us know if you have trouble understanding our documents or the pages on our website. We've assigned staff to oversee our plain language efforts:
+        Note
+      
 
-Erin Gordon, Plain Language Coordinator
+Medicare Plan Finder can help you compare all of your options and find what best meets your needs.
 
-Cate Kortzeborn, Plain Language Coordinator (Regional Offices)
+When you have other insurance, there's more than one "payer" for your coverage. Knowing which insurance pays first can help you decide how to get your Medicare coverage. If you have retiree insurance from a former employer, ask your former employer or union how your retiree coverage works with Medicare.
 
-Read about our progress
+There are several ways you can get help choosing and joining a plan:
 
-2019 Annual Plain Writing Report [PDF, 58 KB]
+Use Medicare Plan Finder to find and compare plans that are available in your area.
 
-2018 Annual Plain Writing Report   [PDF, 54 KB] 
+Compare coverage options and find out which Medicare coverage is right for you.
 
-2017 Annual Plain Writing Report   [PDF, 72 KB] 
+Call us at 1-800-MEDICARE (1-800-633-4227).
 
-2016 Annual Plain Writing Report  [PDF, 54 KB]
+Get help with your Medicare choices from your local State Health Insurance Assistance Program (SHIP). You can find the contact number on the back cover of your "Medicare & You" handbook.
 
-2015 Annual Plain Writing Report  [PDF, 54 KB]
+Contact a trusted agent or broker for help.
 
-2014 Annual Plain Writing Report  [PDF, 52 KB]
+Get more information on the parts of Medicare and how Medicare works. You can also get tips on what to look for when choosing drug coverage, find doctors, see if a test or service is covered, and more.
 
-2013 Annual Plain Writing Report  [PDF, 35 KB]
+3. Complete your "Year 1: Medicare Checklist"
 
-2012 Annual Plain Writing Report  [PDF, 191 KB]
-
-CMS Plain Writing Act Compliance Report  [PDF, 191 KB]
+During your first year with Medicare, follow this checklist to get the most out of your Medicare coverage and be prepared in case of emergency.
 
 Related Resources
 
 
-Send feedback on our plain writing efforts
+Apply for Medicare online
 
 
 
-Federal Plain Language Guidelines
+Log into MyMedicare.gov
 
 
 
-The Plain Writing Act of 2010 [PDF, 123 KB]
+Medicare & You: understanding your Medicare choices
 
 
 Find someone to talk to
