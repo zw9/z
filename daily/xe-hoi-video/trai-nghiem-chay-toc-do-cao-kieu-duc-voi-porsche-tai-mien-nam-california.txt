@@ -31,17 +31,17 @@ HOME
 
 VIDEO
 
-var block_td_uid_1_5d8e24f04866b = new tdBlock();
-block_td_uid_1_5d8e24f04866b.id = "td_uid_1_5d8e24f04866b";
-block_td_uid_1_5d8e24f04866b.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"56737","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_1_5d8e24f04866b_rand","tdc_css_class":"td_uid_1_5d8e24f04866b_rand","tdc_css_class_style":"td_uid_1_5d8e24f04866b_rand_style"}';
-block_td_uid_1_5d8e24f04866b.td_column_number = "3";
-block_td_uid_1_5d8e24f04866b.block_type = "td_block_mega_menu";
-block_td_uid_1_5d8e24f04866b.post_count = "5";
-block_td_uid_1_5d8e24f04866b.found_posts = "21";
-block_td_uid_1_5d8e24f04866b.header_color = "";
-block_td_uid_1_5d8e24f04866b.ajax_pagination_infinite_stop = "";
-block_td_uid_1_5d8e24f04866b.max_num_pages = "5";
-tdBlocksArray.push(block_td_uid_1_5d8e24f04866b);
+var block_td_uid_1_5d8e258b26fc3 = new tdBlock();
+block_td_uid_1_5d8e258b26fc3.id = "td_uid_1_5d8e258b26fc3";
+block_td_uid_1_5d8e258b26fc3.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"56737","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_1_5d8e258b26fc3_rand","tdc_css_class":"td_uid_1_5d8e258b26fc3_rand","tdc_css_class_style":"td_uid_1_5d8e258b26fc3_rand_style"}';
+block_td_uid_1_5d8e258b26fc3.td_column_number = "3";
+block_td_uid_1_5d8e258b26fc3.block_type = "td_block_mega_menu";
+block_td_uid_1_5d8e258b26fc3.post_count = "5";
+block_td_uid_1_5d8e258b26fc3.found_posts = "21";
+block_td_uid_1_5d8e258b26fc3.header_color = "";
+block_td_uid_1_5d8e258b26fc3.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5d8e258b26fc3.max_num_pages = "5";
+tdBlocksArray.push(block_td_uid_1_5d8e258b26fc3);
 
 
 
@@ -81,17 +81,17 @@ Màn ‘drift’ của chiếc Lamborghini ‘độ’ bị xe tải Dakar bay q
 
 
 
-var block_td_uid_1_5d8e24f04866b = new tdBlock();
-block_td_uid_1_5d8e24f04866b.id = "td_uid_1_5d8e24f04866b";
-block_td_uid_1_5d8e24f04866b.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"56737","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_1_5d8e24f04866b_rand","tdc_css_class":"td_uid_1_5d8e24f04866b_rand","tdc_css_class_style":"td_uid_1_5d8e24f04866b_rand_style"}';
-block_td_uid_1_5d8e24f04866b.td_column_number = "3";
-block_td_uid_1_5d8e24f04866b.block_type = "td_block_mega_menu";
-block_td_uid_1_5d8e24f04866b.post_count = "5";
-block_td_uid_1_5d8e24f04866b.found_posts = "21";
-block_td_uid_1_5d8e24f04866b.header_color = "";
-block_td_uid_1_5d8e24f04866b.ajax_pagination_infinite_stop = "";
-block_td_uid_1_5d8e24f04866b.max_num_pages = "5";
-tdBlocksArray.push(block_td_uid_1_5d8e24f04866b);
+var block_td_uid_1_5d8e258b26fc3 = new tdBlock();
+block_td_uid_1_5d8e258b26fc3.id = "td_uid_1_5d8e258b26fc3";
+block_td_uid_1_5d8e258b26fc3.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"56737","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_1_5d8e258b26fc3_rand","tdc_css_class":"td_uid_1_5d8e258b26fc3_rand","tdc_css_class_style":"td_uid_1_5d8e258b26fc3_rand_style"}';
+block_td_uid_1_5d8e258b26fc3.td_column_number = "3";
+block_td_uid_1_5d8e258b26fc3.block_type = "td_block_mega_menu";
+block_td_uid_1_5d8e258b26fc3.post_count = "5";
+block_td_uid_1_5d8e258b26fc3.found_posts = "21";
+block_td_uid_1_5d8e258b26fc3.header_color = "";
+block_td_uid_1_5d8e258b26fc3.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5d8e258b26fc3.max_num_pages = "5";
+tdBlocksArray.push(block_td_uid_1_5d8e258b26fc3);
 
 
 
@@ -141,17 +141,17 @@ Màn ‘drift’ của chiếc Lamborghini ‘độ’ bị xe tải Dakar bay q
 
 TIN MỚI
 
-var block_td_uid_2_5d8e24f0524d9 = new tdBlock();
-block_td_uid_2_5d8e24f0524d9.id = "td_uid_2_5d8e24f0524d9";
-block_td_uid_2_5d8e24f0524d9.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53982","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_2_5d8e24f0524d9_rand","tdc_css_class":"td_uid_2_5d8e24f0524d9_rand","tdc_css_class_style":"td_uid_2_5d8e24f0524d9_rand_style"}';
-block_td_uid_2_5d8e24f0524d9.td_column_number = "3";
-block_td_uid_2_5d8e24f0524d9.block_type = "td_block_mega_menu";
-block_td_uid_2_5d8e24f0524d9.post_count = "5";
-block_td_uid_2_5d8e24f0524d9.found_posts = "232";
-block_td_uid_2_5d8e24f0524d9.header_color = "";
-block_td_uid_2_5d8e24f0524d9.ajax_pagination_infinite_stop = "";
-block_td_uid_2_5d8e24f0524d9.max_num_pages = "47";
-tdBlocksArray.push(block_td_uid_2_5d8e24f0524d9);
+var block_td_uid_2_5d8e258b41122 = new tdBlock();
+block_td_uid_2_5d8e258b41122.id = "td_uid_2_5d8e258b41122";
+block_td_uid_2_5d8e258b41122.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53982","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_2_5d8e258b41122_rand","tdc_css_class":"td_uid_2_5d8e258b41122_rand","tdc_css_class_style":"td_uid_2_5d8e258b41122_rand_style"}';
+block_td_uid_2_5d8e258b41122.td_column_number = "3";
+block_td_uid_2_5d8e258b41122.block_type = "td_block_mega_menu";
+block_td_uid_2_5d8e258b41122.post_count = "5";
+block_td_uid_2_5d8e258b41122.found_posts = "232";
+block_td_uid_2_5d8e258b41122.header_color = "";
+block_td_uid_2_5d8e258b41122.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5d8e258b41122.max_num_pages = "47";
+tdBlocksArray.push(block_td_uid_2_5d8e258b41122);
 
 
 
@@ -191,17 +191,17 @@ Dù không phải đổ xăng, xe điện vẫn phải trả phí cao hơn
 
 
 
-var block_td_uid_2_5d8e24f0524d9 = new tdBlock();
-block_td_uid_2_5d8e24f0524d9.id = "td_uid_2_5d8e24f0524d9";
-block_td_uid_2_5d8e24f0524d9.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53982","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_2_5d8e24f0524d9_rand","tdc_css_class":"td_uid_2_5d8e24f0524d9_rand","tdc_css_class_style":"td_uid_2_5d8e24f0524d9_rand_style"}';
-block_td_uid_2_5d8e24f0524d9.td_column_number = "3";
-block_td_uid_2_5d8e24f0524d9.block_type = "td_block_mega_menu";
-block_td_uid_2_5d8e24f0524d9.post_count = "5";
-block_td_uid_2_5d8e24f0524d9.found_posts = "232";
-block_td_uid_2_5d8e24f0524d9.header_color = "";
-block_td_uid_2_5d8e24f0524d9.ajax_pagination_infinite_stop = "";
-block_td_uid_2_5d8e24f0524d9.max_num_pages = "47";
-tdBlocksArray.push(block_td_uid_2_5d8e24f0524d9);
+var block_td_uid_2_5d8e258b41122 = new tdBlock();
+block_td_uid_2_5d8e258b41122.id = "td_uid_2_5d8e258b41122";
+block_td_uid_2_5d8e258b41122.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53982","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_2_5d8e258b41122_rand","tdc_css_class":"td_uid_2_5d8e258b41122_rand","tdc_css_class_style":"td_uid_2_5d8e258b41122_rand_style"}';
+block_td_uid_2_5d8e258b41122.td_column_number = "3";
+block_td_uid_2_5d8e258b41122.block_type = "td_block_mega_menu";
+block_td_uid_2_5d8e258b41122.post_count = "5";
+block_td_uid_2_5d8e258b41122.found_posts = "232";
+block_td_uid_2_5d8e258b41122.header_color = "";
+block_td_uid_2_5d8e258b41122.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5d8e258b41122.max_num_pages = "47";
+tdBlocksArray.push(block_td_uid_2_5d8e258b41122);
 
 
 
@@ -251,17 +251,17 @@ Dù không phải đổ xăng, xe điện vẫn phải trả phí cao hơn
 
 1001 CHUYỆN XE
 
-var block_td_uid_3_5d8e24f05e67d = new tdBlock();
-block_td_uid_3_5d8e24f05e67d.id = "td_uid_3_5d8e24f05e67d";
-block_td_uid_3_5d8e24f05e67d.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53983","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_3_5d8e24f05e67d_rand","tdc_css_class":"td_uid_3_5d8e24f05e67d_rand","tdc_css_class_style":"td_uid_3_5d8e24f05e67d_rand_style"}';
-block_td_uid_3_5d8e24f05e67d.td_column_number = "3";
-block_td_uid_3_5d8e24f05e67d.block_type = "td_block_mega_menu";
-block_td_uid_3_5d8e24f05e67d.post_count = "5";
-block_td_uid_3_5d8e24f05e67d.found_posts = "125";
-block_td_uid_3_5d8e24f05e67d.header_color = "";
-block_td_uid_3_5d8e24f05e67d.ajax_pagination_infinite_stop = "";
-block_td_uid_3_5d8e24f05e67d.max_num_pages = "25";
-tdBlocksArray.push(block_td_uid_3_5d8e24f05e67d);
+var block_td_uid_3_5d8e258b56298 = new tdBlock();
+block_td_uid_3_5d8e258b56298.id = "td_uid_3_5d8e258b56298";
+block_td_uid_3_5d8e258b56298.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53983","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_3_5d8e258b56298_rand","tdc_css_class":"td_uid_3_5d8e258b56298_rand","tdc_css_class_style":"td_uid_3_5d8e258b56298_rand_style"}';
+block_td_uid_3_5d8e258b56298.td_column_number = "3";
+block_td_uid_3_5d8e258b56298.block_type = "td_block_mega_menu";
+block_td_uid_3_5d8e258b56298.post_count = "5";
+block_td_uid_3_5d8e258b56298.found_posts = "125";
+block_td_uid_3_5d8e258b56298.header_color = "";
+block_td_uid_3_5d8e258b56298.ajax_pagination_infinite_stop = "";
+block_td_uid_3_5d8e258b56298.max_num_pages = "25";
+tdBlocksArray.push(block_td_uid_3_5d8e258b56298);
 
 
 
@@ -301,17 +301,17 @@ Bugatti Chiron, ‘xe hơi chạy nhanh nhất thế giới,’ 300 dặm/giờ
 
 
 
-var block_td_uid_3_5d8e24f05e67d = new tdBlock();
-block_td_uid_3_5d8e24f05e67d.id = "td_uid_3_5d8e24f05e67d";
-block_td_uid_3_5d8e24f05e67d.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53983","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_3_5d8e24f05e67d_rand","tdc_css_class":"td_uid_3_5d8e24f05e67d_rand","tdc_css_class_style":"td_uid_3_5d8e24f05e67d_rand_style"}';
-block_td_uid_3_5d8e24f05e67d.td_column_number = "3";
-block_td_uid_3_5d8e24f05e67d.block_type = "td_block_mega_menu";
-block_td_uid_3_5d8e24f05e67d.post_count = "5";
-block_td_uid_3_5d8e24f05e67d.found_posts = "125";
-block_td_uid_3_5d8e24f05e67d.header_color = "";
-block_td_uid_3_5d8e24f05e67d.ajax_pagination_infinite_stop = "";
-block_td_uid_3_5d8e24f05e67d.max_num_pages = "25";
-tdBlocksArray.push(block_td_uid_3_5d8e24f05e67d);
+var block_td_uid_3_5d8e258b56298 = new tdBlock();
+block_td_uid_3_5d8e258b56298.id = "td_uid_3_5d8e258b56298";
+block_td_uid_3_5d8e258b56298.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53983","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_3_5d8e258b56298_rand","tdc_css_class":"td_uid_3_5d8e258b56298_rand","tdc_css_class_style":"td_uid_3_5d8e258b56298_rand_style"}';
+block_td_uid_3_5d8e258b56298.td_column_number = "3";
+block_td_uid_3_5d8e258b56298.block_type = "td_block_mega_menu";
+block_td_uid_3_5d8e258b56298.post_count = "5";
+block_td_uid_3_5d8e258b56298.found_posts = "125";
+block_td_uid_3_5d8e258b56298.header_color = "";
+block_td_uid_3_5d8e258b56298.ajax_pagination_infinite_stop = "";
+block_td_uid_3_5d8e258b56298.max_num_pages = "25";
+tdBlocksArray.push(block_td_uid_3_5d8e258b56298);
 
 
 
@@ -361,17 +361,17 @@ Bugatti Chiron, ‘xe hơi chạy nhanh nhất thế giới,’ 300 dặm/giờ
 
 BẢO DƯỠNG XE
 
-var block_td_uid_4_5d8e24f06b351 = new tdBlock();
-block_td_uid_4_5d8e24f06b351.id = "td_uid_4_5d8e24f06b351";
-block_td_uid_4_5d8e24f06b351.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53984","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_4_5d8e24f06b351_rand","tdc_css_class":"td_uid_4_5d8e24f06b351_rand","tdc_css_class_style":"td_uid_4_5d8e24f06b351_rand_style"}';
-block_td_uid_4_5d8e24f06b351.td_column_number = "3";
-block_td_uid_4_5d8e24f06b351.block_type = "td_block_mega_menu";
-block_td_uid_4_5d8e24f06b351.post_count = "5";
-block_td_uid_4_5d8e24f06b351.found_posts = "55";
-block_td_uid_4_5d8e24f06b351.header_color = "";
-block_td_uid_4_5d8e24f06b351.ajax_pagination_infinite_stop = "";
-block_td_uid_4_5d8e24f06b351.max_num_pages = "11";
-tdBlocksArray.push(block_td_uid_4_5d8e24f06b351);
+var block_td_uid_4_5d8e258b76dae = new tdBlock();
+block_td_uid_4_5d8e258b76dae.id = "td_uid_4_5d8e258b76dae";
+block_td_uid_4_5d8e258b76dae.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53984","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_4_5d8e258b76dae_rand","tdc_css_class":"td_uid_4_5d8e258b76dae_rand","tdc_css_class_style":"td_uid_4_5d8e258b76dae_rand_style"}';
+block_td_uid_4_5d8e258b76dae.td_column_number = "3";
+block_td_uid_4_5d8e258b76dae.block_type = "td_block_mega_menu";
+block_td_uid_4_5d8e258b76dae.post_count = "5";
+block_td_uid_4_5d8e258b76dae.found_posts = "55";
+block_td_uid_4_5d8e258b76dae.header_color = "";
+block_td_uid_4_5d8e258b76dae.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5d8e258b76dae.max_num_pages = "11";
+tdBlocksArray.push(block_td_uid_4_5d8e258b76dae);
 
 
 
@@ -411,17 +411,17 @@ Làm gì khi chìa khóa xe hơi ‘remote key fob’ ngưng hoạt động?
 
 
 
-var block_td_uid_4_5d8e24f06b351 = new tdBlock();
-block_td_uid_4_5d8e24f06b351.id = "td_uid_4_5d8e24f06b351";
-block_td_uid_4_5d8e24f06b351.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53984","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_4_5d8e24f06b351_rand","tdc_css_class":"td_uid_4_5d8e24f06b351_rand","tdc_css_class_style":"td_uid_4_5d8e24f06b351_rand_style"}';
-block_td_uid_4_5d8e24f06b351.td_column_number = "3";
-block_td_uid_4_5d8e24f06b351.block_type = "td_block_mega_menu";
-block_td_uid_4_5d8e24f06b351.post_count = "5";
-block_td_uid_4_5d8e24f06b351.found_posts = "55";
-block_td_uid_4_5d8e24f06b351.header_color = "";
-block_td_uid_4_5d8e24f06b351.ajax_pagination_infinite_stop = "";
-block_td_uid_4_5d8e24f06b351.max_num_pages = "11";
-tdBlocksArray.push(block_td_uid_4_5d8e24f06b351);
+var block_td_uid_4_5d8e258b76dae = new tdBlock();
+block_td_uid_4_5d8e258b76dae.id = "td_uid_4_5d8e258b76dae";
+block_td_uid_4_5d8e258b76dae.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53984","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_4_5d8e258b76dae_rand","tdc_css_class":"td_uid_4_5d8e258b76dae_rand","tdc_css_class_style":"td_uid_4_5d8e258b76dae_rand_style"}';
+block_td_uid_4_5d8e258b76dae.td_column_number = "3";
+block_td_uid_4_5d8e258b76dae.block_type = "td_block_mega_menu";
+block_td_uid_4_5d8e258b76dae.post_count = "5";
+block_td_uid_4_5d8e258b76dae.found_posts = "55";
+block_td_uid_4_5d8e258b76dae.header_color = "";
+block_td_uid_4_5d8e258b76dae.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5d8e258b76dae.max_num_pages = "11";
+tdBlocksArray.push(block_td_uid_4_5d8e258b76dae);
 
 
 
@@ -471,17 +471,17 @@ Làm gì khi chìa khóa xe hơi ‘remote key fob’ ngưng hoạt động?
 
 BÍ QUYẾT LÁI XE
 
-var block_td_uid_5_5d8e24f075815 = new tdBlock();
-block_td_uid_5_5d8e24f075815.id = "td_uid_5_5d8e24f075815";
-block_td_uid_5_5d8e24f075815.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53985","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_5_5d8e24f075815_rand","tdc_css_class":"td_uid_5_5d8e24f075815_rand","tdc_css_class_style":"td_uid_5_5d8e24f075815_rand_style"}';
-block_td_uid_5_5d8e24f075815.td_column_number = "3";
-block_td_uid_5_5d8e24f075815.block_type = "td_block_mega_menu";
-block_td_uid_5_5d8e24f075815.post_count = "5";
-block_td_uid_5_5d8e24f075815.found_posts = "40";
-block_td_uid_5_5d8e24f075815.header_color = "";
-block_td_uid_5_5d8e24f075815.ajax_pagination_infinite_stop = "";
-block_td_uid_5_5d8e24f075815.max_num_pages = "8";
-tdBlocksArray.push(block_td_uid_5_5d8e24f075815);
+var block_td_uid_5_5d8e258b866b5 = new tdBlock();
+block_td_uid_5_5d8e258b866b5.id = "td_uid_5_5d8e258b866b5";
+block_td_uid_5_5d8e258b866b5.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53985","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_5_5d8e258b866b5_rand","tdc_css_class":"td_uid_5_5d8e258b866b5_rand","tdc_css_class_style":"td_uid_5_5d8e258b866b5_rand_style"}';
+block_td_uid_5_5d8e258b866b5.td_column_number = "3";
+block_td_uid_5_5d8e258b866b5.block_type = "td_block_mega_menu";
+block_td_uid_5_5d8e258b866b5.post_count = "5";
+block_td_uid_5_5d8e258b866b5.found_posts = "40";
+block_td_uid_5_5d8e258b866b5.header_color = "";
+block_td_uid_5_5d8e258b866b5.ajax_pagination_infinite_stop = "";
+block_td_uid_5_5d8e258b866b5.max_num_pages = "8";
+tdBlocksArray.push(block_td_uid_5_5d8e258b866b5);
 
 
 
@@ -521,17 +521,17 @@ Kiểu xe hơi nào được người Mỹ chạy nhiều mile nhất?
 
 
 
-var block_td_uid_5_5d8e24f075815 = new tdBlock();
-block_td_uid_5_5d8e24f075815.id = "td_uid_5_5d8e24f075815";
-block_td_uid_5_5d8e24f075815.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53985","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_5_5d8e24f075815_rand","tdc_css_class":"td_uid_5_5d8e24f075815_rand","tdc_css_class_style":"td_uid_5_5d8e24f075815_rand_style"}';
-block_td_uid_5_5d8e24f075815.td_column_number = "3";
-block_td_uid_5_5d8e24f075815.block_type = "td_block_mega_menu";
-block_td_uid_5_5d8e24f075815.post_count = "5";
-block_td_uid_5_5d8e24f075815.found_posts = "40";
-block_td_uid_5_5d8e24f075815.header_color = "";
-block_td_uid_5_5d8e24f075815.ajax_pagination_infinite_stop = "";
-block_td_uid_5_5d8e24f075815.max_num_pages = "8";
-tdBlocksArray.push(block_td_uid_5_5d8e24f075815);
+var block_td_uid_5_5d8e258b866b5 = new tdBlock();
+block_td_uid_5_5d8e258b866b5.id = "td_uid_5_5d8e258b866b5";
+block_td_uid_5_5d8e258b866b5.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"53985","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_5_5d8e258b866b5_rand","tdc_css_class":"td_uid_5_5d8e258b866b5_rand","tdc_css_class_style":"td_uid_5_5d8e258b866b5_rand_style"}';
+block_td_uid_5_5d8e258b866b5.td_column_number = "3";
+block_td_uid_5_5d8e258b866b5.block_type = "td_block_mega_menu";
+block_td_uid_5_5d8e258b866b5.post_count = "5";
+block_td_uid_5_5d8e258b866b5.found_posts = "40";
+block_td_uid_5_5d8e258b866b5.header_color = "";
+block_td_uid_5_5d8e258b866b5.ajax_pagination_infinite_stop = "";
+block_td_uid_5_5d8e258b866b5.max_num_pages = "8";
+tdBlocksArray.push(block_td_uid_5_5d8e258b866b5);
 
 
 
