@@ -1,2 +1,2 @@
-us/en_us/support/customer-support
+us/en_us/support/training-programs
 support.txt

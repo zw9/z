@@ -1,2 +1,2 @@
-us/en_us/products/closed-door-pharmacy
+us/en_us/products/performance-center
 products.txt

@@ -1,2 +1,2 @@
-us/en_us/products
+us/en_us/sitemap
 en_us.txt
