@@ -11,6 +11,7 @@ Created on Sun Sep 15 22:27:14 2019
 import re
 import io
 import glob
+import os
 
 # !pwd
 
@@ -31,11 +32,20 @@ fnmd1.extend(glob.glob('./**/*.txt', recursive=True))
 fnmd1.extend(glob.glob('./**/*.md', recursive=True))
 # fnmd1.extend ( glob.glob('./**/*.ipynb',recursive=True))
 # display(fnmd)
-
+a=0
+g.write('<table border=1><tr>')
+gfnhtml.write('<table border=1><tr>')
 for f in fnmd1:
+    a +=1
+    b = a % 5
+    if b == 0:
+        g.write('</tr><tr>')
+        gfnhtml.write('</tr><tr>')
     # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-    g.write('#### [' + f + ']' + '(' + f + ')' + "\n")
-    gfnhtml.write('<a href="' + f + '">' + f + '</a><br>' + "\n")
+    g.write('<td>#### [' + os.path.basename(f).replace("-"," ") + ']' + '(' + f + ')' + "\n</td>")
+    gfnhtml.write('<td><a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a><br></td>' + "\n")
+gfnhtml.write('</tr></table>')
+g.write('</tr></table>')
 
 g.close()
 gfnhtml.close()
