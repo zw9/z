@@ -1,0 +1,92 @@
+https://blog.ncqa.org/ncqa-white-paper-rheumatoid-arthritis-transforming-care-delivery-to-a-value-based-model/
+ncqa-white-paper-rheumatoid-arthritis-transforming-care-delivery-to-a-value-based-model.txt
+## NCQA White Paper: Rheumatoid Arthritis: Transforming Care Delivery to a Value-Based Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCQA White Paper: Rheumatoid Arthritis: Transforming Care Delivery to a Value-Based Model
+
+Rheumatoid arthritis (RA) is a chronic condition that affects about 1.5 million Americans. Its inflammatory effects include pain, fatigue, stiffness and swollen joints—symptoms that exact a toll on quality of life. Many people with RA report no longer participating in activities and changing jobs because of the disease.[1]
+
+Like many chronic conditions, RA is costly to diagnose and treat: Some estimates put the U.S. financial burden at $8.4 billion annually for direct costs and another $10.9 billion in indirect costs. [2]
+
+NCQA knows that RA is a significant public health concern. In November 2018 we met with experts in the fields of RA treatment and quality measurement to identify barriers to quality care and to brainstorm potential solutions to those barriers. A working group of RA experts convened at the Digital Quality Summit with NCQA measure experts and developed an outline for a quality measure to help track outcomes for patients being treated for RA. After the summit, NCQA hosted an 11-person roundtable with RA treatment experts, patient representatives and policy experts to discuss barriers and solutions to value-based RA care. Findings from these meetings were published as Rheumatoid Arthritis: Transforming Care Delivery to a Value-Based Model, which can be downloaded here.
+
+Barriers to Value-Based Care
+
+Rheumatoid arthritis can be difficult to treat because it affects people differently. Frequent flare-ups and remissions make tracking progress a challenge and patients and clinicians may have different opinions about whether treatments are successful. There are many clinical tools for assessing disease activity, but they are often underutilized. Electronic medical records (EMR) have a limited capability to track and process data collected by clinical tools, which presents a barrier to developing alternative payment models (APM). APMs were created by the Centers for Medicare & Medicaid Services as part of the Quality Payment Program and provide a framework to reward clinicians for improving health outcomes for their patients.
+
+There are other barriers to development of APMs: Practices must commit time and other resources to transform from traditional care delivery to a value-based care model. For rheumatology practices, transformation can require upgrades to infrastructure, systems for follow-up, coordination with primary care and other administrative costs. Clinicians may also have to assume financial risk for poor outcomes that may be beyond their control.
+
+Overcoming Barriers
+
+Health care quality improvement, and improvement of RA care, specifically, is a multi-stakeholder endeavor that takes time and requires patience. Programs such as NCQA’s Patient-Centered Specialty Practice Recognition provide a roadmap to success for clinicians and care teams that want to make the change toward value-based care. NCQA believes that the strategies described in the paper can help overcome barriers for people with RA—and other conditions, potentially —to provide better outcomes and better health care.
+
+ 
+NCQA created this white paper with generous sponsorship from Janssen Pharmaceutical Companies.
+
+
+[1]   Rheumatoid Arthritis. (2019, 3 1). Retrieved from Mayo Clinic: https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648
+
+[2]   Birnbaum H, Pike C, Kaufman R, et al. Societal cost of rheumatoid arthritis patients in the U.S. Curr Med Res Opin. 2010;26(1):77-90.
+
+Michael Braaten is Senior Corporate Relations Lead with NCQA and has been with the organization since 2016.
+
+STAY CURRENT
+
+Get NCQA’s Latest Updates
+
+Recent Posts
+
+
+
+NCQA Speaks: 2020 Medicare Physician Payments
+Sep 23, 2019
+
+
+
+
+NCQA White Paper: Rheumatoid Arthritis: Transforming Care Delivery to a Value-Based Model
+Sep 20, 2019
+
+
+
+
+Behavioral Health: Employers Mark Your Calendars
+Sep 18, 2019
+
+
+Receive great posts like these in your inbox
+
+Subscribe to NCQA emails now
+

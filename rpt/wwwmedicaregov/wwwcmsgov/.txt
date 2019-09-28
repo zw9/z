@@ -1,0 +1,421 @@
+http://www.cms.gov/
+.txt
+## Home - Centers for Medicare & Medicaid Services 
+The page could not be loaded. The CMS.gov Web site currently does not fully support browsers with 
+			“JavaScript” disabled. Please enable “JavaScript” and revisit this page or proceed with browsing CMS.gov with 
+			“JavaScript” disabled. 
+			
+			Instructions for enabling “JavaScript” can be found here. 
+				 Please note that if you choose 
+			to continue without enabling “JavaScript” certain functionalities on this website may not be available.
+			
+
+
+
+							Sites dropdown menu to change between sites
+
+Expand
+Expand
+
+
+
+
+
+									Home - Opens in a new window
+
+
+
+About CMS
+
+
+Newsroom
+
+
+
+									Archive - Opens in a new window
+
+
+
+
+
+
+
+									Home - Opens in a new window
+
+
+
+
+About CMS
+
+
+
+Newsroom
+
+
+
+
+									Archive - Opens in a new window
+
+
+
+
+
+							Tools dropdown menu to share, print or email
+
+Expand
+Expand
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+Help
+
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Help
+
+
+
+
+
+
+
+Print
+
+
+
+Main Menu
+
+
+Medicare
+
+
+
+Medicaid/CHIP
+
+
+
+
+							Medicare-Medicaid 
+							Coordination
+						
+
+
+
+Private Insurance
+
+
+
+Innovation Center
+
+
+
+Regulations & Guidance
+
+
+
+
+							Research, Statistics, 
+							Data & Systems
+						
+
+
+
+Outreach & Education
+
+
+CMS.gov
+
+
+Empowering Patients
+
+
+Focusing on Results
+
+
+Unleashing Innovation
+
+Learn about our responses to recent emergencies and find the latest program guidance.
+
+CMS news
+
+Top 5 resources
+
+Manuals
+
+Medicare coverage database
+
+CMS forms
+
+Transmittals
+
+MLN Homepage
+
+We’re putting patients first.
+
+We pledge to put patients first in all of our programs – Medicaid, Medicare, and the Health Insurance Exchanges. To do this, we must empower patients to work with their doctors and make health care decisions that are best for them.
+							
+
+
+    							This means giving them meaningful information about quality and costs to be active health care consumers. It also includes supporting innovative approaches to improving quality, accessibility, and affordability, while finding the best ways to use innovative technology to support patient-centered care.
+							
+
+
+    							But we can’t and we don’t do all of this alone. Learn more about how we are working together to ensure all patients get the very best health care.
+							
+
+Spotlight
+
+
+
+Our 16 strategic initiatives: get details about each initiative
+
+
+
+
+
+Using Medicare Beneficiary Identifiers: Get information about the transition period
+
+
+
+
+
+Quality Payment Program: Learn about the Quality Payment Program & how we’re paying for value & better care
+
+
+
+
+
+Open Payments program: Find out about the Open Payments program (the Sunshine Act) & what it means for you
+
+
+
+
+
+Patients Over Paperwork: See how we’re putting Patients Over Paperwork
+
+
+
+
+
+Reducing opioid misuse: Learn how we’re responding to the opioid epidemic
+
+
+
+Information for people with 
+                                                  Medicare, Medicare open 
+                                                  enrollment, and benefits.
+
+
+ Information for children up to the age of 19 in need of health care coverage.
+
+
+Information for people who need health insurance and want to apply for or enroll in the Marketplace. 
+
+Stay connected with CMS
+
+Footer
+
+
+							A federal government website managed and paid for by the U.S. Centers for Medicare & Medicaid Services.
+							7500 Security Boulevard, Baltimore, MD 21244
+						
+
+ Medicaid Services.
+							7500 Security Boulevard, Baltimore, MD 21244
+						
+
+
+					CMS & HHS Websites
+					
+Visit other Centers for Medicare and Medicaid Services & Health and Human Services Websites section
+Expand
+
+
+
+
+
+							Medicare.gov Link to the medicare.gov website - Opens in a new window
+
+
+
+
+
+							MyMedicare.govLink to the MyMedicare.gov website - Opens in a new window
+
+
+
+
+
+							Medicaid.gov - Opens in a new window
+
+
+
+
+
+							InsureKidsNow.gov - Opens in a new window
+
+
+
+
+
+							HealthCare.gov - Opens in a new window
+
+
+
+
+
+							HHS.gov/Open - Opens in a new window
+
+
+
+
+					Tools
+					
+Open list of various Medicare and Medicaid tools section
+Expand
+
+
+
+
+
+							AcronymsCenters for Medicare & Medicaid Services Acronym Lookup tool - Opens in a new window
+
+
+
+
+
+							Contacts - Opens in a new window
+
+
+
+
+
+							Glossary - Opens in a new window
+
+
+
+
+
+							Archive - Opens in a new window
+
+
+
+
+					Helpful Links
+					
+Open list to view helpful links for all Centers for Medicare & Medicaid Services websites section
+Expand
+
+
+
+
+Web Policies & Important Links
+
+
+
+
+              if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+              {
+                document.write('<a class="titlelink" href="https://imp.developer.cms.gov/" title="For Developers">For Developers</a>');
+              } else {
+                document.write('<a class="titlelink" href="https://developer.cms.gov/" title="For Developers">For Developers</a>');
+              }
+            
+
+
+
+
+
+              if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+              {
+                document.write('<a class="titlelink" href="https://imp.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+              } else {
+                document.write('<a class="titlelink" href="https://www.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+              }
+            
+
+
+
+ Privacy settings
+
+
+
+ Plain Language
+
+
+
+Freedom of Information Act
+
+
+
+
+							No Fear Act
+						
+
+
+
+Nondiscrimination/Accessibility
+
+
+
+
+							HHS.gov - Opens in a new window
+
+
+
+
+
+							Inspector General
+							 - Opens in a new window
+
+
+
+
+
+							USA.gov
+							 - Opens in a new window
+
+
+
+
+
+							Help with file formats & plug-ins
+							Help with file formats & plug-ins commonly used by the Centers for Medicare & Medicaid Services
+
+
+
+Receive Email Updates
+

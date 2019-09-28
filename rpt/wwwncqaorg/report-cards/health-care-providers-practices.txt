@@ -1,0 +1,9 @@
+https://www.ncqa.org/report-cards/health-care-providers-practices/
+health-care-providers-practices.txt
+## NCQA Report Cards
+By clicking "I accept", you agree to this site's Terms of Use. Use
+            of this web site, services, or content is entirely at your own risk and NCQA assumes no liability or responsibility.
+            Information contained on or provided through this website or links to the website is intended for general consumer
+            understanding and education only and is not intended to be a guarantee of the quality of any health care
+            organization or clinician and is not a substitute for professional medical advice.
+

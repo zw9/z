@@ -1,0 +1,265 @@
+https://www.ncqa.org/programs/data-and-information-technology/onc-hit-testing/
+onc-hit-testing.txt
+## ONC HIT Testing - NCQA
+   Shop Our Products 
+
+   Contact Us 
+
+   Log in 
+
+Our ProgramsHealth Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition ProgramHealth Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital QualityData & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Health Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition Program
+
+Patient-Centered Medical Home (PCMH)
+
+PCMH Certified Content Expert (CCE)
+
+Government PCMH Recognition Programs
+
+Patient-Centered Specialty Practice (PCSP)
+
+Oncology Medical Home
+
+Patient-Centered Connected Care
+
+School Based Medical Home Recognition
+
+Accountable Care Organizations (ACO)
+
+Heart/Stroke Recognition Program
+
+Diabetes Recognition Program
+
+Health Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital Quality
+
+Health Plan Accreditation
+
+Population Health Program Accreditation
+
+Case Management
+
+Utilization Management
+
+Credentialing
+
+Credentials Verification Organization (CVO)
+
+Long-Term Services and Supports (LTSS)
+
+Provider Network
+
+Managed Behavioral Healthcare Organizations (MBHO)
+
+Wellness and Health Promotion
+
+Multicultural Health Care
+
+Disease Management
+
+Health Information Products
+
+Physician and Hospital Quality
+
+Data & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Data: Purchase and Licensing
+
+ONC HIT Testing
+
+HIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+eCQM Certification
+
+Health Information Technology Prevalidation Programs
+
+CAHPS 5.0H Survey Certification
+
+HEDIS Compliance Audit Certification
+
+Measure Certification
+
+HEDISOverviewHEDIS Measures and Technical ResourcesUsing HEDIS MeasuresData SubmissionMeasurement Certification ProgramsReports and ResearchHEDIS Users Group (HUG)The Future of HEDIS
+
+Overview
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data Submission
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDIS
+
+Report CardsHealth Care Providers & Practices Health PlansOther Health Care Organizations 
+
+Health Care Providers & Practices 
+
+Health Plans
+
+Other Health Care Organizations 
+
+Education & TrainingSeminars, Webinars and On-demand TrainingQuality Talks Conference How to Request a SpeakerPolicies and Discounts
+
+Seminars, Webinars and On-demand Training
+
+Quality Talks Conference 
+
+How to Request a Speaker
+
+Policies and Discounts
+
+About NCQAOverviewLeadershipNewsSponsorship & EventsContractual Services (Quality Solutions Group)CareersContact UsAdvertising and Marketing Your NCQA Status
+
+Overview
+
+Leadership
+
+News
+
+Sponsorship & Events
+
+Contractual Services (Quality Solutions Group)
+
+Careers
+
+Contact Us
+
+Advertising and Marketing Your NCQA Status
+
+ Home
+
+  Our Programs 
+
+  Data and Information Technology 
+
+ ONC HIT Testing
+
+Data and Information Technology
+
+Data: Purchase and LicensingQuality CompassData Licensing
+
+Quality Compass
+
+Data Licensing
+
+ONC HIT Testing
+
+HIT and Data Certification
+
+ONC Health IT Testing
+
+Electronic Clinical Quality Measures (eCQMs) Testing for ONC Health IT Certification
+
+Overview
+
+As part of becoming a Certified Electronic Health Record Technology (CEHRT) by the Centers for Medicare & Medicaid Services (CMS), organizations that process electronic clinical quality measures (eCQM) must undergo testing to validate that they calculate the measures accurately.
+
+NCQA is an approved ONC Authorized Test Lab (ATL). This means that NCQA’s testing method can be used by health information technology (health IT) developers for applicable ONC Health IT Certification Program eCQM certification criteria.
+
+NCQA’s eCQM tool is the only industry-developed testing method for health IT currently approved by ONC for use in the program.
+
+Why test eCQMs?
+
+Organizations use eCQMs to track and monitor the quality of care delivered by providers that use electronic clinical data. Testing ensures that the measure code meets current standards, improves the accuracy of reporting measures and produces reliable and comparable results.
+
+CMS requires that any health IT system processing eCQMs used as part of its quality reporting programs must undergo testing through an authorized method.
+
+For more information about testing, contact us through My NCQA.
+
+How does it work?
+
+NCQA creates unique sets of sample data, or “test decks,” for each eCQM, developed from randomly generated synthetic patient-level test data.
+
+You process a test deck using your measure code.
+
+NCQA compares your results to the expected results to determine if your software’s code computes the measure correctly.
+
+NCQA also validates the software’s ability to report the correct results in the standard QRDA Categories I and III document formats.
+
+Multiple test decks are available for each measure, so you can correct errors.
+
+A measure is fully tested when it passes all test cases.
+
+When your measures have passed testing, you will be issued a report that will also be sent to your preferred Authorized Certification Body (ACB) so you can earn certification.
+
+Learn more about the process.
+
+Why Test With NCQA?
+
+NCQA’s testing methodology is among the industry’s most rigorous for testing eCQMs, helping ensure better accuracy.
+
+The same eCQMs that are used for CMS Quality Payment Program (QPP) reporting will also be submitted for NCQA PCMH Recognition.
+
+In the future, only measurement data from sources certified by NCQA through eCQM testing will be accepted for NCQA PCMH Recognition.
+
+NCQA’s HEDIS and CMS Medicare Stars reporting programs can use certified eCQM data for performance measurement.
+
+Certified data in the approved QRDA format can be used as supplemental data and added to records used to calculate HEDIS measures at the health plan level. As a result, health plans can reduce the number of costly chart reviews.
+
+The Premier Healthcare Alliance has endorsed NCQA’s testing methodology.
+
+Oklahoma’s MyHealth Access Network has also endorsed NCQA’s testing methodology.
+
+Diameter Health said NCQA is more robust and comprehensive, delivers substantial value and is “more aligned” with real world.
+
+Resources
+
+Online Scoring Program: This web-based tool compares submitted eCQM results in QRDA format with NCQA’s expected results, and generates a discrepancy report. Note: You must apply for testing to be given access to the OSP.
+
+eCQI Resource Center: Resources that support electronic clinical quality improvement (eCQI).
+
+ONC Health IT Certification Program:Information about ONC’s health IT certification program.
+
+    Save  Save your favorite pages and receive notifications whenever they’re updated.You will be prompted to log in to your NCQA account.
+
+Save your favorite pages and receive notifications whenever they’re updated.
+
+You will be prompted to log in to your NCQA account.
+
+   Email Share this page with a friend or colleague by Email.We do not share your information with third parties.
+
+Share this page with a friend or colleague by Email.
+
+We do not share your information with third parties.
+
+   Print Print this page.
+
+Print this page.
+
+Blog 
+
+Public Policy
+
+Videos
+
+Podcasts
+
+Employers
+
+Consumers
+
+About Us
+
+Careers
+
+Contact Us
+
+My NCQA 
+
+Copyright © 2019 National Committee for Quality Assurance. Terms of Use
+
+   
+
+   
+
+   
+
+   
+

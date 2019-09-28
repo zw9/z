@@ -1,0 +1,215 @@
+http://dict.quehuong.org/translate.php
+translatephp.txt
+## Vietnamese Dictionary and Translation - Tự Điển Việt Anh Pháp Đức Hàn Quốc Nhật Bản Ý
+ Auto-Detect
+
+ Arabic
+
+ Bosnian (Latin)
+
+ Bulgarian
+
+ Catalan
+
+ Chinese Traditional
+
+ Croatian
+
+ Czech
+
+ Danish
+
+ Dutch
+
+ English
+
+ Estonian
+
+ Finnish
+
+ French
+
+ German
+
+ Greek
+
+ Haitian Creole
+
+ Hebrew
+
+ Hindi
+
+ Hmong Daw
+
+ Hungarian
+
+ Indonesian
+
+ Italian
+
+ Japanese
+
+ Klingon
+
+ Klingon (pIqaD)
+
+ Korean
+
+ Latvian
+
+ Chinese Simplified
+
+ Lithuanian
+
+ Malay
+
+ Maltese
+
+ Norwegian
+
+ Persian
+
+ Polish
+
+ Portuguese
+
+ Querétaro Otomi
+
+ Romanian
+
+ Russian
+
+ Serbian (Cyrillic)
+
+ Serbian (Latin)
+
+ Slovak
+
+ Slovenian
+
+ Spanish
+
+ Swedish
+
+ Thai
+
+ Turkish
+
+ Ukrainian
+
+ Urdu
+
+ Vietnamese
+
+ Welsh
+
+ Yucatec Maya
+
+ Arabic
+
+ Bosnian (Latin)
+
+ Bulgarian
+
+ Catalan
+
+ Chinese Simplified
+
+ Chinese Traditional
+
+ Croatian
+
+ Czech
+
+ Danish
+
+ Dutch
+
+ English
+
+ Estonian
+
+ Finnish
+
+ French
+
+ German
+
+ Greek
+
+ Haitian Creole
+
+ Hebrew
+
+ Hindi
+
+ Hmong Daw
+
+ Hungarian
+
+ Indonesian
+
+ Italian
+
+ Japanese
+
+ Klingon
+
+ Klingon (pIqaD)
+
+ Korean
+
+ Latvian
+
+ Lithuanian
+
+ Malay
+
+ Maltese
+
+ Norwegian
+
+ Persian
+
+ Polish
+
+ Portuguese
+
+ Querétaro Otomi
+
+ Romanian
+
+ Russian
+
+ Serbian (Cyrillic)
+
+ Serbian (Latin)
+
+ Slovak
+
+ Slovenian
+
+ Spanish
+
+ Swedish
+
+ Thai
+
+ Turkish
+
+ Ukrainian
+
+ Urdu
+
+ Vietnamese
+
+ Welsh
+
+ Yucatec Maya
+
+
+ 
+
+
+
+

@@ -1,0 +1,375 @@
+http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Help.html
+Aboutwebsite.txt
+## Help - Centers for Medicare & Medicaid Services
+The page could not be loaded. The CMS.gov Web site currently does not fully support browsers with 
+			“JavaScript” disabled. Please enable “JavaScript” and revisit this page or proceed with browsing CMS.gov with 
+			“JavaScript” disabled. 
+			
+			Instructions for enabling “JavaScript” can be found here. 
+				 Please note that if you choose 
+			to continue without enabling “JavaScript” certain functionalities on this website may not be available.
+			
+
+
+
+
+                  Home - Opens in a new window
+
+
+
+
+
+
+About CMS
+
+
+
+
+
+Newsroom
+
+
+
+
+
+
+                  Archive - Opens in a new window
+
+
+
+
+
+Share
+
+
+
+Help
+
+
+
+Print
+
+
+Main Menu
+
+
+Medicare
+
+
+
+Medicaid/CHIP
+
+
+
+Medicare-Medicaid Coordination
+
+
+
+Private Insurance
+
+
+
+Innovation Center
+
+
+
+Regulations & Guidance
+
+
+
+Research, Statistics, Data & Systems
+
+
+
+Outreach & Education
+
+
+Web Policies & Important Links
+
+Centers for Medicare & Medicaid Services (CMS) Website Privacy Policy
+
+CMS.gov Accessibility and Compliance with Section 508
+
+Freedom of Information Act
+
+No Fear Act
+
+CMS Accessibility & Nondiscrimination for Individuals with Disabilities Notice 
+
+Link to Us
+
+Policy for Linking to Outside Websites
+
+CMS.gov External Link Disclaimer
+
+Information Quality Guidelines
+
+Security Protocols to Protect Information
+
+Help
+
+About This Website
+
+CMS Contractor Website Guidelines
+
+CMS.gov Email Updates
+
+Help
+	
+
+File Formats and Plug-Ins
+
+Wherever possible, we will post information on cms.hhs.gov in open-standard, accessible formats (e.g., HTML). However, there are some areas of the website where specialized media must be used and plug-ins or special viewers may be needed to access the content. Below is a list of file types that are used on the website as well as further information on getting the plug-ins.
+
+Note on viewing and downloading files: Depending on the configuration of your computer, files of the types listed below may:
+
+Open inside of your web browser,
+
+Open in a new program window, or
+
+Ask you where to save the file. If you would like to download a copy of the file to your computer, right-click (on Windows) or command-click (on Macintosh) and choose "Save Target As..." (IE). This will allow you to save a copy of the file to your computer rather than having the file open inside your web browser.
+
+Open Formats
+
+Open formats can be viewed by a number of free or commercial packages:
+
+ZIP / Self-Extracting ZIP Version N/A:  ZIP files are used to simplify the download process by wrapping a number of separate files into a single "wrapper" and compressing the original files by a significant amount. ZIP and UNZIP software is available from a variety of vendors. Freeware packages available include StuffIt Expander from Allume Systems and Unzip. See the links in the Related Links Outside CMS section below.  Each runs on Windows, MacOS, and Linux systems. Linux and other UNIX systems include ZIP and UNZIP software in the base installation.
+
+CSV (Comma Separated Values)Version N/A:  A data format in which each piece of data is separated by a comma. This is a popular format for transferring data from one application to another, because most database and spreadsheet systems are able to import and export comma-delimited data. CSV files can be opened by the majority of spreadsheet and database programs available.
+
+RTF (Rich Text Format) Version N/A:  A standard formalized by Microsoft for specifying formatting of documents. RTF files are actually ASCII (plain text) files with special commands to indicate formatting information, such as fonts and margins. RTF files can be opened by the majority of word processing programs available.
+
+MP3 (MPEG-1, audio layer 3) Version N/A:  MP3 is a popular audio format with very high compression (e.g., very small file sizes).MP3 playing and recording software is available from a variety of software vendors. Quicktime and RealPlayer, listed later on this page, have the ability to play MP3 files. See the links in the Related Links Outside CMS section below.
+
+Propriety Formats
+
+Proprietary formats require a specific vendor's package to view the files.
+
+Adobe Acrobat / PDF (Portable Document Format) Version 5.0/4.0 or later:  Adobe Acrobat / PDF files are used to retain the formatting of printed documents. To view PDF files, you will need the Adobe Acrobat Reader (see the link in the Related Links Outsite CMS section below).  Note:  The Access Adobe Website is a resource for visually impaired users to better interact with PDF files via specialized accessibility software (e.g., screen readers). It has a number of tools for converting PDFs into other file formats.  Vendor:  Adobe Systems Incorporated.
+
+RealMedia G2 (RealAudio / RealVideo)Versions G2 or later:  RealMedia files are audio and video files designed to stream across the Internet. Vendor:  RealNetworks.To access more information, see the link in the Related Links Outside CMS section below.
+
+Quicktime Version 4 or later: Quicktime is an alternative audio / video format. Quicktime files do not stream, but are downloaded to your computer and then played.  Vendor:  Apple.  To access more information, see the link in the Related Links Outside CMS section below.
+
+Microsoft Word: Word is a popular word processing application. The viewer is available for Windows and MacOS platforms. Additionally, most other office suites (e.g., StarOffice, Lotus, WordPerfect) can read Word files. Vendor:  Microsoft. To access more information, see the link in the Related Links Outside CMS section below.
+
+WordPerfect Versions 5, 6.1, 8: WordPerfect is a popular word processing application. Most other office suites (e.g., StarOffice, Lotus, Word) can read WordPerfect files.  Vendor: Corel. To access more information, see the link in the Related Links Outside CMS section below.
+
+Microsoft Excel: Excel is a popular spreadsheet application from Microsoft. Occasionally, tabular data sets will be made available in Excel format. Additionally, most other office suites (e.g., StarOffice, Lotus, WordPerfect) can read Excel files.Vendor:  Microsoft. To access more information, see the link in the Related Links Outside CMS section below.
+
+Microsoft Access: Access is a popular desktop database management program from Microsoft. Large data sets with complex relationships will sometimes be made available for download in Access format. The viewer is available for the Windows and MacOS platforms. Additionally, most other office suites (e.g., StarOffice, Lotus, WordPerfect) can read Access files. Vendor:  Microsoft. To access more information, see the link in the Related Links Outside CMS section below.
+
+Microsoft PowerPoint:  PowerPoint is a presentation program from Microsoft. Some conference proceedings and briefing materials will be posted in PowerPoint format. The viewer is available for the Windows and MacOS platforms. Vendor:  Microsoft. To access more information, see the link in the Related Links Outside CMS section below.
+
+WMV (Windows Media Video): WMV is a high compression video format created by Microsoft. Microsoft Windows Media Player is used to view this format.  Vendor: Microsoft.  To access more information, see the link in the Related Links Outside CMS section below.
+
+Related Links
+
+
+StuffIt Expander from Allume Systems - Opens in a new window
+
+
+
+
+Unzip - Opens in a new window
+
+
+
+
+Adobe - Opens in a new window
+
+
+
+
+Access Adobe - Opens in a new window
+
+
+
+
+Adobe Reader - Opens in a new window
+
+
+
+
+Adobe Support - Opens in a new window
+
+
+
+
+RealNetworks - Opens in a new window
+
+
+
+
+Quicktime - Opens in a new window
+
+
+
+
+Microsoft Office Support - Opens in a new window
+
+
+
+
+									Page last Modified: 04/06/2017 3:31 PM
+							
+
+
+Help with File Formats and Plug-Ins
+
+
+Footer
+
+CMS & HHS Websites
+
+
+
+									Medicare.gov - Opens in a new window
+
+
+
+
+
+									MyMedicare.gov - Opens in a new window
+
+
+
+
+
+									Medicaid.gov - Opens in a new window
+
+
+
+
+
+									InsureKidsNow.gov - Opens in a new window
+
+
+
+
+
+									HealthCare.gov - Opens in a new window
+
+
+
+
+
+									HHS.gov/Open - Opens in a new window
+
+
+
+Tools
+
+
+
+
+										Acronyms - Opens in a new window
+
+
+
+
+
+
+
+										Contacts - Opens in a new window
+
+
+
+
+
+
+
+										Glossary - Opens in a new window
+
+
+
+
+
+
+
+										Archive - Opens in a new window
+
+
+
+
+
+							Helpful Links
+						
+
+
+Web Policies & Important Links
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.developer.cms.gov/" title="For Developers">For Developers</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://developer.cms.gov/" title="For Developers">For Developers</a>');
+                    }
+                  
+
+
+
+
+
+                    if (document.domain != "www.cms.gov" && document.domain != "partnershipforpatients.cms.gov" && document.domain != "innovation.cms.gov")
+                    {
+                      document.write('<a class="titlelink" href="https://imp.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    } else {
+                      document.write('<a class="titlelink" href="https://www.cms.gov/privacy" title="Privacy Policy">Privacy Policy</a>');
+                    }
+                  
+
+
+
+ Privacy settings
+
+
+
+ Plain Language
+
+
+
+Freedom of Information Act
+
+
+
+
+										No
+										Fear Act
+									
+
+
+
+
+										Nondiscrimination/Accessibility
+									
+
+
+
+
+										HHS.gov
+										 - Opens in a new window
+
+
+
+
+
+										Inspector General
+										 - Opens in a new window
+
+
+
+
+
+										USA.gov
+										 - Opens in a new window
+
+
+
+
+Help with file formats & plug-ins
+
+

@@ -1,0 +1,249 @@
+https://www.ncqa.org/programs/data-and-information-technology/hit-and-data-certification/ecqm-certification/
+ecqm-certification.txt
+## eCQM Certification - NCQA
+   Shop Our Products 
+
+   Contact Us 
+
+   Log in 
+
+Our ProgramsHealth Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition ProgramHealth Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital QualityData & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Health Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition Program
+
+Patient-Centered Medical Home (PCMH)
+
+PCMH Certified Content Expert (CCE)
+
+Government PCMH Recognition Programs
+
+Patient-Centered Specialty Practice (PCSP)
+
+Oncology Medical Home
+
+Patient-Centered Connected Care
+
+School Based Medical Home Recognition
+
+Accountable Care Organizations (ACO)
+
+Heart/Stroke Recognition Program
+
+Diabetes Recognition Program
+
+Health Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital Quality
+
+Health Plan Accreditation
+
+Population Health Program Accreditation
+
+Case Management
+
+Utilization Management
+
+Credentialing
+
+Credentials Verification Organization (CVO)
+
+Long-Term Services and Supports (LTSS)
+
+Provider Network
+
+Managed Behavioral Healthcare Organizations (MBHO)
+
+Wellness and Health Promotion
+
+Multicultural Health Care
+
+Disease Management
+
+Health Information Products
+
+Physician and Hospital Quality
+
+Data & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Data: Purchase and Licensing
+
+ONC HIT Testing
+
+HIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+eCQM Certification
+
+Health Information Technology Prevalidation Programs
+
+CAHPS 5.0H Survey Certification
+
+HEDIS Compliance Audit Certification
+
+Measure Certification
+
+HEDISOverviewHEDIS Measures and Technical ResourcesUsing HEDIS MeasuresData SubmissionMeasurement Certification ProgramsReports and ResearchHEDIS Users Group (HUG)The Future of HEDIS
+
+Overview
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data Submission
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDIS
+
+Report CardsHealth Care Providers & Practices Health PlansOther Health Care Organizations 
+
+Health Care Providers & Practices 
+
+Health Plans
+
+Other Health Care Organizations 
+
+Education & TrainingSeminars, Webinars and On-demand TrainingQuality Talks Conference How to Request a SpeakerPolicies and Discounts
+
+Seminars, Webinars and On-demand Training
+
+Quality Talks Conference 
+
+How to Request a Speaker
+
+Policies and Discounts
+
+About NCQAOverviewLeadershipNewsSponsorship & EventsContractual Services (Quality Solutions Group)CareersContact UsAdvertising and Marketing Your NCQA Status
+
+Overview
+
+Leadership
+
+News
+
+Sponsorship & Events
+
+Contractual Services (Quality Solutions Group)
+
+Careers
+
+Contact Us
+
+Advertising and Marketing Your NCQA Status
+
+ Home
+
+  Our Programs 
+
+  Data and Information Technology 
+
+  HIT and Data Certification 
+
+ eCQM Certification
+
+HIT and Data CertificationeCQM CertificationeCQM Certification: Vendor DirectoryeCQM Certification: ResourceseCQM Certification: Choosing the Right Vendor
+
+eCQM CertificationeCQM Certification: Vendor DirectoryeCQM Certification: ResourceseCQM Certification: Choosing the Right Vendor
+
+eCQM Certification: Vendor Directory
+
+eCQM Certification: Resources
+
+eCQM Certification: Choosing the Right Vendor
+
+eCQM Certification
+
+Organizations that rely on data from systems certified through NCQA’s eCQM Certification program can be confident that systems have gone through the industry’s most rigorous assessment of whether they provide accurate data.
+
+Accurate Data are Important
+
+The NCQA eCQM Certification program evaluates how well electronic systems calculate electronic clinical quality measures (eCQM) using electronic clinical data.
+
+Health plans, provider organizations and others rely on accurate data to make decisions about value-based contracting. By earning eCQM Certification from NCQA, organizations can say their system has undergone the industry’s most rigorous assessment. Reporting is more accurate for these systems than systems not certified by NCQA.
+
+NCQA’s eCQM test methodology is the only approved ONC test tool alternative to the Project Cypress system. Learn more on NCQA’s ONC Health IT Testing web page.
+
+Who Is Eligible?
+
+Most systems that collect eCQMs or aggregate health data at any level are eligible, including, but not limited to:
+
+Data intermediaries.
+
+Electronic health records (EHR).
+
+Health information exchanges (HIE).
+
+All-payer claims databases (APCD).
+
+Qualified clinical data registries (QCDR).
+
+Benefits
+
+Data submitted to health plans for use in NCQA’s HEDIS® reporting which supports NCQA programs and Centers for Medicare and Medicaid Services (CMS) Stars ratings. Certified data in the approved QRDA format can be used as standard supplemental data and added to other records to calculate HEDIS measures at the health plan level.
+
+Demonstrate accuracy to your customers. NCQA eCQM Certification helps ensure data integrity—vital in value-based contract arrangements.
+
+Help your customers become more efficient. Reduces the burden on health plans while improving data.
+
+In the future, practices seeking NCQA PCMH recognition will have the option to submit electronic clinical quality measures (eCQMs) to NCQA in support of their recognition process. The list of measures from which to choose can be found in the Quality Measures Crosswalk.
+
+How It Works
+
+NCQA creates unique sets of sample data, or “test decks,” for each eCQM, developed from randomly generated synthetic patient-level test data.
+
+You process a test deck using your measure code. NCQA compares measure results to expected results, to determine if your software’s code computes the measure correctly. Multiple test decks are available for each measure, so you can correct errors.
+
+A measure is NCQA-Certified when it passes certification. You receive a final certification report and seal to distribute to health plans, potential clients and Certified Auditors to demonstrate your achievement.
+
+Get Certified
+
+Interested in becoming an NCQA-Certified vendor? The first step is completing an application and signing a one-year certification agreement. Request an application through My NCQA. Select “eCQM Certification” as the product/program type.
+
+    Save  Save your favorite pages and receive notifications whenever they’re updated.You will be prompted to log in to your NCQA account.
+
+Save your favorite pages and receive notifications whenever they’re updated.
+
+You will be prompted to log in to your NCQA account.
+
+   Email Share this page with a friend or colleague by Email.We do not share your information with third parties.
+
+Share this page with a friend or colleague by Email.
+
+We do not share your information with third parties.
+
+   Print Print this page.
+
+Print this page.
+
+Blog 
+
+Public Policy
+
+Videos
+
+Podcasts
+
+Employers
+
+Consumers
+
+About Us
+
+Careers
+
+Contact Us
+
+My NCQA 
+
+Copyright © 2019 National Committee for Quality Assurance. Terms of Use
+
+   
+
+   
+
+   
+
+   
+
