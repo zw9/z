@@ -49,6 +49,16 @@ print("fetch_p()")
 
 
 def fetch_m(url):
+    print(os.getcwd())
+    os.chdir("/Users/atang148/Dropbox/z/rpt")
+    pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])
+    print(pathsvr)
+    try:
+        os.makedirs(pathsvr,exist_ok=True)
+    except:
+        print("something wrong with: " + pathn)
+    os.chdir("/Users/atang148/Dropbox/z/rpt/" + pathsvr)
+    
     page = requests.get(url, verify=False)
     page.status_code
     soup = BeautifulSoup(page.content, 'html.parser')
