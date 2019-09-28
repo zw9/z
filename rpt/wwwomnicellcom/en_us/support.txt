@@ -1,2 +1,0 @@
-us/en_us/support/training-programs
-support.txt

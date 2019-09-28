@@ -1,3 +1,5 @@
+# %run /Users/atang148/Dropbox/z/daily/nguoiviet-webscrape.py
+
 # coding: utf-8
 
 # In[1]:
@@ -14,7 +16,7 @@ import time
 
 
 def fetch_fnc(url, cl):
-    
+
     pathn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-2])
     print(pathn)
     try:
@@ -48,7 +50,7 @@ def fetch_fnc(url, cl):
 
 
 def fetch_option(url):
-    
+
     print(os.getcwd())
     os.chdir("/Users/atang148/Dropbox/z/rpt")
     pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])

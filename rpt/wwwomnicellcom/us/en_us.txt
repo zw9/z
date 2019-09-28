@@ -1,2 +1,0 @@
-us/en_us/sitemap
-en_us.txt

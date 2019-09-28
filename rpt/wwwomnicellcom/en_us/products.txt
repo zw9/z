@@ -1,2 +1,0 @@
-us/en_us/products/performance-center
-products.txt
