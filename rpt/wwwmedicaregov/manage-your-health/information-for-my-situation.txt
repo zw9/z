@@ -1,2 +1,0 @@
-/manage-your-health/information-for-my-situation
-information-for-my-situation.txt

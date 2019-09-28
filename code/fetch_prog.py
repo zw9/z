@@ -67,7 +67,7 @@ def fetch_m(url):
     print("## " + ctl01_PageHead.get_text() + "  ")
     TBLRoll = soup.findAll('a')
     cl = 'TBLRoll'
-    fnlog = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-2]) + "_log.txt"
+    fnlog = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2]) + "_log.txt"
     encoding = 'utf-8'
     ff = io.open(fnlog, "w", encoding='utf-8')
     for each in TBLRoll:

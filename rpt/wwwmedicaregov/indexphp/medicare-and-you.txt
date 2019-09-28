@@ -1,2 +1,0 @@
-/index.php/medicare-and-you
-medicare-and-you.txt

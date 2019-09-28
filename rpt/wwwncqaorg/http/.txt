@@ -1,9 +1,0 @@
-http://my.ncqa.org
-.txt
-## My.NCQA - Login
-If you already have an NCQA account, then simply sign in - no new account is necessary. If you don't have an account, creating one is easy.
-
-Manage your account across all our products and keep your information up-to-date so that we can continue to provide the best service possible.
-
-Ask questions, view responses and see the complete history of your interactions.
-

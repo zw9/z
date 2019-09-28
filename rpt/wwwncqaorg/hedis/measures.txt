@@ -1,2 +1,0 @@
-/hedis/measures/
-measures.txt

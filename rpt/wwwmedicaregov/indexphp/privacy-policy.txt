@@ -1,2 +1,0 @@
-/index.php/privacy-policy
-privacy-policy.txt

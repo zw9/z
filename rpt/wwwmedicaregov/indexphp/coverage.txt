@@ -1,2 +1,0 @@
-/index.php/coverage/preventive-screening-services
-coverage.txt

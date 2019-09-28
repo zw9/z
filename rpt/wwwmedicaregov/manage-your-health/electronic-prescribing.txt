@@ -1,2 +1,0 @@
-/manage-your-health/electronic-prescribing
-electronic-prescribing.txt

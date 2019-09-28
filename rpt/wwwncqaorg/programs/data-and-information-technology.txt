@@ -1,2 +1,0 @@
-/programs/data-and-information-technology/
-data-and-information-technology.txt

@@ -14,4 +14,4 @@ curl  -s -L https://finance.yahoo.com/quote/{$1}>"$1 yahoo.htm"
 #cd ../../Unix
 
  #. zrsync.sh
-# . /Users/atang148/Dropbox/z/daily/zstock.sh unh
+# . /Users/atang148/Dropbox/z/code/zstock.sh unh

@@ -1,2 +1,0 @@
-/coverage/preventive-screening-services
-preventive-screening-services.txt

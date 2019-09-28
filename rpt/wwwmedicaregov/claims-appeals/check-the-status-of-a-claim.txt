@@ -1,2 +1,0 @@
-/claims-appeals/check-the-status-of-a-claim
-check-the-status-of-a-claim.txt

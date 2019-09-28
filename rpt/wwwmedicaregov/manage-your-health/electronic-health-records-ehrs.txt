@@ -1,2 +1,0 @@
-/manage-your-health/electronic-health-records-ehrs
-electronic-health-records-ehrs.txt
