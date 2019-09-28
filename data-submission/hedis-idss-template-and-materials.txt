@@ -1,0 +1,267 @@
+https://www.ncqa.org/hedis/data-submission/hedis-idss-template-and-materials/
+hedis-idss-template-and-materials.txt
+## HEDIS IDSS Template and Materials - NCQA
+   Shop Our Products 
+
+   Contact Us 
+
+   Log in 
+
+Our ProgramsHealth Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition ProgramHealth Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital QualityData & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Health Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition Program
+
+Patient-Centered Medical Home (PCMH)
+
+PCMH Certified Content Expert (CCE)
+
+Government PCMH Recognition Programs
+
+Patient-Centered Specialty Practice (PCSP)
+
+Oncology Medical Home
+
+Patient-Centered Connected Care
+
+School Based Medical Home Recognition
+
+Accountable Care Organizations (ACO)
+
+Heart/Stroke Recognition Program
+
+Diabetes Recognition Program
+
+Health Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital Quality
+
+Health Plan Accreditation
+
+Population Health Program Accreditation
+
+Case Management
+
+Utilization Management
+
+Credentialing
+
+Credentials Verification Organization (CVO)
+
+Long-Term Services and Supports (LTSS)
+
+Provider Network
+
+Managed Behavioral Healthcare Organizations (MBHO)
+
+Wellness and Health Promotion
+
+Multicultural Health Care
+
+Disease Management
+
+Health Information Products
+
+Physician and Hospital Quality
+
+Data & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Data: Purchase and Licensing
+
+ONC HIT Testing
+
+HIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+eCQM Certification
+
+Health Information Technology Prevalidation Programs
+
+CAHPS 5.0H Survey Certification
+
+HEDIS Compliance Audit Certification
+
+Measure Certification
+
+HEDISOverviewHEDIS Measures and Technical ResourcesUsing HEDIS MeasuresData SubmissionMeasurement Certification ProgramsReports and ResearchHEDIS Users Group (HUG)The Future of HEDIS
+
+Overview
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data Submission
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDIS
+
+Report CardsHealth Care Providers & Practices Health PlansOther Health Care Organizations 
+
+Health Care Providers & Practices 
+
+Health Plans
+
+Other Health Care Organizations 
+
+Education & TrainingSeminars, Webinars and On-demand TrainingQuality Talks Conference How to Request a SpeakerPolicies and Discounts
+
+Seminars, Webinars and On-demand Training
+
+Quality Talks Conference 
+
+How to Request a Speaker
+
+Policies and Discounts
+
+About NCQAOverviewLeadershipNewsSponsorship & EventsContractual Services (Quality Solutions Group)CareersContact UsAdvertising and Marketing Your NCQA Status
+
+Overview
+
+Leadership
+
+News
+
+Sponsorship & Events
+
+Contractual Services (Quality Solutions Group)
+
+Careers
+
+Contact Us
+
+Advertising and Marketing Your NCQA Status
+
+ Home
+
+  HEDIS 
+
+  Data Submission 
+
+ HEDIS IDSS Template and Materials
+
+IDSS Import Template and Materials
+
+Right-click on a template or schema and “save target as” to save it.
+
+IDSS Redesign
+
+More information on the IDSS Redesign project can be found here.
+
+IDSS Import Template
+
+Commercial Import Template– The xml import template for commercial submissions. (updated 1/8/19)
+
+Medicaid Import Template – The xml import template for medicaid submissions. (updated 1/8/19)
+
+Medicaid LTSS Import Template – The xml import template for medicaid LTSS submissions. (updated 1/8/19)
+
+Medicare Import Template– The xml import template for medicare submissions. (updated 1/8/19)
+
+Exchange Import Template – The xml import template for exchange submissions.(updated 1/8/19)
+
+Generic Import Template – All product lines combined (commercial, Medicaid, Medicare and Exchange), with no audit elements. (updated 1/8/19)
+
+Import Template Schema – The xsd schema file for the IDSS import templates.
+
+ECDS Commerical Schema– The xsd schema file for ECDS Commercial import template. (updated 1/8/19)
+
+ECDS Medicare Schema – The xsd schema file for ECDS Medicare import template. (updated 1/8/19)
+
+ECDS Medicaid Schema – The xsd schema file for ECDS Medicaid import template. (updated 1/8/19)
+
+ECDS Commercial Import Template – The ECDS xml import template for commercial submissions. (updated 4/4/19)
+
+ECDS Medicaid Import Template – The ECDS xml import template for Medicaid submissions. (updated 4/4/19)
+
+ECDS Medicare Import Template – The ECDS xml import template for Medicare submissions. (updated 4/4/19)
+
+IDSS Data Dictionaries
+
+Commercial (.csv) Updated 1/14/19
+
+Medicaid (.csv) Updated 1/7/19
+
+Medicaid LTSS (.csv) Updated 1/9/19
+
+Medicare (.csv) Updated 1/14/19
+
+Exchange (.csv) Updated 1/7/19
+
+IDSS Resources
+
+Submission File Redesign– Updated 1/17/19
+
+2019 IDSS First Tier Validations – Updated 2/21/19
+
+2019 IDSS First Tier Validation Crosswalk – Updated 2/21/19
+
+2019 IDSS Second Tier Validations – Updated 3/28/19
+
+2019 IDSS Second Tier Validation Crosswalk – Updated 3/28/19
+
+2019 IDSS Third Tier Validations – Updated 2/21/19
+
+2019 IDSS Third Tier Validation Crosswalk – Updated 2/21/19
+
+For general inquiries or training information related to the IDSS tool please submit a question to my.ncqa.org.
+
+HEDIS® is a registered trademark of the National Committee for Quality Assurance (NCQA).
+
+Latest Updates
+
+3/18/19
+
+Updated Second-Tier validation file and Crosswalk in COU measure from Error to Warning for Value must be greater than or equal to Reported Rate: 31 Days (18-64 and 65+).
+
+3/28/2019
+
+Updated Second-Tier validation file and Crosswalk for PCR and PCR-B Sum of Count of Expected 30-day Readmissions and Variance for SES stratifications validation. The update will account for rounding when matching totals in both tables (+/-0.001).
+
+    Save  Save your favorite pages and receive notifications whenever they’re updated.You will be prompted to log in to your NCQA account.
+
+Save your favorite pages and receive notifications whenever they’re updated.
+
+You will be prompted to log in to your NCQA account.
+
+   Email Share this page with a friend or colleague by Email.We do not share your information with third parties.
+
+Share this page with a friend or colleague by Email.
+
+We do not share your information with third parties.
+
+   Print Print this page.
+
+Print this page.
+
+Blog 
+
+Public Policy
+
+Videos
+
+Podcasts
+
+Employers
+
+Consumers
+
+About Us
+
+Careers
+
+Contact Us
+
+My NCQA 
+
+Copyright © 2019 National Committee for Quality Assurance. Terms of Use
+
+   
+
+   
+
+   
+
+   
+

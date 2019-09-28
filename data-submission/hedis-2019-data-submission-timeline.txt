@@ -1,0 +1,281 @@
+https://www.ncqa.org/hedis/data-submission/hedis-2019-data-submission-timeline/
+hedis-2019-data-submission-timeline.txt
+## HEDIS 2019 Data Submission Timeline - NCQA
+   Shop Our Products 
+
+   Contact Us 
+
+   Log in 
+
+Our ProgramsHealth Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition ProgramHealth Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital QualityData & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Health Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition Program
+
+Patient-Centered Medical Home (PCMH)
+
+PCMH Certified Content Expert (CCE)
+
+Government PCMH Recognition Programs
+
+Patient-Centered Specialty Practice (PCSP)
+
+Oncology Medical Home
+
+Patient-Centered Connected Care
+
+School Based Medical Home Recognition
+
+Accountable Care Organizations (ACO)
+
+Heart/Stroke Recognition Program
+
+Diabetes Recognition Program
+
+Health Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital Quality
+
+Health Plan Accreditation
+
+Population Health Program Accreditation
+
+Case Management
+
+Utilization Management
+
+Credentialing
+
+Credentials Verification Organization (CVO)
+
+Long-Term Services and Supports (LTSS)
+
+Provider Network
+
+Managed Behavioral Healthcare Organizations (MBHO)
+
+Wellness and Health Promotion
+
+Multicultural Health Care
+
+Disease Management
+
+Health Information Products
+
+Physician and Hospital Quality
+
+Data & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Data: Purchase and Licensing
+
+ONC HIT Testing
+
+HIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+eCQM Certification
+
+Health Information Technology Prevalidation Programs
+
+CAHPS 5.0H Survey Certification
+
+HEDIS Compliance Audit Certification
+
+Measure Certification
+
+HEDISOverviewHEDIS Measures and Technical ResourcesUsing HEDIS MeasuresData SubmissionMeasurement Certification ProgramsReports and ResearchHEDIS Users Group (HUG)The Future of HEDIS
+
+Overview
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data Submission
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDIS
+
+Report CardsHealth Care Providers & Practices Health PlansOther Health Care Organizations 
+
+Health Care Providers & Practices 
+
+Health Plans
+
+Other Health Care Organizations 
+
+Education & TrainingSeminars, Webinars and On-demand TrainingQuality Talks Conference How to Request a SpeakerPolicies and Discounts
+
+Seminars, Webinars and On-demand Training
+
+Quality Talks Conference 
+
+How to Request a Speaker
+
+Policies and Discounts
+
+About NCQAOverviewLeadershipNewsSponsorship & EventsContractual Services (Quality Solutions Group)CareersContact UsAdvertising and Marketing Your NCQA Status
+
+Overview
+
+Leadership
+
+News
+
+Sponsorship & Events
+
+Contractual Services (Quality Solutions Group)
+
+Careers
+
+Contact Us
+
+Advertising and Marketing Your NCQA Status
+
+ Home
+
+  HEDIS 
+
+  Data Submission 
+
+ HEDIS 2019 Data Submission Timeline
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data SubmissionIDSS RedesignHEDIS 2019 Data Submission TimelineHEDIS IDSS Template and Materials
+
+IDSS Redesign
+
+HEDIS 2019 Data Submission Timeline
+
+HEDIS IDSS Template and Materials
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDISDigital MeasuresHEDIS Electronic Clinical Data System (ECDS) ReportingHEDIS Schedule ChangeThe Digital Measurement Community
+
+Digital Measures
+
+HEDIS Electronic Clinical Data System (ECDS) Reporting
+
+HEDIS Schedule Change
+
+The Digital Measurement Community
+
+HEDIS 2019 Data Submission Timeline
+
+The timeline below outlines the data submission process and runs from December 2018 through October 2019.
+
+December 2018
+
+NCQA HEDIS Data Submission Kick-off letter is sent to Primary and Secondary contacts.
+
+NCQA posts the XML templates, validation files and data dictionaries for Interactive Data Submission System© (IDSS) to the data submission webpage.
+
+January 2019
+
+NCQA releases the 2019 Online Healthcare Organization Questionnaire (HOQ) for health plans to request and update submissions.
+
+February 2019
+
+Health plans finalize commercial, Exchange, Medicaid and Medicare HOQ requests to obtain access to the IDSS and submission IDs for HEDIS®1 and CAHPS®2 on Friday, February 15 by 8:00 pm ET.
+
+April 2019
+
+NCQA releases the 2019 Interactive Data Submission System (IDSS) for data loading and validation.
+
+Submission IDs for survey measures are distributed to NCQA certified survey vendors.
+
+May 2019
+
+NCQA Conditions for Public Reporting letter is sent to Primary and Secondary HEDIS contacts. This letter includes the rules used for displaying data in our public reporting programs (Health Plan Ratings).
+
+NCQA certified survey vendors begin submission of commercial and Medicaid CAHPS 5.0H member-level data files to NCQA.
+
+Health Plan Ratings—Plan Confirmation process begins for commercial, Medicaid and Medicare. Plans verify the information that will determine how their organization is displayed in the ratings (e.g., states and accreditation statuses).
+
+June 2019
+
+Commercial and Medicaid CAHPS survey results are available for download in IDSS.
+
+IDSS Plan-lock must be applied for all commercial, Exchange, Medicaid and Medicare audited submissions on Monday, June 3 by 11:59 pm ET to ensure auditors have sufficient time to validate health plan results.
+
+CMS requires a Patient-Level-Detail (PLD) file validation for Medicare submissions. Organizations must submit the patient-level-detail file to CMS’ vendor by Monday, June 17 by 11:59 pm ET.
+
+Health Plans submit FINAL commercial, Exchange, Medicaid and Medicare HEDIS (nonsurvey data) results via the IDSS on Monday, June 17 by 11:59 pm ET.
+
+All commercial, Exchange, Medicaid and Medicare Attestations must be submitted to NCQA on Monday, June 17 by 11:59 pm ET via electronic signature.
+
+Health Plan Ratings data freeze is June 30. The ratings are based on HEDIS and CAHPS data and accreditation standards scores as of this date.
+
+July 2019
+
+NCQA releases the 2019 Quality Compass® commercial edition.
+
+August 2019
+
+Projected Health Plan Ratings for commercial, Medicaid and Medicare are released. Plans are required to confirm their rating and accreditation information (if applicable).
+
+September–October 2019
+
+Final Health Plan Ratings are posted on NCQA’s Website.
+
+NCQA releases the 2019 Quality Compass® Medicare and Medicaid editions.
+
+HEDIS® and Quality Compass® are registered trademarks of the National Committee for Quality Assurance (NCQA).
+
+CAHPS® is a registered trademark of the Agency for Healthcare Research and Quality (AHRQ).
+
+    Save  Save your favorite pages and receive notifications whenever they’re updated.You will be prompted to log in to your NCQA account.
+
+Save your favorite pages and receive notifications whenever they’re updated.
+
+You will be prompted to log in to your NCQA account.
+
+   Email Share this page with a friend or colleague by Email.We do not share your information with third parties.
+
+Share this page with a friend or colleague by Email.
+
+We do not share your information with third parties.
+
+   Print Print this page.
+
+Print this page.
+
+Blog 
+
+Public Policy
+
+Videos
+
+Podcasts
+
+Employers
+
+Consumers
+
+About Us
+
+Careers
+
+Contact Us
+
+My NCQA 
+
+Copyright © 2019 National Committee for Quality Assurance. Terms of Use
+
+   
+
+   
+
+   
+
+   
+

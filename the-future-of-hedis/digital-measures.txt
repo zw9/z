@@ -1,0 +1,243 @@
+https://www.ncqa.org/hedis/the-future-of-hedis/digital-measures/
+digital-measures.txt
+## Digital Measures - NCQA
+   Shop Our Products 
+
+   Contact Us 
+
+   Log in 
+
+Our ProgramsHealth Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition ProgramHealth Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital QualityData & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Health Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition Program
+
+Patient-Centered Medical Home (PCMH)
+
+PCMH Certified Content Expert (CCE)
+
+Government PCMH Recognition Programs
+
+Patient-Centered Specialty Practice (PCSP)
+
+Oncology Medical Home
+
+Patient-Centered Connected Care
+
+School Based Medical Home Recognition
+
+Accountable Care Organizations (ACO)
+
+Heart/Stroke Recognition Program
+
+Diabetes Recognition Program
+
+Health Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital Quality
+
+Health Plan Accreditation
+
+Population Health Program Accreditation
+
+Case Management
+
+Utilization Management
+
+Credentialing
+
+Credentials Verification Organization (CVO)
+
+Long-Term Services and Supports (LTSS)
+
+Provider Network
+
+Managed Behavioral Healthcare Organizations (MBHO)
+
+Wellness and Health Promotion
+
+Multicultural Health Care
+
+Disease Management
+
+Health Information Products
+
+Physician and Hospital Quality
+
+Data & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Data: Purchase and Licensing
+
+ONC HIT Testing
+
+HIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+eCQM Certification
+
+Health Information Technology Prevalidation Programs
+
+CAHPS 5.0H Survey Certification
+
+HEDIS Compliance Audit Certification
+
+Measure Certification
+
+HEDISOverviewHEDIS Measures and Technical ResourcesUsing HEDIS MeasuresData SubmissionMeasurement Certification ProgramsReports and ResearchHEDIS Users Group (HUG)The Future of HEDIS
+
+Overview
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data Submission
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDIS
+
+Report CardsHealth Care Providers & Practices Health PlansOther Health Care Organizations 
+
+Health Care Providers & Practices 
+
+Health Plans
+
+Other Health Care Organizations 
+
+Education & TrainingSeminars, Webinars and On-demand TrainingQuality Talks Conference How to Request a SpeakerPolicies and Discounts
+
+Seminars, Webinars and On-demand Training
+
+Quality Talks Conference 
+
+How to Request a Speaker
+
+Policies and Discounts
+
+About NCQAOverviewLeadershipNewsSponsorship & EventsContractual Services (Quality Solutions Group)CareersContact UsAdvertising and Marketing Your NCQA Status
+
+Overview
+
+Leadership
+
+News
+
+Sponsorship & Events
+
+Contractual Services (Quality Solutions Group)
+
+Careers
+
+Contact Us
+
+Advertising and Marketing Your NCQA Status
+
+ Home
+
+  HEDIS 
+
+  The Future of HEDIS 
+
+ Digital Measures
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data SubmissionIDSS RedesignHEDIS 2019 Data Submission TimelineHEDIS IDSS Template and Materials
+
+IDSS Redesign
+
+HEDIS 2019 Data Submission Timeline
+
+HEDIS IDSS Template and Materials
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDISDigital MeasuresHEDIS Electronic Clinical Data System (ECDS) ReportingHEDIS Schedule ChangeThe Digital Measurement Community
+
+Digital Measures
+
+HEDIS Electronic Clinical Data System (ECDS) Reporting
+
+HEDIS Schedule Change
+
+The Digital Measurement Community
+
+Digital Measures
+
+NCQA writes measures as computer codes so you don’t have to.
+
+NCQA developed digital measures to be used across the health care system to allow and encourage the use of data from multiple sources.
+
+As part of our strategy to improve measurement, NCQA will create digital versions of existing HEDIS measures in batches over several years.
+
+For the 2019 HEDIS release, NCQA is providing, free of cost, six Digital Measure Packages that represent the beginning of HEDIS Electronic Clinical Data System (ECDS) reporting. These packages represent NCQA’s vision for improving quality measurement.
+
+Depression Screening and Follow-Up for Adolescents and Adults (DSF):The percentage of members 12 years of age and older who were screened for clinical depression using a standardized instrument and, if screened positive, received follow-up care.
+
+Utilization of the PHQ-9 to Monitor Depression Symptoms for Adolescents and Adults (DMS):Members 12 years of age and older with a diagnosis of major depression or dysthymia, who had an interactive outpatient encounter with a PHQ-9 score present in their record in the same assessment period as the encounter.
+
+Depression Remission or Response for Adolescents and Adults (DRR):The percentage of members 12 years and older with a diagnosis of depression and an elevated PHQ-9 score, who had evidence of response or remission within 4 to 8 months of the elevated score.
+
+Unhealthy Alcohol Use Screening and Follow-Up (ASF):The percentage of members 18 years of age and older who were screened for unhealthy alcohol use using a standardized tool and, if screened positive, received appropriate follow-up care.
+
+Adult Immunization Status (AIS):The percentage of members 19 years of age and older who are up to date on recommended routine vaccines for influenza, tetanus and diphtheria (Td) or tetanus, diphtheria and acellular pertussis (Tdap), zoster and pneumococcal
+
+Prenatal Immunization Status (PRS):The percentage of deliveries in the measurement period in which women had received influenza and tetanus, diphtheria toxoids and acellular pertussis (Tdap) vaccinations.
+
+For more information on the depression care measures, click here.
+
+For a detailed description of the HEDIS ECDS package files, refer to HEDIS Volume 2: Technical Specifications for Health Plans, ECDS General Guideline 6: HEDIS ECDS Digital Measure Format.
+
+    Save  Save your favorite pages and receive notifications whenever they’re updated.You will be prompted to log in to your NCQA account.
+
+Save your favorite pages and receive notifications whenever they’re updated.
+
+You will be prompted to log in to your NCQA account.
+
+   Email Share this page with a friend or colleague by Email.We do not share your information with third parties.
+
+Share this page with a friend or colleague by Email.
+
+We do not share your information with third parties.
+
+   Print Print this page.
+
+Print this page.
+
+Blog 
+
+Public Policy
+
+Videos
+
+Podcasts
+
+Employers
+
+Consumers
+
+About Us
+
+Careers
+
+Contact Us
+
+My NCQA 
+
+Copyright © 2019 National Committee for Quality Assurance. Terms of Use
+
+   
+
+   
+
+   
+
+   
+

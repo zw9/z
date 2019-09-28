@@ -1,0 +1,317 @@
+https://www.ncqa.org/hedis/exchange-faqs-all/
+exchange-faqs-all.txt
+## FAQ Directory: HEDIS for the Quality Rating System - NCQA
+   Shop Our Products 
+
+   Contact Us 
+
+   Log in 
+
+Our ProgramsHealth Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition ProgramHealth Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital QualityData & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Health Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition Program
+
+Patient-Centered Medical Home (PCMH)
+
+PCMH Certified Content Expert (CCE)
+
+Government PCMH Recognition Programs
+
+Patient-Centered Specialty Practice (PCSP)
+
+Oncology Medical Home
+
+Patient-Centered Connected Care
+
+School Based Medical Home Recognition
+
+Accountable Care Organizations (ACO)
+
+Heart/Stroke Recognition Program
+
+Diabetes Recognition Program
+
+Health Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital Quality
+
+Health Plan Accreditation
+
+Population Health Program Accreditation
+
+Case Management
+
+Utilization Management
+
+Credentialing
+
+Credentials Verification Organization (CVO)
+
+Long-Term Services and Supports (LTSS)
+
+Provider Network
+
+Managed Behavioral Healthcare Organizations (MBHO)
+
+Wellness and Health Promotion
+
+Multicultural Health Care
+
+Disease Management
+
+Health Information Products
+
+Physician and Hospital Quality
+
+Data & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Data: Purchase and Licensing
+
+ONC HIT Testing
+
+HIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+eCQM Certification
+
+Health Information Technology Prevalidation Programs
+
+CAHPS 5.0H Survey Certification
+
+HEDIS Compliance Audit Certification
+
+Measure Certification
+
+HEDISOverviewHEDIS Measures and Technical ResourcesUsing HEDIS MeasuresData SubmissionMeasurement Certification ProgramsReports and ResearchHEDIS Users Group (HUG)The Future of HEDIS
+
+Overview
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data Submission
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDIS
+
+Report CardsHealth Care Providers & Practices Health PlansOther Health Care Organizations 
+
+Health Care Providers & Practices 
+
+Health Plans
+
+Other Health Care Organizations 
+
+Education & TrainingSeminars, Webinars and On-demand TrainingQuality Talks Conference How to Request a SpeakerPolicies and Discounts
+
+Seminars, Webinars and On-demand Training
+
+Quality Talks Conference 
+
+How to Request a Speaker
+
+Policies and Discounts
+
+About NCQAOverviewLeadershipNewsSponsorship & EventsContractual Services (Quality Solutions Group)CareersContact UsAdvertising and Marketing Your NCQA Status
+
+Overview
+
+Leadership
+
+News
+
+Sponsorship & Events
+
+Contractual Services (Quality Solutions Group)
+
+Careers
+
+Contact Us
+
+Advertising and Marketing Your NCQA Status
+
+ Home
+
+  HEDIS 
+
+ FAQ Directory: HEDIS for the Quality Rating System
+
+FAQ Directory: HEDIS for the Quality Rating System
+
+    Save  Save your favorite pages and receive notifications whenever they’re updated.You will be prompted to log in to your NCQA account.
+
+Save your favorite pages and receive notifications whenever they’re updated.
+
+You will be prompted to log in to your NCQA account.
+
+   Email Share this page with a friend or colleague by Email.We do not share your information with third parties.
+
+Share this page with a friend or colleague by Email.
+
+We do not share your information with third parties.
+
+   Print Print this page.
+
+Print this page.
+
+ 10.15.2018 Immunizations for Adolescents Are issuers required to report Combo 1 for the Quality Ratings System in the Immunizations for Adolescents (IMA) measure?
+
+No. HEDIS for QRS requires collection of only Combination 2 and related antigens. Change the reference in the Description from “two combination rates” to “one combination rate.” In the Data Elements Table, change “Each of the 5 rates” to “Each of the 4 rates.”
+
+MARKETPLACE 2019
+
+     Print 
+
+     Email 
+
+ 10.15.2018 Avoidance of Antibiotic Treatment in Adults With Acute Bronchitis Should the “Numerator events by supplemental data” row be removed from the Data Elements Table in the Avoidance of Antibiotic Treatment in Adults With Acute Bronchitis (AAB) measure?
+
+Yes. Remove the “Numerator events by supplemental data” row in the Data Elements Table.
+
+MARKETPLACE 2019
+
+     Print 
+
+     Email 
+
+ 10.15.2018 Appropriate Treatment for Children With Upper Respiratory Infection Should the “Numerator events by supplemental data” row be removed from the Data Elements Table in the Appropriate Treatment for Children With Upper Respiratory Infection (URI) measure?
+
+Yes. Remove the “Numerator events by supplemental data” row in the Data Elements Table.
+
+MARKETPLACE 2019
+
+     Print 
+
+     Email 
+
+ 10.15.2018 Use of Imaging Studies for Low Back Pain Should the “Numerator events by supplemental data” row be removed from the Data Elements Table in the Use of Imaging Studies for Low Back Pain (LBP) measure?
+
+Yes. Remove the “Numerator events by supplemental data” row in the Data Elements Table.
+
+MARKETPLACE 2019
+
+     Print 
+
+     Email 
+
+ 10.15.2018 Proportion of Days Covered Should the upper and lower Confidence Interval data elements be removed from the reporting tables in the Proportion of Days Covered (PDC) measure?
+
+Yes. NCQA removed confidence intervals from all measures and data collection (IDSS) in HEDIS 2019; this applies to all related products using IDSS, including the QRS PDC measure. Organizations that want to calculate or use confidence intervals must use the other data element fields and calculate confidence intervals for internal analysis.
+
+MARKETPLACE 2019
+
+     Print 
+
+     Email 
+
+ 1.15.2017 Relative Resource Use for People with Diabetes Should Marketplace plans report the Relative Resource Use for People with Diabetes (RDI) measure for 2017?
+
+No. The RDI measure will be removed from the Quality Rating System. For Marketplace plans, CMS will issue guidance, including, but not limited to, FAQs, updates to the 2017 Technical Guidance and the 2017 Call Letter.
+
+MARKETPLACE 2017
+
+     Print 
+
+     Email 
+
+ 11.15.2016 Immunizations for Adolescents (IMA) For the Immunizations for Adolescents (IMA) measure, are issuers required to report Combination 1 for the Quality Ratings System?
+
+No. HEDIS for QRS requires collection of only Combination 2 and related antigens. IMA will not be scored this year.
+
+MARKETPLACE 2017
+
+     Print 
+
+     Email 
+
+ 4.15.2016 Exchange Benchmarking Data We are looking for external benchmarks for Exchange results. When will they be available?
+
+NCQA collects clinical data for the Quality Rating System (QRS) under contract for CMS, but does not collect or report Exchange data for any other purpose. 
+
+Published CMS guidance (https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/QualityInitiativesGenInfo/Downloads/2019-QRS-and-QHP-Enrollee-Survey-Technical-Guidance_FINAL_20181016_508.pdf) states (page 19, Section 8, Quality Rating Information Preview Process), “The proof sheets will include benchmark information for measure results and an associated definition/rationale for any invalid/non-numeric results (e.g., NR).”
+
+You can e-mail the Exchange Operations Support Center Help Desk at CMS_FEPS@cms.hhs.gov or phone 855-267-1515 if you have questions about benchmarks for Exchange QRS data. Reference “Exhange Quality Initiatives (MQI)-QRS” in the subject line.
+
+MARKETPLACE 2016
+
+     Print 
+
+     Email 
+
+ 12.18.2015 HEDIS for the Quality Rating System Can organizations use the HEDIS for the Quality Rating System publication to report product lines other than Marketplace?
+
+No. The Marketplace product line is specifically for use with QRS reporting. There are differences between the HEDIS for the Quality Rating System and Volume 2 measure specifications. General Guideline 1 of the HEDIS for the Quality Rating System publication specifically states that QRS measure data must be collected separately for the Marketplace population. Future versions of the HEDIS for the Quality Rating System publication will only list the Marketplace product line. For those reporting on other product lines, the HEDIS Volume 2 publication must be used. 
+
+MARKETPLACE 2016
+
+     Print 
+
+     Email 
+
+ 12.15.2015 Well-Child Visits in the First 15 Months of Life (W15) The Data Elements table for the W15 measure includes a field for required exclusions. Is this a mistake?
+
+Yes. The W15 measure does not have exclusions and this data element was included in error. It will be deleted in future publications.
+
+MARKETPLACE 2016
+
+     Print 
+
+     Email 
+
+ 9.30.2015 QRS and Off-Market Commercial HEDIS Submission Should Off-Marketplace plans include their membership in QRS and in Marketplace accreditation?
+
+No. Off-Marketplace plans should include its membership in its commercial HEDIS submission and in its commercial product line when submitting for health plan accreditation.
+
+MARKETPLACE 2016
+
+     Print 
+
+     Email 
+
+ 3.19.2015 Well-Child Visits in the Third, Fourth, Fifth and Sixth Years of Life Is QRS Well-Child Visits in the Third, Fourth, Fifth and Sixth Years of Life (W34) collected using the hybrid method or the administrative method?
+
+Well-Child Visits in the Third, Fourth, Fifth and Sixth Years of Life should be reported using only the administrative methodology as specified in the 2015 QRS Technical Specifications (http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/QualityInitiativesGenInfo/Downloads/2015-QRS-Measure-Technical-Specifications.pdf). Hybrid specifications are not available for this measure in the QRS.  The W34 measure is listed as a measure in the sample size table of the QRS Sampling Guidelines and was a misprint which will be corrected in the 2016 QRS Measure Technical Specification. For organizations who have started medical record review for W34, please note, the IDSS will only accept the administrative elements of the measure for QRS.
+
+MARKETPLACE 2015
+
+     Print 
+
+     Email 
+
+1
+
+2
+
+Blog 
+
+Public Policy
+
+Videos
+
+Podcasts
+
+Employers
+
+Consumers
+
+About Us
+
+Careers
+
+Contact Us
+
+My NCQA 
+
+Copyright © 2019 National Committee for Quality Assurance. Terms of Use
+
+   
+
+   
+
+   
+
+   
+

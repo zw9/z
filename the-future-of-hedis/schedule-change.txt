@@ -1,0 +1,255 @@
+https://www.ncqa.org/hedis/the-future-of-hedis/schedule-change/
+schedule-change.txt
+## HEDIS Schedule Change - NCQA
+   Shop Our Products 
+
+   Contact Us 
+
+   Log in 
+
+Our ProgramsHealth Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition ProgramHealth Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital QualityData & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Health Care Providers & PracticesPatient-Centered Medical Home (PCMH)PCMH Certified Content Expert (CCE)Government PCMH Recognition ProgramsPatient-Centered Specialty Practice (PCSP)Oncology Medical HomePatient-Centered Connected CareSchool Based Medical Home RecognitionAccountable Care Organizations (ACO)Heart/Stroke Recognition ProgramDiabetes Recognition Program
+
+Patient-Centered Medical Home (PCMH)
+
+PCMH Certified Content Expert (CCE)
+
+Government PCMH Recognition Programs
+
+Patient-Centered Specialty Practice (PCSP)
+
+Oncology Medical Home
+
+Patient-Centered Connected Care
+
+School Based Medical Home Recognition
+
+Accountable Care Organizations (ACO)
+
+Heart/Stroke Recognition Program
+
+Diabetes Recognition Program
+
+Health Plans & Other OrganizationsHealth Plan AccreditationPopulation Health Program AccreditationCase ManagementUtilization ManagementCredentialingCredentials Verification Organization (CVO)Long-Term Services and Supports (LTSS)Provider NetworkManaged Behavioral Healthcare Organizations (MBHO)Wellness and Health PromotionMulticultural Health CareDisease ManagementHealth Information ProductsPhysician and Hospital Quality
+
+Health Plan Accreditation
+
+Population Health Program Accreditation
+
+Case Management
+
+Utilization Management
+
+Credentialing
+
+Credentials Verification Organization (CVO)
+
+Long-Term Services and Supports (LTSS)
+
+Provider Network
+
+Managed Behavioral Healthcare Organizations (MBHO)
+
+Wellness and Health Promotion
+
+Multicultural Health Care
+
+Disease Management
+
+Health Information Products
+
+Physician and Hospital Quality
+
+Data & Information TechnologyData: Purchase and LicensingONC HIT TestingHIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+Data: Purchase and Licensing
+
+ONC HIT Testing
+
+HIT and Data CertificationeCQM CertificationHealth Information Technology Prevalidation ProgramsCAHPS 5.0H Survey CertificationHEDIS Compliance Audit CertificationMeasure Certification
+
+eCQM Certification
+
+Health Information Technology Prevalidation Programs
+
+CAHPS 5.0H Survey Certification
+
+HEDIS Compliance Audit Certification
+
+Measure Certification
+
+HEDISOverviewHEDIS Measures and Technical ResourcesUsing HEDIS MeasuresData SubmissionMeasurement Certification ProgramsReports and ResearchHEDIS Users Group (HUG)The Future of HEDIS
+
+Overview
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data Submission
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDIS
+
+Report CardsHealth Care Providers & Practices Health PlansOther Health Care Organizations 
+
+Health Care Providers & Practices 
+
+Health Plans
+
+Other Health Care Organizations 
+
+Education & TrainingSeminars, Webinars and On-demand TrainingQuality Talks Conference How to Request a SpeakerPolicies and Discounts
+
+Seminars, Webinars and On-demand Training
+
+Quality Talks Conference 
+
+How to Request a Speaker
+
+Policies and Discounts
+
+About NCQAOverviewLeadershipNewsSponsorship & EventsContractual Services (Quality Solutions Group)CareersContact UsAdvertising and Marketing Your NCQA Status
+
+Overview
+
+Leadership
+
+News
+
+Sponsorship & Events
+
+Contractual Services (Quality Solutions Group)
+
+Careers
+
+Contact Us
+
+Advertising and Marketing Your NCQA Status
+
+ Home
+
+  HEDIS 
+
+  The Future of HEDIS 
+
+ HEDIS Schedule Change
+
+HEDIS Measures and Technical Resources
+
+Using HEDIS Measures
+
+Data SubmissionIDSS RedesignHEDIS 2019 Data Submission TimelineHEDIS IDSS Template and Materials
+
+IDSS Redesign
+
+HEDIS 2019 Data Submission Timeline
+
+HEDIS IDSS Template and Materials
+
+Measurement Certification Programs
+
+Reports and Research
+
+HEDIS Users Group (HUG)
+
+The Future of HEDISDigital MeasuresHEDIS Electronic Clinical Data System (ECDS) ReportingHEDIS Schedule ChangeThe Digital Measurement Community
+
+Digital Measures
+
+HEDIS Electronic Clinical Data System (ECDS) Reporting
+
+HEDIS Schedule Change
+
+The Digital Measurement Community
+
+HEDIS Schedule Change
+
+NCQA is making two significant changes to the annual HEDIS© specification publications: a change in the version naming convention for all HEDIS volumes and a shift in the timeline for publishing the specifications for HEDIS measures.
+
+What is changing?
+
+NCQA is bringing the complete measure specifications to the HEDIS community sooner by changing three dates in the publication timeline:
+
+What is NOT changing?
+
+HEDIS 2020 publications in calendar year 2019
+
+Publication Dates for HEDIS Volumes 3, 5, 6
+
+HEDIS Vendor Certification dates for Survey Sample Frames
+
+Data Submission dates
+
+Date First-Year Public Reporting is released
+
+Quality Compass product release dates
+
+HEDIS Publication Naming Convention Change
+
+A new naming convention will reduce confusion among the HEDIS community in relation to the HEDIS Measurement Year and Reporting Year.
+
+Going forward, NCQA will change the naming convention of all HEDIS Publications to refer to the measurement year for HEDIS measures.HEDIS Measurement Year ####, to be shortened to HEDIS MY #### (where “####” is the four-digit year).All HEDIS volumes will adhere to this naming convention.
+
+HEDIS Measurement Year ####, to be shortened to HEDIS MY #### (where “####” is the four-digit year).
+
+All HEDIS volumes will adhere to this naming convention.
+
+The transition will coincide with the HEDIS Timeline transition process starting in HEDIS 2020 and completing in 2021.
+
+    Save  Save your favorite pages and receive notifications whenever they’re updated.You will be prompted to log in to your NCQA account.
+
+Save your favorite pages and receive notifications whenever they’re updated.
+
+You will be prompted to log in to your NCQA account.
+
+   Email Share this page with a friend or colleague by Email.We do not share your information with third parties.
+
+Share this page with a friend or colleague by Email.
+
+We do not share your information with third parties.
+
+   Print Print this page.
+
+Print this page.
+
+ Washington, D.C. 20005 202.955.3500 
+
+ 202.955.3500 
+
+Blog 
+
+Public Policy
+
+Videos
+
+Podcasts
+
+Employers
+
+Consumers
+
+About Us
+
+Careers
+
+Contact Us
+
+My NCQA 
+
+Copyright © 2019 National Committee for Quality Assurance. Terms of Use
+
+   
+
+   
+
+   
+
+   
+

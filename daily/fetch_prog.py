@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import io
 import os
+import time
 
 
 def fetch_p(url):
@@ -70,9 +71,11 @@ def fetch_m(url):
             except:
                 print("url is bad: " + each.get('href'))
 
+            time.sleep(1) # delays for 1 seconds
+
 
 print("fetch_m()")
 #fetch_m("http://www.vietfun.com")
 #fetch_m("http://www.ncqa.org")
 #fetch_m("http://www.medicare.gov")
-fetch_m("http://www.nguoi-viet.com")
+#fetch_m("http://www.nguoi-viet.com")
