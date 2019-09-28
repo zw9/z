@@ -40,15 +40,24 @@ fnmd1.extend(glob.glob('./**/*.md', recursive=True))
 a=0
 g.write('---')
 gfnhtml.write('<table border=1><tr>')
+foldercur=""
+folderprev=""
 for f in fnmd1:
     a +=1
     b = a % 5
     if b == 0:
         g.write('\n---\n')
         gfnhtml.write('</tr><tr>')
+    foldercur=os.path.dirname(f)
+    if folderprev != foldercur:
+        g.write('\n---\n' + foldercur + ' \n')
+        gfnhtml.write('</tr><tr><td>' + foldercur + '</td>\n')
+        a=1
     # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
     g.write('| #### [' + os.path.basename(f).replace("-"," ") + ']' + '(' + f + ')' + "")
     gfnhtml.write('<td><a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a></td>\n')
+    folderprev=foldercur
+
 gfnhtml.write('</tr></table>')
 g.write('</tr></table>')
 
