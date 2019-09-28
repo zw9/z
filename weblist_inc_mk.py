@@ -33,17 +33,17 @@ fnmd1.extend(glob.glob('./**/*.md', recursive=True))
 # fnmd1.extend ( glob.glob('./**/*.ipynb',recursive=True))
 # display(fnmd)
 a=0
-g.write('<table border=1><tr>')
+g.write('---')
 gfnhtml.write('<table border=1><tr>')
 for f in fnmd1:
     a +=1
     b = a % 5
     if b == 0:
-        g.write('</tr><tr>')
+        g.write('\n---\n')
         gfnhtml.write('</tr><tr>')
     # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-    g.write('<td>#### [' + os.path.basename(f).replace("-"," ") + ']' + '(' + f + ')' + "\n</td>")
-    gfnhtml.write('<td><a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a><br></td>' + "\n")
+    g.write('| #### [' + os.path.basename(f).replace("-"," ") + ']' + '(' + f + ')' + "")
+    gfnhtml.write('<td><a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a></td>\n')
 gfnhtml.write('</tr></table>')
 g.write('</tr></table>')
 
