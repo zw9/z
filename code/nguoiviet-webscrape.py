@@ -1,4 +1,4 @@
-# %run /Users/atang148/Dropbox/z/daily/nguoiviet-webscrape.py
+# %run /Users/atang148/Dropbox/z/code/nguoiviet-webscrape.py
 
 # coding: utf-8
 

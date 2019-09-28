@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# %run /Users/atang148/Dropbox/z/weblist_inc_mk.py
+# %run /Users/atang148/Dropbox/z/code/weblist_inc_mk.py
 
 """
 Created on Sun Sep 15 22:27:14 2019

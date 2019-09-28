@@ -94,4 +94,4 @@ def fetch_all():
     fetch_m("https://www.webmd.com/health-insurance/terms/ncqa")
     fetch_m("https://www.linkedin.com/company/ncqa")
 
-# %run /Users/atang148/Dropbox/z/daily/fetch_prog.py
+# %run /Users/atang148/Dropbox/z/code/fetch_prog.py
