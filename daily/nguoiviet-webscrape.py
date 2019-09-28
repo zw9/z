@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import re
 import io
 import os
+import time
 
 # In[2]:
 
@@ -58,6 +59,7 @@ def fetch_option(url):
             print("fetch_fnc(\"https://raovat.nguoi-viet.com" + each['value'] + "\")")
             url_c = "https://raovat.nguoi-viet.com" + each['value']
             fetch_fnc(url_c, cl)
+            time.sleep(2) # delays for 1 seconds
 
 
 # In[4]:

@@ -1,0 +1,91 @@
+https://clinisight.com/2016/07/20/computer-recycling-services-at-clinical-insights/
+computer-recycling-services-at-clinical-insights.txt
+## Computer recycling services at Clinical Insights | Clinical Insights
+Home
+
+About Us
+
+Services
+
+IT Managed Services
+Revenue Cycle Management
+Strategic Marketing
+Consulting Services
+
+
+
+IT Managed Services
+
+Revenue Cycle Management
+
+Strategic Marketing
+
+Consulting Services
+
+Projects
+
+Recent News
+
+Careers
+
+Contact Us
+
+Computer recycling services at Clinical Insights
+
+ by Alexis Cort | Jul 20, 2016
+
+When we retrieve your old or broken computers, we take them through a recycling process to make sure that all confidential data is destroyed and the components are recycled responsibly.  Motherboards and other computer components contain chemicals that are not safe for the environment.
+
+We started a recycling program last year that includes wiping hard drives securely.  Our summer intern Henry wrote a description of why we do it:
+
+By recycling computers, we can recover rare earth metals, and some other precious metals. Recycling old computers is just like why we recycle plastic – to regain the resources we used to build these items. It also prevents hazardous waste from being created.  We should recycle old hard drives, ssd drives, cpus, power supplies, motherboards, RAM, video cards, sound cards, network cards, expansion cards, and even sometimes bluetooth cards. We do this to not waste everything that went into these parts. We recycle hard drives because they can be used for someone or something else. If someone uses a hard drive and they upgrade to a better one, you should first wipe the hard drive and use it for something else or give it to someone else. Another purpose is to regain the resources used to make the hard drive and maybe make a better one out of a worse one that isn’t being used. The DOD method is just a better version of wiping hard drives. First it writes a zero and verifies the write. Second it writes a one and verifies the write. Then last it writes a random character and verifies the write. We use the method because it is better than just regularly wiping a hard drive – the DOD method has 3 stages of wiping the hard drive instead of just one. The military uses this method because wiping a hard drive once may not erase ALL the data on the drive. The DOD method makes sure the drive is wiped completely after 3 tries.
+
+
+Computer recycling services at Clinical Insights
+
+
+Home
+
+About Us
+
+Services
+
+Recent News
+
+Contact Us
+
+
+Email address: 
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+Twitter
+
+
+
+
+
+Google
+
+
+
+
+
+RSS
+
+
+
+Designed by Elegant Themes | Powered by WordPress
+

@@ -71,7 +71,7 @@ def fetch_m(url):
             except:
                 print("url is bad: " + each.get('href'))
 
-            time.sleep(1) # delays for 1 seconds
+            time.sleep(2) # delays for 1 seconds
 
 
 print("fetch_m()")
