@@ -1,8 +1,0 @@
-http://music.quehuong.org/musicsheet.php
-musicsheetphp.txt
-## Music Sheet - Not Nhac
-Tên Bài Nốt NhạcTên Tác GiảPDFLời Nhạc Text  Thức Dậy Mùa Xuân    Tôn Thất Bằng,  Nguyễn Lương HiệuYesYes   Nỗi Buồn Tím    Nguyễn Ngọc ThiệnYesYes   Tình Khúc Ơ Bai    Trịnh Công SơnNoYes   Bài Ca Mới Quỳnh Lưu    Thuận YếnYesNo   Chắc Có Lẽ    Thanh HồYesYes   Chiều Qua Trường Xưa    Quỳnh Hoa,  Nguyễn hải ThảoYesNo   Chìm Dưới Cơn Mưa    Trịnh Công SơnYesYes   Cho Dù Năm Tháng    Phạm Trọng CầuYesYes   Chút Kỷ Niệm Dịu Dàng    Nguyễn Ngọc Thiện,  Phạm Thanh ChươngYesYes   Chút Nắng Mùa Đông    Lê QuangYesYes   Con Đường Đến Lớp    Lê Quốc ThắngYesYes   Còn Em ở Lại    Anh ThyYesNo   Con Gái    Hoàng Kim Chi,  Nguyễn Ngọc HưngYesYes   Con Sáo Sang Sông    Trần HảiYesNo   Cũng Sẽ Chìm Trôi    Trịnh Công SơnYesYes   Đêm Bây Giờ Đêm Mai    Trịnh Công SơnYesYes   Đời Cho Ta Thế    Trịnh Công SơnYesYes   Đời Vẫn Mãi Lang Thang    Miên Du,  Lê VũYesNo   Gã Si Tình    Trần Quang Vĩnh KhươngYesYes   Gió Xa Khơi    Doãn MẫnYesYes   Hãy Đi Cùng Nhau    Trịnh Công SơnYesYes   Hãy Khóc Đi Em    Trịnh Công SơnYesYes   Hãy Nói Giùm Tôi    Trịnh Công SơnYesYes   Lời Nguyện Cầu Mùa Chay    Mạc Tường,  Huy HoàngYesNo   Lời Du Tử    Nguyễn Đình PhúcYesYes Pages (39):
-
-
-
-

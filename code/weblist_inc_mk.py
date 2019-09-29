@@ -18,7 +18,7 @@ import os
 # !pwd
 
 print(os.getcwd())
-os.chdir("/Users/atang148/Dropbox/z/rpt")
+os.chdir("/Users/atang148/Public/z/rpt")
 
 fn = "weblist_inc.md"
 print(fn)

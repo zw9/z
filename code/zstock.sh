@@ -1,5 +1,5 @@
 #
-cd ~/Dropbox/z/rpt/
+cd ~/Public/z/rpt/
 mkdir -p stock
 cd stock
 
