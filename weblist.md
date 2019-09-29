@@ -18,5 +18,4 @@ Reference:
 #### [fitanalytics](http://fitanalytics.000webhostapp.com)
 #### [infonow](http://infonow.x10host.com)
 #### [pythonshowcase](http://pythonshowcase.infonow.x10host.com)
-#### [life_unscripted](https://github.com/zzz/life_unscripted)
 #### [z](https://zw9.github.io/z/)
