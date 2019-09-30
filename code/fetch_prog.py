@@ -49,16 +49,16 @@ def fetch_p(url):
 print("fetch_p()")
 
 
-def fetch_m(url):
+def fetch_m(rptpath,url):
     print(os.getcwd())
-    os.chdir("/Users/atang148/Public/z/rpt")
+    os.chdir(os.environ['HOME'] + rptpath)
     pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])
     print(pathsvr)
     try:
         os.makedirs(pathsvr,exist_ok=True)
     except:
         print("something wrong with: " + pathn)
-    os.chdir("/Users/atang148/Public/z/rpt/" + pathsvr)
+    os.chdir(os.environ['HOME'] + rptpath + "/" + pathsvr)
 
     page = requests.get(url, verify=False)
     page.status_code
@@ -76,7 +76,7 @@ def fetch_m(url):
             # print("fetch_p(\"https://raovat.nguoi-viet.com" + each['value'] + "\")")
             # url_c = "https://raovat.nguoi-viet.com" + each['value']
             try:
-                ff.write("fetch_p(\'" + each.get('href') + "\')\n")
+                ff.write("fetch_p(\'" + each.get('href') + "\')")
                 fetch_p(each.get('href'))
 
             except:
@@ -87,11 +87,41 @@ def fetch_m(url):
 
 print("fetch_m()")
 def fetch_all():
-    fetch_m("http://www.vietfun.com")
-    fetch_m("http://www.ncqa.org")
-    fetch_m("http://www.medicare.gov")
-    fetch_m("http://www.nguoi-viet.com")
-    fetch_m("https://www.webmd.com/health-insurance/terms/ncqa")
-    fetch_m("https://www.linkedin.com/company/ncqa")
+    fetch_m("/Public/z/rpt","http://www.ncqa.org")
+    fetch_m("/Public/z/rpt","http://www.medicare.gov")
+    fetch_m("/Public/z/rpt","https://www.webmd.com/health-insurance/terms/ncqa")
+    fetch_m("/Public/z/rpt","https://www.linkedin.com/company/ncqa")
+    fetch_m("/Public/z/rpt","https://www.linkedin.com/company/ncqa")
+    fetch_m("/Public/z/rpt","https://www.linkedin.com/company/ncqa")
+    fetch_m("/Public/z/rpt","https://www.linkedin.com/company/ncqa")
 
-# %run /Users/atang148/Dropbox/z/code/fetch_prog.py
+
+
+
+    fetch_m("/Public/z/rptvi","http://www.nguoi-viet.com")
+    fetch_m("/Public/z/rptvi","https://vietmynewspaper.com")
+    fetch_m("/Public/z/rptvi","http://www.vietfun.com")
+
+    fetch_m("/Public/z/rptvi","https://english.thesaigontimes.vn/")
+    fetch_m("/Public/z/rptvi","https://vietnamnews.vn/")
+    fetch_m("/Public/z/rptvi","https://tuoitrenews.vn/")
+    fetch_m("/Public/z/rptvi","https://www.bbc.com/vietnamese")
+    fetch_m("/Public/z/rptvi","https://thanhnien.vn")
+    fetch_m("/Public/z/rptvi","https://vietbao.com/")
+    fetch_m("/Public/z/rptvi","http://www.vietnamdaily.com/")
+    fetch_m("/Public/z/rptvi","https://vnexpress.net/")
+    fetch_m("/Public/z/rptvi","https://baomoi.com/")
+    fetch_m("/Public/z/rptvi","https://baodautu.vn/")
+    fetch_m("/Public/z/rptvi","http://www.sggp.org.vn/")
+    fetch_m("/Public/z/rptvi","https://www.nhandan.com.vn/")
+    fetch_m("/Public/z/rptvi","https://tuoitre.vn/")
+    fetch_m("/Public/z/rptvi","https://www.tienphong.vn/")
+    fetch_m("/Public/z/rptvi","https://www.tienphong.vn/")
+    fetch_m("/Public/z/rptvi","https://www.tienphong.vn/")
+    fetch_m("/Public/z/rptvi","https://www.tienphong.vn/")
+    fetch_m("/Public/z/rptvi","https://www.tienphong.vn/")
+
+print("fetch_all()")
+
+# %run ~/Dropbox/z/code/fetch_prog.py
+# %run ~/Dropbox/z/code/fetch_prog.py

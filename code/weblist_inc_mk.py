@@ -42,15 +42,15 @@ def one_folder(pathstr):
             folderprev=""
             for f in fnmd1:
                 a +=1
-                b = a % 5
-                if b == 0:
-                    gfn_dtl.write('</tr><tr>')
                 foldercur=os.path.dirname(f)
                 if folderprev != foldercur:
                     gfn_dtl.write('</tr><tr><td>' + foldercur + '</td>\n')
                     a=1
+                b = a % 5
+                if b == 0:
+                    gfn_dtl.write('</tr><tr>')
                 # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-                gfn_dtl.write('<td><a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a></td>\n')
+                gfn_dtl.write('<td>'  + ' <a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a></td>\n')
                 folderprev=foldercur
 
             gfn_dtl.write('</tr></table>')
