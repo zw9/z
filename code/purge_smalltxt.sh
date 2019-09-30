@@ -2,7 +2,7 @@
 
 cd ~/Public/z && jupyter lab
 
-jupyter notebook list|grep http|cut -f1
+jupyter notebook list|grep http|cut -f1 -d" "
 
 python3 /Users/atang148/Dropbox/z/code/nguoiviet-webscrape.py
 #mkdir -p ~/Public/z/rpt/ipynb/
