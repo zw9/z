@@ -17,49 +17,47 @@ import os
 
 # !pwd
 
-print(os.getcwd())
-os.chdir("/Users/atang148/Public/z/rpt")
+def one_folder(pathstr):
 
-fn = "weblist_inc.md"
-print(fn)
-encoding = 'utf-8'
+    print(os.getcwd())
+    os.chdir(pathstr)
+    print(os.getcwd())
 
-g = io.open(fn, "w", encoding='utf-8')
+    fn_head = "weblist_inc.html"
+    print(fn_head)
 
-fnhtml = "weblist_inc.html"
-print(fnhtml)
-encoding = 'utf-8'
+    gfn_head = io.open(fn_head, "w", encoding='utf-8')
+    fnmd1 = os.listdir()
+    for fn_dtl in fnmd1:
+        if '.' not in fn_dtl:
+            #print(fn_dtl)
+            gfn_head.write('<li><a href="' + str(fn_dtl) + '.html">' + str(fn_dtl) + '</a></li>\n')
+            gfn_dtl = io.open(fn_dtl + ".html", "w", encoding='utf-8')
+            fnmd1 = glob.glob( fn_dtl + '/**/*.htm*', recursive=True)
+            fnmd1.extend(glob.glob(fn_dtl + '/**/*.txt', recursive=True))
 
-gfnhtml = io.open(fnhtml, "w", encoding='utf-8')
+            a=0
+            gfn_dtl.write('<table border=1><tr>')
+            foldercur=""
+            folderprev=""
+            for f in fnmd1:
+                a +=1
+                b = a % 5
+                if b == 0:
+                    gfn_dtl.write('</tr><tr>')
+                foldercur=os.path.dirname(f)
+                if folderprev != foldercur:
+                    gfn_dtl.write('</tr><tr><td>' + foldercur + '</td>\n')
+                    a=1
+                # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
+                gfn_dtl.write('<td><a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a></td>\n')
+                folderprev=foldercur
 
-fnmd1 = glob.glob('./**/*.htm*', recursive=True)
-fnmd1.extend(glob.glob('./**/*.txt', recursive=True))
-fnmd1.extend(glob.glob('./**/*.md', recursive=True))
-# fnmd1.extend ( glob.glob('./**/*.ipynb',recursive=True))
-# display(fnmd)
-a=0
-g.write('---')
-gfnhtml.write('<table border=1><tr>')
-foldercur=""
-folderprev=""
-for f in fnmd1:
-    a +=1
-    b = a % 5
-    if b == 0:
-        g.write('\n---\n')
-        gfnhtml.write('</tr><tr>')
-    foldercur=os.path.dirname(f)
-    if folderprev != foldercur:
-        g.write('\n---\n' + foldercur + ' \n')
-        gfnhtml.write('</tr><tr><td>' + foldercur + '</td>\n')
-        a=1
-    # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-    g.write('| #### [' + os.path.basename(f).replace("-"," ") + ']' + '(' + f + ')' + "")
-    gfnhtml.write('<td><a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a></td>\n')
-    folderprev=foldercur
+            gfn_dtl.write('</tr></table>')
 
-gfnhtml.write('</tr></table>')
-g.write('</tr></table>')
+            gfn_dtl.close()
 
-g.close()
-gfnhtml.close()
+    gfn_head.close()
+
+one_folder("/Users/atang148/Public/z/rpt")
+one_folder("/Users/atang148/Public/z/rptvi")
