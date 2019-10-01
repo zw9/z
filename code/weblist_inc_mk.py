@@ -50,7 +50,7 @@ def one_folder(pathstr):
                 if b == 0:
                     gfn_dtl.write('</tr><tr>')
                 # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-                gfn_dtl.write('<td>'  + ' <a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a></td>\n')
+                gfn_dtl.write('<td>'  + ' <a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a>&nbsp;</td>\n')
                 folderprev=foldercur
 
             gfn_dtl.write('</tr></table>')

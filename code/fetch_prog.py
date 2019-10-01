@@ -69,8 +69,12 @@ def fetch_m(rptpath,url):
     page = requests.get(url, verify=False)
     page.status_code
     soup = BeautifulSoup(page.content, 'html.parser')
-    ctl01_PageHead = soup.title
-    print("## " + ctl01_PageHead.get_text() + "  ")
+
+    try:
+        ctl01_PageHead = soup.title
+        print("## " + ctl01_PageHead.get_text() + "  ")
+    except:
+        print("something wrong with: " )
     TBLRoll = soup.findAll('a')
     cl = 'TBLRoll'
     fnlog = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2]) + "_log.txt"
@@ -105,7 +109,6 @@ def fetch_all():
 
 
     fetch_m("/Public/z/rptvi","http://www.nguoi-viet.com")
-    fetch_m("/Public/z/rptvi","https://vietmynewspaper.com")
     fetch_m("/Public/z/rptvi","http://www.vietfun.com")
 
     fetch_m("/Public/z/rptvi","https://english.thesaigontimes.vn")
