@@ -5,6 +5,7 @@ import re
 import io
 import os
 import time
+from urllib3.exceptions import InsecureRequestWarning
 
 
 def fetch_p(url):
@@ -29,6 +30,7 @@ def fetch_p(url):
 
     print(url + "\n")
     print(fn)
+    requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
     page = requests.get(url, verify=False)
     page.status_code
@@ -100,9 +102,15 @@ def fetch_m(rptpath,url):
 
 print("fetch_m()")
 def fetch_all():
-    fetch_m("/Public/z/rpt","http://www.ncqa.org")
-    fetch_m("/Public/z/rpt","http://www.medicare.gov")
-    fetch_m("/Public/z/rpt","https://www.webmd.com/health-insurance/terms/ncqa")
+    fetch_m("/Public/z/rpt/healthcare","https://nahq.org")
+    fetch_m("/Public/z/rpt/healthcare","https://nahq.org")
+    fetch_m("/Public/z/rpt/healthcare","https://nahq.org")
+    fetch_m("/Public/z/rpt/healthcare","https://nahq.org")
+    fetch_m("/Public/z/rpt/healthcare","https://health.gov/hcq/about/hcq.asp")
+    
+    fetch_m("/Public/z/rpt/healthcare","http://www.ncqa.org")
+    fetch_m("/Public/z/rpt/healthcare","http://www.medicare.gov")
+    fetch_m("/Public/z/rpt/healthcare","https://www.webmd.com/health-insurance/terms/ncqa")
     fetch_m("/Public/z/rpt","https://www.linkedin.com/company/ncqa")
 
 
