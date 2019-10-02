@@ -1,4 +1,4 @@
-# %run /Users/atang148/Dropbox/z/code/nguoiviet-webscrape.py
+# %run ~/Dropbox/z/code/nguoiviet-webscrape.py
 
 # coding: utf-8
 
@@ -52,14 +52,14 @@ def fetch_fnc(url, cl):
 def fetch_option(url):
 
     print(os.getcwd())
-    os.chdir("/Users/atang148/Public/z/rptvi")
+    os.chdir(os.environ['HOME'] + "/Public/z/rptvi")
     pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])
     print(pathsvr)
     try:
         os.makedirs(pathsvr,exist_ok=True)
     except:
         print("something wrong with: " + pathn)
-    os.chdir("/Users/atang148/Public/z/rptvi/" + pathsvr)
+    os.chdir(os.environ['HOME'] + "/Public/z/rptvi/" + pathsvr)
 
     page = requests.get(url)
     page.status_code
