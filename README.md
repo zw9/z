@@ -1,6 +1,6 @@
 # z
-#### [filelist_by_folder](https://zw9.github.io/rpt1/filelist_by_folder.html)
-#### [filelist_by_folder vi](https://zw9.github.io/rptvi/filelist_by_folder.html)
+#### [filelistbyfolder](https://zw9.github.io/rpt1/filelistbyfolder.html)
+#### [filelistbyfolder vi](https://zw9.github.io/rptvi/filelistbyfolder.html)
 #### [filelistbyext](https://zw9.github.io/rpt1/filelistbyext.html)
 #### [filelistbyext vi](https://zw9.github.io/rptvi/filelistbyext.html)
 #### [weblist](weblist.md)
