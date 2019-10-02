@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# %run /Users/atang148/Dropbox/z/code/weblist_inc_mk.py
+# %run ~/Dropbox/z/code/filelist_mk.py
 
 """
 Created on Sun Sep 15 22:27:14 2019
@@ -17,13 +17,13 @@ import os
 
 # !pwd
 
-def one_folder(pathstr):
+def filelist_by_folder(pathstr):
 
     print(os.getcwd())
     os.chdir(pathstr)
     print(os.getcwd())
 
-    fn_head = "weblist_inc.html"
+    fn_head = "filelist_by_folder.html"
     print(fn_head)
 
     gfn_head = io.open(fn_head, "w", encoding='utf-8')
@@ -33,14 +33,14 @@ def one_folder(pathstr):
             #print(fn_dtl)
             gfn_head.write('<li><a href="' + str(fn_dtl) + '.html">' + str(fn_dtl) + '</a></li>\n')
             gfn_dtl = io.open(fn_dtl + ".html", "w", encoding='utf-8')
-            fnmd1 = glob.glob( fn_dtl + '/**/*.htm*', recursive=True)
-            fnmd1.extend(glob.glob(fn_dtl + '/**/*.txt', recursive=True))
+            fnmd1 = glob.glob( fn_dtl + '/**/*.*', recursive=True)
+            #fnmd1.extend(glob.glob(fn_dtl + '/**/*.txt', recursive=True))
 
             a=0
             gfn_dtl.write('<table border=1><tr>')
             foldercur=""
             folderprev=""
-            for f in fnmd1:
+            for f in fnmd1[:100]:
                 a +=1
                 foldercur=os.path.dirname(f)
                 if folderprev != foldercur:
@@ -50,7 +50,7 @@ def one_folder(pathstr):
                 if b == 0:
                     gfn_dtl.write('</tr><tr>')
                 # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-                gfn_dtl.write('<td>'  + ' <a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a>&nbsp;</td>\n')
+                gfn_dtl.write('<td>'  + ' <a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a> &nbsp; </td>\n')
                 folderprev=foldercur
 
             gfn_dtl.write('</tr></table>')
@@ -59,5 +59,6 @@ def one_folder(pathstr):
 
     gfn_head.close()
 
-one_folder("/Users/atang148/Public/z/rpt")
-one_folder("/Users/atang148/Public/z/rptvi")
+filelist_by_folder(os.environ['HOME'] + "/Public/z/rpt")
+filelist_by_folder(os.environ['HOME'] + "/Public/z/rptvi")
+#filelist_by_folder(os.environ['HOME']  )

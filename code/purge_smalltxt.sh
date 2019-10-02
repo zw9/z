@@ -16,4 +16,4 @@ mv  ~/Public/z/rpt/notebook/*.html ~/Public/z/rpt/notebook_html/
 
 find ~/Public/z/ -name "**.txt" -size -2 -delete
 find ~/Public/z -empty -type d -delete
-python3 /Users/atang148/Dropbox/z/code/weblist_inc_mk.py
+python3 /Users/atang148/Dropbox/z/code/filelist_mk.py

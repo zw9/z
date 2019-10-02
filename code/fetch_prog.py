@@ -107,7 +107,7 @@ def fetch_all():
     fetch_m("/Public/z/rpt/healthcare","https://nahq.org")
     fetch_m("/Public/z/rpt/healthcare","https://nahq.org")
     fetch_m("/Public/z/rpt/healthcare","https://health.gov/hcq/about/hcq.asp")
-    
+
     fetch_m("/Public/z/rpt/healthcare","http://www.ncqa.org")
     fetch_m("/Public/z/rpt/healthcare","http://www.medicare.gov")
     fetch_m("/Public/z/rpt/healthcare","https://www.webmd.com/health-insurance/terms/ncqa")
