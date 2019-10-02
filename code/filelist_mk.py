@@ -40,7 +40,7 @@ def filelist_by_folder(pathstr):
             gfn_dtl.write('<table border=1><tr>')
             foldercur=""
             folderprev=""
-            for f in fnmd1[:100]:
+            for f in fnmd1[:500]:
                 a +=1
                 foldercur=os.path.dirname(f)
                 if folderprev != foldercur:
