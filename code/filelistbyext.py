@@ -12,6 +12,10 @@ def filelist_by_ext(dirname):
     os.chdir(dirname )
     #x=os.listdir(dirname)
 
+    print(os.getcwd())
+    os.chdir(dirname)
+    print(os.getcwd())
+
     y = glob.glob(   '**/*.*', recursive=True)
     y.sort(key=lambda f: os.path.splitext(f)[1])
     extold=""

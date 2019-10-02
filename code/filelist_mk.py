@@ -40,7 +40,7 @@ def filelist_by_folder(pathstr):
             gfn_dtl.write('<table border=1><tr>')
             foldercur=""
             folderprev=""
-            for f in fnmd1[:500]:
+            for f in fnmd1:
                 a +=1
                 foldercur=os.path.dirname(f)
                 if folderprev != foldercur:
@@ -61,4 +61,4 @@ def filelist_by_folder(pathstr):
 
 filelist_by_folder(os.environ['HOME'] + "/Public/z/rpt")
 filelist_by_folder(os.environ['HOME'] + "/Public/z/rptvi")
-#filelist_by_folder(os.environ['HOME']  )
+filelist_by_folder(os.environ['HOME'] + "/Dropbox" )
