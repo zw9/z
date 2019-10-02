@@ -38,7 +38,7 @@ def fetch_p(url):
     ctl01_PageHead = soup.title
     print("## " + ctl01_PageHead.get_text() + "  ")
     f.write("## " + ctl01_PageHead.get_text() + "\n")
-    TBLRoll = soup.find_all(['p', 'h3', 'li', 'br', 'h1', 'h2', 'h4','h5'])
+    TBLRoll = soup.find_all(['a','il','ol','strong','p', 'h3', 'li', 'br', 'h1', 'h2', 'h4','h5'])
     AllTags = soup.find_all(True)
     # for e in AllTags:
     # f.write(str(e))
@@ -79,7 +79,7 @@ def fetch_m(rptpath,url):
         print("something wrong with: " )
     TBLRoll = soup.findAll('a')
     cl = 'TBLRoll'
-    fnlog = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2]) + "_log.txt"
+    fnlog = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2]) + "_log.html"
     encoding = 'utf-8'
     ff = io.open(fnlog, "w", encoding='utf-8')
     for each in TBLRoll[:100]:
@@ -91,7 +91,8 @@ def fetch_m(rptpath,url):
             # print("fetch_p(\"https://raovat.nguoi-viet.com" + each['value'] + "\")")
             # url_c = "https://raovat.nguoi-viet.com" + each['value']
             try:
-                ff.write("fetch_p(\'" + url1+ "\')\n")
+                ff.write("<li><a href=" + url1 + ">" + url1 + "</a>\n")
+                #fetch_p(\'" + url1+ "\')\n")
                 fetch_p(url1)
 
             except:
