@@ -18,16 +18,17 @@ def filelist_by_ext(dirname):
     fn_dtl="filelistbyext"
 
     gfn_dtl = io.open( fn_dtl + ".html", "w", encoding='utf-8')
+    print(fn_dtl)
     a=0
     gfn_dtl.write('<table border=1><tr>')
     for k in y:
         a +=1
         fileName, fileExtension = os.path.splitext(k)
         if fileExtension != extold:
-            print (fileExtension)
+            #print (fileExtension)
             gfn_dtl.write('</tr><tr><td>' + fileExtension + '</td>\n')
             a=1
-        print(os.path.basename(fileName).replace("-"," "),k)
+        #print(os.path.basename(fileName).replace("-"," "),k)
         b = a % 5
         if b == 0:
             gfn_dtl.write('</tr><tr>')

@@ -23,7 +23,7 @@ def filelist_by_folder(pathstr):
     os.chdir(pathstr)
     print(os.getcwd())
 
-    fn_head = "filelist_by_folder.html"
+    fn_head = "filelistbyfolder.html"
     print(fn_head)
 
     gfn_head = io.open(fn_head, "w", encoding='utf-8')
