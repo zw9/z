@@ -30,17 +30,17 @@ def filelist_by_ext(dirname):
         fileName, fileExtension = os.path.splitext(k)
         if fileExtension != extold:
             #print (fileExtension)
-            gfn_dtl.write('</tr><tr><td>' + fileExtension + '</td>\n')
+            gfn_dtl.write('</tr><tr><td>' + fileExtension + '\n')
             a=1
         #print(os.path.basename(fileName).replace("-"," "),k)
         b = a % 5
         if b == 0:
-            gfn_dtl.write('</tr><tr>')
+            gfn_dtl.write('</td></tr><tr><td>')
             # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-        gfn_dtl.write('<td>'  + ' <a href="' + k + '">' + os.path.basename(fileName).replace("-"," ") + '</a> &nbsp; </td>\n')
+        gfn_dtl.write(' &nbsp; '  + ' <a href="' + k + '">' + os.path.basename(fileName).replace("-"," ") + '</a> &nbsp; | \n')
         extold=fileExtension
 
-    gfn_dtl.write('</tr></table>')
+    gfn_dtl.write('</td></tr></table>')
 
     gfn_dtl.close()
 

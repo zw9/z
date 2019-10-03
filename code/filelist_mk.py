@@ -37,23 +37,23 @@ def filelist_by_folder(pathstr):
             #fnmd1.extend(glob.glob(fn_dtl + '/**/*.txt', recursive=True))
 
             a=0
-            gfn_dtl.write('<table border=1><tr>')
+            gfn_dtl.write('<table border=1><tr><td>')
             foldercur=""
             folderprev=""
             for f in fnmd1:
                 a +=1
                 foldercur=os.path.dirname(f)
                 if folderprev != foldercur:
-                    gfn_dtl.write('</tr><tr><td>' + foldercur + '</td>\n')
+                    gfn_dtl.write('</td></tr><tr><td>' + foldercur + ' &nbsp; \n')
                     a=1
                 b = a % 5
                 if b == 0:
-                    gfn_dtl.write('</tr><tr>')
+                    gfn_dtl.write('</td></tr><tr><td>')
                 # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
-                gfn_dtl.write('<td>'  + ' <a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a> &nbsp; </td>\n')
+                gfn_dtl.write(' &nbsp; '  + ' <a href="' + f + '">' + os.path.basename(f).replace("-"," ") + '</a> &nbsp; | \n')
                 folderprev=foldercur
 
-            gfn_dtl.write('</tr></table>')
+            gfn_dtl.write('</td></tr></table>')
 
             gfn_dtl.close()
 
