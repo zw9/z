@@ -18,3 +18,7 @@ find ~/Public/z/ -name "**.txt" -size -2 -delete
 find ~/Public/z -empty -type d -delete
 python3 ~/Dropbox/z/code/filelist_mk.py
 python3 ~/Dropbox/z/code/filelistbyext.py
+
+find ~/Public/z/rpt  -name "**.txt" -mtime +3  -delete
+
+awk -F "//" '{print 2}' ~/Public/z/*log.html
