@@ -27,6 +27,7 @@ def fetch_p(url):
 
     f.write(url + "\n")
     f.write(fn + "\n")
+    f.write("<li><a href=" + url + ">" + url + "</a>\n")
 
     print(url + "\n")
     print(fn)
@@ -95,9 +96,10 @@ def fetch_m(rptpath,url):
     for each in TBLRoll[:100]:
         if (each.get('href')):
             url1=each.get('href')
+            print("url="+url)
             print("url1="+url1)
             if '//' not in url1:
-                url1=url.split("/")[0] + "//" + url.split("/")[2] + url1
+                url1=url.split("/")[0] + "//" + url.split("/")[2] + ("/" + url1).replace("//","/")
             # print("fetch_p(\"https://raovat.nguoi-viet.com" + each['value'] + "\")")
             # url_c = "https://raovat.nguoi-viet.com" + each['value']
             try:
