@@ -6,11 +6,17 @@ import io
 import os
 import time
 from urllib3.exceptions import InsecureRequestWarning
+# import HTMLSession from requests_html
+from requests_html import HTMLSession
+
+# create an HTML Session object
 
 
 def fetch_p(url):
     # url = "https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/"
     url1=url
+    session = HTMLSession()
+
     if url1[-1]=="/":
         url1=url1[:-1]
     try:
@@ -27,15 +33,21 @@ def fetch_p(url):
 
     f.write(url + "\n")
     f.write(fn + "\n")
-    f.write("<li><a href=" + url + ">" + url + "</a>\n")
+    #f.write("<li><a href=" + url + ">" + url + "</a>\n")
 
     print(url + "\n")
     print(fn)
     requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
+    # Use the object above to connect to needed webpage
+    resp = session.get(url)
 
-    page = requests.get(url, verify=False)
-    page.status_code
-    soup = BeautifulSoup(page.content, 'html.parser')
+    # Run JavaScript code on webpage
+    resp.html.render()
+
+    #page = requests.get(url, verify=False)
+    #page.status_code
+    #soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(resp.html.html, "lxml")
     ctl01_PageHead = soup.title
     print("## " + ctl01_PageHead.get_text() + "  ")
     f.write("## " + ctl01_PageHead.get_text() + "\n")
