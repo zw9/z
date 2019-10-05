@@ -47,7 +47,7 @@ def fetch_p(url):
         if each.get_text():
             # print(each.get_text() + "  ")
             #f.write(each.get_text() + "\n\n")
-            f.write("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') + "  ")
+            f.write("\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') + "  ")
 
     f.close()
 
@@ -62,7 +62,7 @@ def fetch_m(rptpath,url):
 
     fnlog = os.environ['HOME'] + rptpath + "/fetch_log.md"
     encoding = 'utf-8'
-    fflog= io.open(fnlog, "w+", encoding='utf-8')
+    fflog= io.open(fnlog, "a", encoding='utf-8')
     fflog.write("fetch_m(\"" + rptpath+ "\",\"" + url + "\")\n")
     fflog.close()
 
@@ -97,7 +97,7 @@ def fetch_m(rptpath,url):
             url1=each.get('href')
             print("url1="+url1)
             if '//' not in url1:
-                url1=url + url1
+                url1=url.split("/")[0] + "//" + url.split("/")[2] + url1
             # print("fetch_p(\"https://raovat.nguoi-viet.com" + each['value'] + "\")")
             # url_c = "https://raovat.nguoi-viet.com" + each['value']
             try:
