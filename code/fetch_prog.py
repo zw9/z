@@ -38,7 +38,7 @@ def fetch_p(url):
     ctl01_PageHead = soup.title
     print("## " + ctl01_PageHead.get_text() + "  ")
     f.write("## " + ctl01_PageHead.get_text() + "\n")
-    TBLRoll = soup.find_all(['a','il','ol','strong','p', 'h3', 'li', 'br', 'h1', 'h2', 'h4','h5'])
+    TBLRoll = soup.find_all(['p', 'h3', 'br', 'h1', 'h2', 'h4','h5'])
     AllTags = soup.find_all(True)
     # for e in AllTags:
     # f.write(str(e))
@@ -46,7 +46,9 @@ def fetch_p(url):
     for each in TBLRoll:
         if each.get_text():
             # print(each.get_text() + "  ")
-            f.write(each.get_text() + "\n\n")
+            #f.write(each.get_text() + "\n\n")
+            f.write("\n\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') + "  ")
+
     f.close()
 
 
@@ -57,6 +59,14 @@ def fetch_m(rptpath,url):
     print("rptpath="+ rptpath)
     print("url="+ url)
     print(os.getcwd())
+
+    fnlog = os.environ['HOME'] + rptpath + "/fetch_log.md"
+    encoding = 'utf-8'
+    fflog= io.open(fnlog, "w+", encoding='utf-8')
+    fflog.write("fetch_m(\"" + rptpath+ "\",\"" + url + "\")\n")
+    fflog.close()
+
+
     os.chdir(os.environ['HOME'] + rptpath)
 
     pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])
