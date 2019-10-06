@@ -105,7 +105,7 @@ def fetch_m(rptpath,url):
     fnlog = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2]) + "_log.html"
     encoding = 'utf-8'
     ff = io.open(fnlog, "w", encoding='utf-8')
-    for each in TBLRoll[:10]:
+    for each in TBLRoll[:100]:
         if (each.get('href')):
             url1=each.get('href')
             print("url="+url)
