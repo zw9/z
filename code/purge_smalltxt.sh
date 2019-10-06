@@ -4,7 +4,7 @@ cd ~/Public/z && jupyter lab
 
 jupyter notebook list|grep http|cut -f1 -d" "
 
-python3 ~/Dropbox/z/code/nguoiviet-webscrape.py
+python3 ~/Dropbox/z/code/nguoivietwebscrape.py
 #mkdir -p ~/Public/z/rpt/ipynb/
 jupyter nbconvert ~/Public/z/rpt/notebook/*.ipynb
 jupyter nbconvert ~/Public/z/rptvi/notebook/*.ipynb
@@ -19,6 +19,6 @@ find ~/Public/z -empty -type d -delete
 python3 ~/Dropbox/z/code/filelist_mk.py
 python3 ~/Dropbox/z/code/filelistbyext.py
 
-find ~/Public/z/rpt  -name "**.txt" -mtime +3  -delete
+#find ~/Public/z/rpt  -name "**.txt" -mtime +3  -delete
 
 awk -F "//" '{print 2}' ~/Public/z/*log.html

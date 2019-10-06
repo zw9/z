@@ -105,7 +105,7 @@ def fetch_m(rptpath,url):
     fnlog = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2]) + "_log.html"
     encoding = 'utf-8'
     ff = io.open(fnlog, "w", encoding='utf-8')
-    for each in TBLRoll[:100]:
+    for each in TBLRoll[:10]:
         if (each.get('href')):
             url1=each.get('href')
             print("url="+url)
@@ -160,3 +160,6 @@ print("fetch_all()")
 
 # %run ~/Dropbox/z/code/fetch_prog.py
 # %run ~/Dropbox/z/code/fetch_prog.py
+
+# fetch_p("https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
+# fetch_m("/Public/z/rptvi","https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
