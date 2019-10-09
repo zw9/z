@@ -15,7 +15,7 @@ from requests_html import HTMLSession
 def fetch_p(url):
     # url = "https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/"
     url1=url
-    session = HTMLSession()
+    #session = HTMLSession()
 
     if url1[-1]=="/":
         url1=url1[:-1]
@@ -39,19 +39,19 @@ def fetch_p(url):
     print(fn)
     requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
     # Use the object above to connect to needed webpage
-    resp = session.get(url)
+    #resp = session.get(url)
 
     # Run JavaScript code on webpage
-    resp.html.render()
+    #resp.html.render()
 
-    #page = requests.get(url, verify=False)
-    #page.status_code
-    #soup = BeautifulSoup(page.content, 'html.parser')
-    soup = BeautifulSoup(resp.html.html, "lxml")
+    page = requests.get(url, verify=False)
+    page.status_code
+    soup = BeautifulSoup(page.content, 'html.parser')
+    #soup = BeautifulSoup(resp.html.html, "lxml")
     ctl01_PageHead = soup.title
     print("## " + ctl01_PageHead.get_text() + "  ")
     f.write("## " + ctl01_PageHead.get_text() + "\n")
-    TBLRoll = soup.find_all(['p', 'h3', 'br', 'h1', 'h2', 'h4','h5'])
+    TBLRoll = soup.find_all(['td-module-meta-info', 'td-post-date', 'entry-date', 'p', 'h3', 'br', 'h1', 'h2', 'h4','h5'])
     AllTags = soup.find_all(True)
     # for e in AllTags:
     # f.write(str(e))
@@ -60,8 +60,9 @@ def fetch_p(url):
         if each.get_text():
             # print(each.get_text() + "  ")
             #f.write(each.get_text() + "\n\n")
-            f.write("\n" + each.get_text().lstrip().rstrip().replace('\n', ' ') + "  ")
-
+            f.write(each.get_text() + "\n\n")
+            #.lstrip().replace('\n', ' ') + "  ")
+            #.rstrip()
     f.close()
 
 
@@ -159,7 +160,7 @@ def fetch_all():
 print("fetch_all()")
 
 # %run ~/Dropbox/z/code/fetch_prog.py
-# %run ~/Dropbox/z/code/fetch_prog.py
-
 # fetch_p("https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
+
+# %run ~/Dropbox/z/code/fetch_prog.py
 # fetch_m("/Public/z/rptvi","https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")

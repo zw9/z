@@ -1,4 +1,3 @@
-# %run ~/Dropbox/z/code/nguoivietwebscrape.py
 
 # coding: utf-8
 
@@ -77,6 +76,6 @@ def fetch_option(url):
 
 
 # In[4]:
+# %run ~/Dropbox/z/code/nguoivietwebscrape.py
 
-fetch_option("https://raovat.nguoi-viet.com/classified/dam-bop-thu-gian-massage-relax-browse-123.aspx")
-#fetch_option("https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
+#fetch_option("https://raovat.nguoi-viet.com/classified/dam-bop-thu-gian-massage-relax-browse-123.aspx")
