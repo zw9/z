@@ -44,8 +44,8 @@ def filelist_by_ext(dirname):
 
     gfn_dtl.close()
 
-filelist_by_ext(os.environ['HOME'] + "/Public/z/rpt")
-filelist_by_ext(os.environ['HOME'] + "/Public/z/rptvi")
+filelist_by_ext("/Volumes/ThuDuc/z/rpt")
+filelist_by_ext("/Volumes/ThuDuc/z/rptvi")
 filelist_by_ext(os.environ['HOME'] + "/Dropbox")
 
     #dirname = os.environ['HOME'] + "/Public/z/rpt"

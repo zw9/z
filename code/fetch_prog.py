@@ -74,14 +74,14 @@ def fetch_m(rptpath,url):
     print("url="+ url)
     print(os.getcwd())
 
-    fnlog = os.environ['HOME'] + rptpath + "/fetch_log.md"
+    fnlog = rptpath + "/fetch_log.md"
     encoding = 'utf-8'
     fflog= io.open(fnlog, "a", encoding='utf-8')
     fflog.write("fetch_m(\"" + rptpath+ "\",\"" + url + "\")\n")
     fflog.close()
 
 
-    os.chdir(os.environ['HOME'] + rptpath)
+    os.chdir(rptpath)
 
     pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])
     print("pathsvr=" + pathsvr)
@@ -90,7 +90,7 @@ def fetch_m(rptpath,url):
     except:
         print("something wrong with: " + pathsvr)
 
-    os.chdir(os.environ['HOME'] + rptpath + "/" + pathsvr)
+    os.chdir(rptpath + "/" + pathsvr)
 
     page = requests.get(url, verify=False)
     page.status_code
@@ -128,34 +128,34 @@ def fetch_m(rptpath,url):
 
 print("fetch_m()")
 def fetch_all():
-    fetch_m("/Public/z/rpt","https://nahq.org")
-    fetch_m("/Public/z/rpt","https://health.gov")
+    fetch_m("/Volumes/ThuDuc/z/rpt","https://nahq.org")
+    fetch_m("/Volumes/ThuDuc/z/rpt","https://health.gov")
 
-    fetch_m("/Public/z/rpt","http://www.ncqa.org")
-    fetch_m("/Public/z/rpt","http://www.medicare.gov")
-    fetch_m("/Public/z/rpt","https://www.webmd.com")
-    #fetch_m("/Public/z/rpt","https://www.linkedin.com/company/ncqa")
-
-
+    fetch_m("/Volumes/ThuDuc/z/rpt","http://www.ncqa.org")
+    fetch_m("/Volumes/ThuDuc/z/rpt","http://www.medicare.gov")
+    fetch_m("/Volumes/ThuDuc/z/rpt","https://www.webmd.com")
+    #fetch_m("/Volumes/ThuDuc/z/rpt","https://www.linkedin.com/company/ncqa")
 
 
-    fetch_m("/Public/z/rptvi","http://www.nguoi-viet.com")
-    fetch_m("/Public/z/rptvi","http://www.vietfun.com")
 
-    fetch_m("/Public/z/rptvi","https://english.thesaigontimes.vn")
-    fetch_m("/Public/z/rptvi","https://vietnamnews.vn")
-    fetch_m("/Public/z/rptvi","https://tuoitrenews.vn")
-    fetch_m("/Public/z/rptvi","https://www.bbc.com/vietnamese")
-    fetch_m("/Public/z/rptvi","https://thanhnien.vn")
-    fetch_m("/Public/z/rptvi","https://vietbao.com")
-    fetch_m("/Public/z/rptvi","http://www.vietnamdaily.com")
-    fetch_m("/Public/z/rptvi","https://vnexpress.net")
-    fetch_m("/Public/z/rptvi","https://baomoi.com")
-    fetch_m("/Public/z/rptvi","https://baodautu.vn")
-    fetch_m("/Public/z/rptvi","http://www.sggp.org.vn")
-    fetch_m("/Public/z/rptvi","https://www.nhandan.com.vn")
-    fetch_m("/Public/z/rptvi","https://tuoitre.vn")
-    fetch_m("/Public/z/rptvi","https://www.tienphong.vn")
+
+    fetch_m("/Volumes/ThuDuc/z/rptvi","http://www.nguoi-viet.com")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","http://www.vietfun.com")
+
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://english.thesaigontimes.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://vietnamnews.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://tuoitrenews.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://www.bbc.com/vietnamese")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://thanhnien.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://vietbao.com")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","http://www.vietnamdaily.com")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://vnexpress.net")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://baomoi.com")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://baodautu.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","http://www.sggp.org.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://www.nhandan.com.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://tuoitre.vn")
+    fetch_m("/Volumes/ThuDuc/z/rptvi","https://www.tienphong.vn")
 
 print("fetch_all()")
 
@@ -163,4 +163,4 @@ print("fetch_all()")
 # fetch_p("https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
 
 # %run ~/Dropbox/z/code/fetch_prog.py
-# fetch_m("/Public/z/rptvi","https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
+# fetch_m("/Volumes/ThuDuc/z/rptvi","https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
