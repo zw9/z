@@ -134,6 +134,8 @@ def fetch_all():
     fetch_m("/Volumes/ThuDuc/z/rpt","http://www.ncqa.org")
     fetch_m("/Volumes/ThuDuc/z/rpt","http://www.medicare.gov")
     fetch_m("/Volumes/ThuDuc/z/rpt","https://www.webmd.com")
+    fetch_m("/Volumes/ThuDuc/z/rpt","https://www.cms.gov/Medicare/Prescription-Drug-Coverage/PrescriptionDrugCovGenIn/index.html")
+    
     #fetch_m("/Volumes/ThuDuc/z/rpt","https://www.linkedin.com/company/ncqa")
 
 

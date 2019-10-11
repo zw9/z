@@ -59,6 +59,6 @@ def filelist_by_folder(pathstr):
 
     gfn_head.close()
 
-filelist_by_folder(os.environ["/Volumes/ThuDuc/z/rpt")
-filelist_by_folder(os.environ["/Volumes/ThuDuc/z/rptvi")
+filelist_by_folder("/Volumes/ThuDuc/z/rpt")
+filelist_by_folder("/Volumes/ThuDuc/z/rptvi")
 filelist_by_folder(os.environ['HOME'] + "/Dropbox" )
