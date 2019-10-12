@@ -51,7 +51,7 @@ def fetch_p(url):
     ctl01_PageHead = soup.title
     print("## " + ctl01_PageHead.get_text() + "  ")
     f.write("## " + ctl01_PageHead.get_text() + "\n")
-    TBLRoll = soup.find_all(['td-module-meta-info', 'td-post-date', 'entry-date', 'p', 'h3', 'br', 'h1', 'h2', 'h4','h5'])
+    TBLRoll = soup.find_all(['td_data_time','td-module-meta-info', 'td-post-date', 'entry-date', 'a', 'p', 'h3', 'br', 'h1', 'h2', 'h4','h5'])
     AllTags = soup.find_all(True)
     # for e in AllTags:
     # f.write(str(e))
@@ -135,7 +135,7 @@ def fetch_all():
     fetch_m("/Volumes/ThuDuc/z/rpt","http://www.medicare.gov")
     fetch_m("/Volumes/ThuDuc/z/rpt","https://www.webmd.com")
     fetch_m("/Volumes/ThuDuc/z/rpt","https://www.cms.gov/Medicare/Prescription-Drug-Coverage/PrescriptionDrugCovGenIn/index.html")
-    
+
     #fetch_m("/Volumes/ThuDuc/z/rpt","https://www.linkedin.com/company/ncqa")
 
 
