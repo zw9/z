@@ -15,6 +15,7 @@ mv  /Volumes/ThuDuc/z/rptvi/notebook/*.html /Volumes/ThuDuc/z/rptvi/notebook_htm
 mv  /Volumes/ThuDuc/z/rpt/notebook/*.html /Volumes/ThuDuc/z/rpt/notebook_html/
 
 find /Volumes/ThuDuc/z/ -name "**.txt" -size -2 -delete
+find /Volumes/ThuDuc/z -empty  -delete
 find /Volumes/ThuDuc/z -empty -type d -delete
 python3 ~/Dropbox/z/code/filelist_mk.py
 python3 ~/Dropbox/z/code/filelistbyext.py
