@@ -4,7 +4,7 @@ cd /Volumes/ThuDuc/z && jupyter lab
 
 jupyter notebook list|grep http|cut -f1 -d" "
 
-python3 ~/Dropbox/z/code/nguoivietwebscrape.py
+# python3 ~/Dropbox/z/code/nguoivietwebscrape.py
 #mkdir -p /Volumes/ThuDuc/z/rpt/ipynb/
 jupyter nbconvert /Volumes/ThuDuc/z/rpt/notebook/*.ipynb
 jupyter nbconvert /Volumes/ThuDuc/z/rptvi/notebook/*.ipynb

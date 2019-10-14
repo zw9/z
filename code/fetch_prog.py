@@ -12,24 +12,50 @@ from requests_html import HTMLSession
 # create an HTML Session object
 
 
-def fetch_p(url):
+def fetch_p(rptpath,url):
+    if url[-1]=="/":
+        url=url[:-1]
+
     # url = "https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/"
     url1=url
     #session = HTMLSession()
+
+    pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])
+    print("pathsvr=" + pathsvr)
+    try:
+        os.makedirs(rptpath + "/" + pathsvr,exist_ok=True)
+    except:
+        print("something wrong with: " + rptpath + "/" + pathsvr)
+    os.chdir(rptpath + "/" + pathsvr)
+
+    pathn = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[-2])
+    if pathsvr==pathn:
+        folderpathnew=rptpath + "/" + pathsvr
+    if pathsvr != pathn:
+        folderpathnew=rptpath + "/" + pathsvr+"/" + pathn
+
+    print("folderpathnew=" +folderpathnew)
+    try:
+        os.makedirs(folderpathnew,exist_ok=True)
+    except:
+        print( os.getcwd())
+        print("something wrong with: " + folderpathnew)
+
+    os.chdir(folderpathnew)
 
     if url1[-1]=="/":
         url1=url1[:-1]
     try:
         pathn = re.sub('[^A-Za-z0-9-_]+', '', url1.split("/")[-2])
-        os.makedirs(pathn, exist_ok=True)
+        os.makedirs(folderpathnew, exist_ok=True)
         fn = re.sub('[^A-Za-z0-9-_]+', '', url1.split("/")[-1]) + ".txt"
         encoding = 'utf-8'
-        f = io.open(pathn + "/" + fn, "w", encoding='utf-8')
+        f = io.open(folderpathnew  + "/" + fn, "w", encoding='utf-8')
     except:
-        print("something wrong with: " + pathn + "/" + fn)
+        print("something wrong with: " + folderpathnew + "/" + fn)
         fn = pathn + ".txt"
         encoding = 'utf-8'
-        f = io.open(pathn + "/" + fn, "w", encoding='utf-8')
+        f = io.open(rptpath + "/" + pathsvr + "/" + fn, "w", encoding='utf-8')
 
     f.write(url + "\n")
     f.write(fn + "\n")
@@ -51,7 +77,7 @@ def fetch_p(url):
     ctl01_PageHead = soup.title
     print("## " + ctl01_PageHead.get_text() + "  ")
     f.write("## " + ctl01_PageHead.get_text() + "\n")
-    TBLRoll = soup.find_all(['td_data_time','td-module-meta-info', 'td-post-date', 'entry-date', 'a', 'p', 'h3', 'br', 'h1', 'h2', 'h4','h5'])
+    TBLRoll = soup.find_all(['td_data_time','td-module-meta-info', 'td-post-date', 'entry-date',  'p', 'h3', 'br', 'h1', 'h2', 'h4','h5'])
     AllTags = soup.find_all(True)
     # for e in AllTags:
     # f.write(str(e))
@@ -66,10 +92,13 @@ def fetch_p(url):
     f.close()
 
 
-print("fetch_p()")
+print("fetch_p(rptpath,)")
 
 
 def fetch_m(rptpath,url):
+    if url[-1]=="/":
+        url=url[:-1]
+
     print("rptpath="+ rptpath)
     print("url="+ url)
     print(os.getcwd())
@@ -86,7 +115,7 @@ def fetch_m(rptpath,url):
     pathsvr = re.sub('[^A-Za-z0-9-_]+', '', url.split("/")[2])
     print("pathsvr=" + pathsvr)
     try:
-        os.makedirs(pathsvr,exist_ok=True)
+        os.makedirs(rptpath + "/" + pathsvr,exist_ok=True)
     except:
         print("something wrong with: " + pathsvr)
 
@@ -118,7 +147,7 @@ def fetch_m(rptpath,url):
             try:
                 ff.write("<li><a href=" + url1 + ">" + url1 + "</a>\n")
                 #fetch_p(\'" + url1+ "\')\n")
-                fetch_p(url1)
+                fetch_p(rptpath,url1)
 
             except:
                 print("url is bad: " + url1)
@@ -162,7 +191,7 @@ def fetch_all():
 print("fetch_all()")
 
 # %run ~/Dropbox/z/code/fetch_prog.py
-# fetch_p("https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
+# fetch_p("/Volumes/ThuDuc/z/rptvi","https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
 
 # %run ~/Dropbox/z/code/fetch_prog.py
 # fetch_m("/Volumes/ThuDuc/z/rptvi","https://www.nguoi-viet.com/sinh-hoat-cong-dong/sinh-hoat-cong-dong/")
