@@ -48,6 +48,7 @@ def fetch_fnc(url, cl):
     encoding = 'utf-8'
     try:
         f = io.open(folderpathnew + "/" + fn, "w", encoding='utf-8')
+        #f.write( "<pre>")
         f.write(  os.getcwd() + "/")
         f.write(folderpathnew + "/" + fn + "\n")
         #f.write(str(f) )
@@ -67,9 +68,9 @@ def fetch_fnc(url, cl):
         for each in finditems:
             #print(each)
             if each.get_text():
-                print( each.get_text()+"\n" +"  ")
-                #.lstrip().rstrip().replace('\n', '')
-                f.write(each.get_text()+ "\n" + "  ")
+                print( each.get_text().lstrip().rstrip().replace('\n', '')+"\n" +"  ")
+                #
+                f.write(each.get_text().lstrip().rstrip().replace('\n', '')+ "\n\n " + "  ")
             for b in each.find_all('a', href=True):
                 #print("url=" + '/'.join(url.split("/")[:-1]))
                 #f.write("\n" + '/'.join(url.split("/")[:-1]) + "  " )
@@ -82,6 +83,7 @@ def fetch_fnc(url, cl):
 
         print(os.getcwd()  + "/" + fn + "\n")
         f.write( os.getcwd()  + "/" + fn + "\n")
+        #f.write( "</pre>")
         f.close()
     except:
         #print("something wrong: " + each.get('href'))
@@ -143,7 +145,7 @@ def fetch_searchresult(url,cl):
         if '//' not in url1:
             url1='/'.join(url.split("/")[:-1])  + ("/" + url1).replace("//","/")
 
-        print( url1+ "\n\n")
+        print( url1+ "\n")
         fetch_fnc(url1, 'td-post-content')
         time.sleep(2) # delays for 1 seconds
 
