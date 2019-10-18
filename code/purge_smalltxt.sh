@@ -20,8 +20,8 @@ python3 /Users/atang148/Dropbox/z/code/run_daily.py
 
 bash ~/Dropbox/z/code/run_hourly.sh
 
-R -e "rmarkdown::render('/Volumes/ThuDuc/z/rpt/notebook/Genesis-Hospital-Price-List.R',output_file='Genesis-Hospital-Price-List.html')"
-R -e "rmarkdown::render('script.Rmd',output_file='output.html')"
+#R -e "rmarkdown::render('/Volumes/ThuDuc/z/rpt/notebook/Genesis-Hospital-Price-List.R',output_file='Genesis-Hospital-Price-List.html')"
+#R -e "rmarkdown::render('script.Rmd',output_file='output.html')"
 
 bash  ~/Dropbox/z/code/do1lftpmput.sh &
 bash ~/Dropbox/z/code/do2lftpmput.sh &
