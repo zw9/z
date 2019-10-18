@@ -25,6 +25,8 @@ rm -rf  /public_html/z/rptvi
 
 cd /www.healthit.somee.com/z/rpt
 dir
+
+mirror -R /Volumes/ThuDuc/z/rpt/notebook  /www.healthit.somee.com/z/rpt/notebook
 mirror -R /Volumes/ThuDuc/z/rpt  /www.healthit.somee.com/z/rpt
 
 

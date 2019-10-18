@@ -17,6 +17,7 @@ cd  /public_html/z/rptvi
 #mrm rpt*.txt
 cd /public_html/z/rptvi
 
+mirror -R /Volumes/ThuDuc/z/rptvi/notebook   /public_html/z/rptvi/notebook
 mirror -R /Volumes/ThuDuc/z/rptvi   /public_html/z/rptvi
 dir
 du -h /

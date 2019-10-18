@@ -29,6 +29,7 @@ rm -rf  /public_html/z/rptvi
 
 dir
 #mirror -nrR /Volumes/ThuDuc/z/rptvi  /public_html/z/rptvi
+mirror -R /Volumes/ThuDuc/z/rpt/notebook  /public_html/z/rpt/notebook
 mirror -R /Volumes/ThuDuc/z/rpt  /public_html/z/rpt
 du -h
 #help
