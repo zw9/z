@@ -12,8 +12,8 @@ jupyter nbconvert /Volumes/ThuDuc/z/rptvi/notebook/*.ipynb
 mkdir -p /Volumes/ThuDuc/z/rptvi/notebook_html/
 mkdir -p /Volumes/ThuDuc/z/rpt/notebook_html/
 
-mv  /Volumes/ThuDuc/z/rptvi/notebook/*.html /Volumes/ThuDuc/z/rptvi/notebook_html/
-mv  /Volumes/ThuDuc/z/rpt/notebook/*.html /Volumes/ThuDuc/z/rpt/notebook_html/
+mv  /Volumes/ThuDuc/z/rptvi/notebook/*.htm* /Volumes/ThuDuc/z/rptvi/notebook_html/
+mv  /Volumes/ThuDuc/z/rpt/notebook/*.htm* /Volumes/ThuDuc/z/rpt/notebook_html/
 
 python3 /Users/atang148/Dropbox/z/code/run_weekly.py
 python3 /Users/atang148/Dropbox/z/code/run_daily.py
