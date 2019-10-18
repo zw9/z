@@ -2,7 +2,7 @@
 # publish to ftp site
 #set -x
 
-# bash ~/Dropbox/wcode/do2lftpmput.sh &
+# bash ~/Dropbox/z/code/do2lftpmput.sh &
 
 #!/bin/bash
 logfile="output_"$(basename $0|cut -d. -f1)"_"$(uname -n)".txt"
@@ -34,4 +34,4 @@ bye
 EOF2
 ) &> ~/Dropbox/wlog/$logfile
 cat ~/Dropbox/wlog/$logfile
-cd ~/Dropbox/wcode
+cd ~/Dropbox/z/code

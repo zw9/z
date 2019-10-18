@@ -25,6 +25,11 @@ def filelist_by_ext(dirname):
     print(fn_dtl)
     a=0
     gfn_dtl.write('<table border=1><tr>')
+    gfn_dtl.write('<td>')
+    for aa in range(1 , 20):
+        gfn_dtl.write('<a href="#bm' + str(aa*100) +'"> bm' + str(aa*100) +' | </a>')
+    gfn_dtl.write('</td></tr><tr>')
+
     for k in y:
         a +=1
         fileName, fileExtension = os.path.splitext(k)
@@ -37,6 +42,9 @@ def filelist_by_ext(dirname):
         if b == 0:
             gfn_dtl.write('</td></tr><tr><td>')
             # print ( '#### [' + f + ']' + '(' + f +')' + "\n")
+        c = a % 100
+        if c == 0:
+            gfn_dtl.write('<a id="bm' + str(a) + '">' + 'bm' + str(a) + '</a> ')
         gfn_dtl.write(' &nbsp; '  + ' <a href="' + k + '">' + os.path.basename(fileName).replace("-"," ") + '</a> &nbsp; | \n')
         extold=fileExtension
 

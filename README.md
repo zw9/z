@@ -1,13 +1,15 @@
 # z
 
-
-
-
-
+Priority:
+----
+codeset: z/code
+output: rpt , rptvi
+repeatable scripts:
 
 
 #### [00 filelistbyext vi](http://info2have.000webhostapp.com/z/rptvi/filelistbyext.html)
 #### [00 filelistbyext](http://infonow.x10host.com/z/rpt/filelistbyext.html)
+#### [00 data notebook](http://infonow.x10host.com/z/rpt/notebook.html)
 #### [000 filelistbyfolder vi](http://info2have.000webhostapp.com/z/rptvi/filelistbyfolder.html)
 #### [000 filelistbyfolder](http://infonow.x10host.com/z/rpt/filelistbyfolder.html)
 #### [01 healthit](http://healthit.somee.com)

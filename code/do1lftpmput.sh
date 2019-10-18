@@ -2,7 +2,7 @@
 # publish to ftp site
 #set -x
 
-# bash  ~/Dropbox/wcode/do1lftpmput.sh &
+# bash  ~/Dropbox/z/code/do1lftpmput.sh &
 
 # test;
 
@@ -28,7 +28,8 @@ cd /public_html/z/rpt
 rm -rf  /public_html/z/rptvi
 
 dir
-mirror -nrR /Volumes/ThuDuc/z/rpt  /public_html/z/rpt
+#mirror -nrR /Volumes/ThuDuc/z/rptvi  /public_html/z/rptvi
+mirror -R /Volumes/ThuDuc/z/rpt  /public_html/z/rpt
 du -h
 #help
 bye
@@ -37,6 +38,6 @@ EOF1
 
 cat ~/Dropbox/wlog/$logfile
 
-#$(cat ~/wcode/listurl_$(uname -n).txt|awk '{print "mirror -nrR ~/doneurl  /public_html/txt -i " $1}')
+#$(cat ~/z/code/listurl_$(uname -n).txt|awk '{print "mirror -nrR ~/doneurl  /public_html/txt -i " $1}')
 
 #mrm  /public_html/txt/*grepext*
