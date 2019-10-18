@@ -9,9 +9,16 @@ repeatable scripts:
 
 #### [00 filelistbyext vi](http://info2have.000webhostapp.com/z/rptvi/filelistbyext.html)
 #### [00 filelistbyext](http://infonow.x10host.com/z/rpt/filelistbyext.html)
+
 #### [00 data notebook](http://infonow.x10host.com/z/rpt/notebook.html)
+#### [00 data notebook html](http://infonow.x10host.com/z/rpt/notebook_html.html)
+
 #### [000 filelistbyfolder vi](http://info2have.000webhostapp.com/z/rptvi/filelistbyfolder.html)
 #### [000 filelistbyfolder](http://infonow.x10host.com/z/rpt/filelistbyfolder.html)
+
+#### [000 filelistbyfolder vi rptvi](http://info2have.000webhostapp.com/z/rptvi/notebook.html)
+#### [000 filelistbyfolder rptvi](http://infonow.x10host.com/z/rptvi/notebook_html.html)
+
 #### [01 healthit](http://healthit.somee.com)
 #### [02 info2have](http://info2have.000webhostapp.com)
 #### [03 infonow](http://infonow.x10host.com)
