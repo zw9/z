@@ -7,12 +7,8 @@ output: rpt , rptvi
 repeatable scripts:
 
 
-#### [00 data notebook](http://infonow.x10host.com/z/rpt/notebook.html)
-#### [00 data notebook html](http://infonow.x10host.com/z/rpt/notebook_html.html)
-
-#### [000 notebook vi ](http://info2have.000webhostapp.com/z/rptvi/notebook.html)
-#### [000 notebook html vi](http://infonow.x10host.com/z/rptvi/notebook_html.html)
-
+#### [0 data notebook html](http://infonow.x10host.com/z/rpt/notebook_html.html)
+#### [0 notebook html vi](http://infonow.x10host.com/z/rptvi/notebook_html.html)
 
 #### [00 filelistbyext vi](http://info2have.000webhostapp.com/z/rptvi/filelistbyext.html)
 #### [00 filelistbyext](http://infonow.x10host.com/z/rpt/filelistbyext.html)
