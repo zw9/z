@@ -6,23 +6,23 @@ codeset: z/code
 output: rpt , rptvi
 repeatable scripts:
 
-#### [0 data notebook html](http://infonow.x10host.com/z/rptR/csv.html)
-#### [0 data notebook html](http://infonow.x10host.com/z/rptR/filelistbyfolder.html)
+#### [0 infonow.x10host.com/z/rptR/csv](http://infonow.x10host.com/z/rptR/csv.html)
+#### [0 infonow.x10host.com/z/rptR/filelistbyfolder](http://infonow.x10host.com/z/rptR/filelistbyfolder.html)
 
-#### [0 data notebook html](http://info2have.000webhostapp.com/z/rptR/csv.html)
-#### [0 data notebook html](http://info2have.000webhostapp.com/z/rptR/filelistbyfolder.html)
+#### [0 info2have.000webhostapp.com/z/rptR/csv](http://info2have.000webhostapp.com/z/rptR/csv.html)
+#### [0 info2have.000webhostapp.com/z/rptR/filelistbyfolder](http://info2have.000webhostapp.com/z/rptR/filelistbyfolder.html)
 
-#### [0 data notebook html](http://healthit.somee.com/z/rptR/csv.html)
-#### [0 data notebook html](http://healthit.somee.com/z/rptR/filelistbyfolder.html)
+#### [0 healthit.somee.com/z/rptR/csv](http://healthit.somee.com/z/rptR/csv.html)
+#### [0 healthit.somee.com/z/rptR/filelistbyfolder](http://healthit.somee.com/z/rptR/filelistbyfolder.html)
 
-#### [0 data notebook html](http://infonow.x10host.com/z/rpt/notebook_html.html)
-#### [0 notebook html vi](http://infonow.x10host.com/z/rptvi/notebook_html.html)
+#### [0 infonow.x10host.com/z/rpt/notebook_html](http://infonow.x10host.com/z/rpt/notebook_html.html)
+#### [0 infonow.x10host.com/z/rptvi/notebook_html](http://infonow.x10host.com/z/rptvi/notebook_html.html)
 
-#### [00 filelistbyext vi](http://info2have.000webhostapp.com/z/rptvi/filelistbyext.html)
-#### [00 filelistbyext](http://infonow.x10host.com/z/rpt/filelistbyext.html)
+#### [00 info2have.000webhostapp.com/z/rptvi/filelistbyext](http://info2have.000webhostapp.com/z/rptvi/filelistbyext.html)
+#### [00 infonow.x10host.com/z/rpt/filelistbyext](http://infonow.x10host.com/z/rpt/filelistbyext.html)
 
-#### [000 filelistbyfolder vi](http://info2have.000webhostapp.com/z/rptvi/filelistbyfolder.html)
-#### [000 filelistbyfolder](http://infonow.x10host.com/z/rpt/filelistbyfolder.html)
+#### [000 info2have.000webhostapp.com/z/rptvi/filelistbyfolder](http://info2have.000webhostapp.com/z/rptvi/filelistbyfolder.html)
+#### [000 infonow.x10host.com/z/rpt/filelistbyfolder](http://infonow.x10host.com/z/rpt/filelistbyfolder.html)
 
 #### [01 healthit](http://healthit.somee.com)
 #### [02 info2have](http://info2have.000webhostapp.com)
