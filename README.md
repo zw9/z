@@ -6,6 +6,14 @@ codeset: z/code
 output: rpt , rptvi
 repeatable scripts:
 
+#### [0 data notebook html](http://infonow.x10host.com/z/rptR/csv.html)
+#### [0 data notebook html](http://infonow.x10host.com/z/rptR/filelistbyfolder.html)
+
+#### [0 data notebook html](http://info2have.000webhostapp.com/z/rptR/csv.html)
+#### [0 data notebook html](http://info2have.000webhostapp.com/z/rptR/filelistbyfolder.html)
+
+#### [0 data notebook html](http://healthit.somee.com/z/rptR/csv.html)
+#### [0 data notebook html](http://healthit.somee.com/z/rptR/filelistbyfolder.html)
 
 #### [0 data notebook html](http://infonow.x10host.com/z/rpt/notebook_html.html)
 #### [0 notebook html vi](http://infonow.x10host.com/z/rptvi/notebook_html.html)
