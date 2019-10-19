@@ -1,18 +1,18 @@
 # bash ~/Dropbox/z/code/fetchphone.sh
 
-fn="~/Dropbox/zz/work-thu-gian.vcf"
-fn="/Users/atang148/Dropbox/zz/work-sinh-hoat-cong-dong.vcf"
+fn="/Users/atang148/Dropbox/zz/classified.vcf"
+#fn="/Users/atang148/Dropbox/zz/work-sinh-hoat-cong-dong.vcf"
 
 echo "BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.15//EN
-N:sinh-hoat-cong-dong;random;;;
+N:classified;random;;;
 FN:test nv
 ORG:zz;
 " >"$fn"
 
 cd /Volumes/ThuDuc/z/rptvi/raovatnguoi-vietcom/classified/
-cd /Volumes/ThuDuc/z/rptvi/wwwnguoi-vietcom/sinh-hoat-cong-dong
+#cd /Volumes/ThuDuc/z/rptvi/wwwnguoi-vietcom/sinh-hoat-cong-dong
 (
 grep -Eo '[-()0-9]+' *.txt
 

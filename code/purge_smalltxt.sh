@@ -23,6 +23,9 @@ bash ~/Dropbox/z/code/run_hourly.sh
 #R -e "rmarkdown::render('/Volumes/ThuDuc/z/rpt/notebook/Genesis-Hospital-Price-List.R',output_file='Genesis-Hospital-Price-List.html')"
 #R -e "rmarkdown::render('script.Rmd',output_file='output.html')"
 
+# /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-save --no-restore -e "rmarkdown::render('/Volumes/ThuDuc/z/rpt/notebook/Genesis-Hospital-Price-List.R',~+~~+~encoding~+~=~+~'UTF-8',~+~output_format~+~=~+~'html_document');"
+
+
 bash  ~/Dropbox/z/code/do1lftpmput.sh &
 bash ~/Dropbox/z/code/do2lftpmput.sh &
 bash  ~/Dropbox/z/code/do3lftpmput.sh &
