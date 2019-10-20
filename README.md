@@ -6,15 +6,15 @@ codeset: z/code
 output: rpt , rptvi
 repeatable scripts:
 
-#### [0 infonow.x10host.com/z/rptR/csv](http://infonow.x10host.com/z/rptR/csv.html)
+#### [0 infonow.x10host.com/z/rptR](http://infonow.x10host.com/z/rptR/)
 #### [0 infonow.x10host.com/z/rptR/csvstacked](http://infonow.x10host.com/z/rptR/csvstacked.html)
 #### [0 infonow.x10host.com/z/rptR/filelistbyfolder](http://infonow.x10host.com/z/rptR/filelistbyfolder.html)
 
-#### [0 info2have.000webhostapp.com/z/rptR/csv](http://info2have.000webhostapp.com/z/rptR/csv.html)
+#### [0 info2have.000webhostapp.com/z/rptR](http://info2have.000webhostapp.com/z/rptR/)
 #### [0 info2have.000webhostapp.com/z/rptR/csvstacked](http://info2have.000webhostapp.com/z/rptR/csvstacked.html)
 #### [0 info2have.000webhostapp.com/z/rptR/filelistbyfolder](http://info2have.000webhostapp.com/z/rptR/filelistbyfolder.html)
 
-#### [0 healthit.somee.com/z/rptR/csv](http://healthit.somee.com/z/rptR/csv.html)
+#### [0 healthit.somee.com/z/rptR](http://healthit.somee.com/z/rptR/)
 #### [0 healthit.somee.com/z/rptR/csvstacked](http://healthit.somee.com/z/rptR/csvstacked.html)
 #### [0 healthit.somee.com/z/rptR/filelistbyfolder](http://healthit.somee.com/z/rptR/filelistbyfolder.html)
 
