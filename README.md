@@ -6,6 +6,8 @@ codeset: z/code
 output: rpt , rptvi
 repeatable scripts:
 
+#### [0 sourcecode_lifecycle](sourcecode_lifecycle.nb.html)
+
 #### [0 infonow.x10host.com/z/rptR](http://infonow.x10host.com/z/rptR/)
 #### [0 infonow.x10host.com/z/rptR/csvstacked](http://infonow.x10host.com/z/rptR/csvstacked.html)
 #### [0 infonow.x10host.com/z/rptR/filelistbyfolder](http://infonow.x10host.com/z/rptR/filelistbyfolder.html)
