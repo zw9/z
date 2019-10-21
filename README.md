@@ -20,7 +20,7 @@ repeatable scripts:
 #### [0 healthit.somee.com/z/rptR/csvstacked](http://healthit.somee.com/z/rptR/csvstacked.html)
 #### [0 healthit.somee.com/z/rptR/filelistbyfolder](http://healthit.somee.com/z/rptR/filelistbyfolder.html)
 
-#### [0 infonow.x10host.com/z/rpt/notebook_html](http://infonow.x10host.com/z/rpt/notebook_html.html)
+#### [0 infonow.x10host.com/z/rptR/notebook_html](http://infonow.x10host.com/z/rptR/notebook_html.html)
 #### [0 infonow.x10host.com/z/rptvi/notebook_html](http://infonow.x10host.com/z/rptvi/notebook_html.html)
 
 #### [00 info2have.000webhostapp.com/z/rptvi/filelistbyext](http://info2have.000webhostapp.com/z/rptvi/filelistbyext.html)
