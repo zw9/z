@@ -4,7 +4,7 @@ Priority:
 ----
 
 #### [webappzz](http://webappzz.somee.com)
-#### [info2have](http://info2have.000webhostapp.com/webapp)
+#### [info2have](http://info2have.000webhostapp.com/webapp/url_rotator_array.html)
 #### [wp infonowusa](http://infonowusa.wordpress.com)
 #### [wp freeanalytics](http://freeanalytics.000webhostapp.com)
 #### [rpubs.com](http://rpubs.com/Atang148)
@@ -15,7 +15,6 @@ Priority:
 #### [ z](https://zw9.github.io/z/)
 #### [energyflow](http://energyflow.000webhostapp.com)
 #### [fitanalytics](http://fitanalytics.000webhostapp.com)
-#### [fitgearstore](http://zzz.wixsite.com/fitgearstore)
 #### [me-not-here](http://me-not-here.weebly.com)
 #### [oneanalytics](http://oneanalytics.weebly.com)
 #### [f84](http://f84.epizy.com)
