@@ -10,7 +10,6 @@ Priority:
 #### [rpubs.com](http://rpubs.com/Atang148)
 #### [notebooks.azure.com](https://notebooks.azure.com/readerweb)
 #### [pythonanywhere](http://zzz.pythonanywhere.com)
-#### [pythonshowcase](http://pythonshowcase.infonow.x10host.com)
 #### [r28joy](http://r28joy.herokuapp.com)
 #### [young-retreat-68939](http://young-retreat-68939.herokuapp.com)
 #### [ z](https://zw9.github.io/z/)
