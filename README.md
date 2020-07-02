@@ -3,13 +3,13 @@
 Priority:
 ----
 
-#### [webappzz](https://webappzz.somee.com)
+#### [webappzz](http://webappzz.somee.com)
 #### [info2have](https://info2have.000webhostapp.com)
 #### [energyflow](https://energyflow.000webhostapp.com)
 #### [fitanalytics](https://fitanalytics.000webhostapp.com)
-#### [Bnt](https://Bnt.rf.gd)
-#### [apt](https://apt.getenjoyment.net)
-#### [f84](https://f84.epizy.com)
+#### [Bnt](http://Bnt.rf.gd)
+#### [apt](http://apt.getenjoyment.net)
+#### [f84](http://f84.epizy.com)
 #### [ z](httpss://zw9.github.io/z/)
 
 #### [oneanalytics](https://oneanalytics.weebly.com)
@@ -21,6 +21,6 @@ Priority:
 #### [pythonanywhere](https://zzz.pythonanywhere.com)
 #### [r28joy](https://r28joy.herokuapp.com)
 #### [young-retreat-68939](https://young-retreat-68939.herokuapp.com)
-#### [pi3b](https://pi3b.local)
-#### [pi4b](https://pi4b.local)
-#### [wdlmedia](https://wdlmedia.local)
+#### [pi3b](http://pi3b.local)
+#### [pi4b](http://pi4b.local)
+#### [wdlmedia](http://wdlmedia.local)
