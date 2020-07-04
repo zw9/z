@@ -1,6 +1,4 @@
-# z
-
-Priority:
+# Payload:
 ----
 | [s0](http://wdlmedia.local/z/s0)
 | [webappzz](http://webappzz.somee.com)
