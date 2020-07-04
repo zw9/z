@@ -2,11 +2,11 @@
 
 Priority:
 ----
- [s0](http://wdlmedia.local/z/s0)
- [webappzz](http://webappzz.somee.com)
- [info2have](https://info2have.000webhostapp.com)
- [energyflow](https://energyflow.000webhostapp.com)
- [fitanalytics](https://fitanalytics.000webhostapp.com)
+| [s0](http://wdlmedia.local/z/s0)
+| [webappzz](http://webappzz.somee.com)
+| [info2have](https://info2have.000webhostapp.com)
+| [energyflow](https://energyflow.000webhostapp.com)
+| [fitanalytics](https://fitanalytics.000webhostapp.com)
  [Bnt](http://Bnt.rf.gd)
  [apt](http://apt.getenjoyment.net)
  [f84](http://f84.epizy.com)
