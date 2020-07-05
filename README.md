@@ -1,6 +1,6 @@
 # Payload:
 ----
-| [s0](http://wdlmedia.local/z/s0)
+| [s0](http://wdlmedia.local/webhost/s0)
 | [Bnt](http://Bnt.rf.gd)
 | [f84](http://f84.epizy.com)
 | [webappzz](http://webappzz.somee.com)
