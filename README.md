@@ -12,5 +12,5 @@
 | [pythonanywhere](https://zzz.pythonanywhere.com)
 | [r28joy](https://r28joy.herokuapp.com)
 | [young-retreat-68939](https://young-retreat-68939.herokuapp.com)
-| [wdlmedia](http://wdlmedia.local)
-| [local z0](http://wdlmedia.local/webhost/z0)
+| [wdlmedia](http://192.168.1.18)
+| [local z0](http://192.168.1.18/webhost/z0)
