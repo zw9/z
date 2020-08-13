@@ -6,6 +6,10 @@
 | [webappzz](http://webappzz.somee.com)
 | [apt](http://apt.getenjoyment.net)
 | [ z](https://zw9.github.io/z/)
+| [energyflow] (http://energyflow.000webhostapp.com/)
+| [fitanalytics] (http://fitanalytics.000webhostapp.com/)
+| [freeanalytics] (http://freeanalytics.000webhostapp.com/)
+
 | [wp infonowusa](https://infonowusa.wordpress.com)
 | [rpubs.com](https://rpubs.com/Atang148)
 | [notebooks.azure.com](https://notebooks.azure.com/readerweb)
