@@ -15,7 +15,7 @@
 | [pythonanywhere](https://zzz.pythonanywhere.com)
 | [r28joy](https://r28joy.herokuapp.com)
 | [young-retreat-68939](https://young-retreat-68939.herokuapp.com)
-| [pc](http://192.168.1.51)
-| [readynas](http://192.168.1.18)
+| [pc](http://wdlpc.local)
+| [readynas](http://wdlmedia.local)
 | [router](http://192.168.1.0)
 
