@@ -22,5 +22,5 @@
 | [pc.local gui](http://wdlpc.local/z/gui)
 | [readynas.local gui](http://wdlmedia.local/z/gui)
 | [router ](http://tplinkwifi.net/)
-| [payload sas\(http://192.168.0.103)
+| [payload sas](http://192.168.0.103)
 
