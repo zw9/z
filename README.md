@@ -25,7 +25,7 @@
 | [wdlpc.local gui](http://wdlpc.local/z/gui)
 | [ social_media local](http://wdlmedia.local/social_media)
 
-# local2:
+# local vpn:
 ----
 | [ datalake](http://wdlmedia/datalake)
 | [ healthcare](http://wdlmedia/healthcare)
