@@ -22,12 +22,14 @@
 | [wdlpc.local z](http://wdlpc.local/z)
 | [wdlpc.local reports](http://wdlpc.local/reports)
 | [wdlpc.local reportserver](http://wdlpc.local/reportserver)
+| [ datalake local](http://wdlmedia.local/datalake)
 | [ healthcare local](http://wdlmedia.local/healthcare)
 | [wdlmedia.local gui](http://wdlmedia.local/z/gui)
 | [wdlpc.local gui](http://wdlpc.local/z/gui)
 
 # local2:
 ----
+| [ datalake](http://wdlmedia/datalake)
 | [ healthcare](http://wdlmedia/healthcare)
 | [wdlmedia gui](http://wdlmedia/z/gui)
 | [wdlpc gui](http://wdlpc/z/gui)
