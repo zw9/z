@@ -19,11 +19,8 @@
 
 # local:
 ----
-| [ datalake local](http://wdlmedia.local/datalake)
-| [ healthcare local](http://wdlmedia.local/healthcare)
-| [wdlmedia.local gui](http://wdlmedia.local/z/gui)
-| [wdlpc.local gui](http://wdlpc.local/z/gui)
-| [ social_media local](http://wdlmedia.local/social_media)
+| [ datalake ](http://wdlmedia.local/datalake) | [ healthcare ](http://wdlmedia.local/healthcare) | [wdlmedia gui](http://wdlmedia.local/z/gui) 
+| [wdlpc gui](http://wdlpc.local/z/gui) | [ social_media ](http://wdlmedia.local/social_media)
 
 # local vpn:
 ----
