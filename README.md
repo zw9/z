@@ -7,23 +7,33 @@
 | [fitanalytics](http://fitanalytics.000webhostapp.com)
 | [freeanalytics](http://freeanalytics.000webhostapp.com)
 | [notebooks.azure.com](https://notebooks.azure.com/readerweb)
-| [payload sas](http://192.168.109.128)
 | [pythonanywhere](https://zzz.pythonanywhere.com)
 | [r28joy](https://r28joy.herokuapp.com)
 | [router ](http://tplinkwifi.net/)
 | [router](http://www.routerlogin.com)
 | [rpubs.com](https://rpubs.com/Atang148)
 | [s0](http://bnt.rf.gd/z0)
-| [wdlmedia healthcare](http://wdlmedia/healthcare)
-| [wdlmedia.local healthcare](http://wdlmedia.local/healthcare)
-| [wdlmedia gui](http://wdlmedia/z/gui)
-| [wdlmedia.local gui](http://wdlmedia.local/z/gui)
-| [wdlpc gui](http://wdlpc/z/gui)
-| [wdlpc.local gui](http://wdlpc.local/z/gui)
-| [wdlpc z](http://wdlpc/z)
-| [wdlpc.local z](http://wdlpc.local/z)
-| [wdlpc.local reports](http://wdlpc.local/reports)
-| [wdlpc.local reportserver](http://wdlpc.local/reportserver)
 | [webappzz](http://webappzz.somee.com)
 | [wp infonowusa](https://infonowusa.wordpress.com)
 | [young-retreat-68939](https://young-retreat-68939.herokuapp.com)
+
+# local:
+----
+
+| [wdlpc.local z](http://wdlpc.local/z)
+| [wdlpc.local reports](http://wdlpc.local/reports)
+| [wdlpc.local reportserver](http://wdlpc.local/reportserver)
+| [ healthcare local](http://wdlmedia.local/healthcare)
+| [wdlmedia.local gui](http://wdlmedia.local/z/gui)
+| [wdlpc.local gui](http://wdlpc.local/z/gui)
+
+# local2:
+----
+| [ healthcare](http://wdlmedia/healthcare)
+| [wdlmedia gui](http://wdlmedia/z/gui)
+| [wdlpc gui](http://wdlpc/z/gui)
+| [wdlpc z](http://wdlpc/z)
+
+# ip
+----
+| [payload sas](http://192.168.109.128)
