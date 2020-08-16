@@ -19,7 +19,6 @@
 
 # local:
 ----
-
 | [wdlpc.local z](http://wdlpc.local/z)
 | [wdlpc.local reports](http://wdlpc.local/reports)
 | [wdlpc.local reportserver](http://wdlpc.local/reportserver)
