@@ -19,13 +19,11 @@
 
 # local:
 ----
-| [wdlpc.local z](http://wdlpc.local/z)
-| [wdlpc.local reports](http://wdlpc.local/reports)
-| [wdlpc.local reportserver](http://wdlpc.local/reportserver)
 | [ datalake local](http://wdlmedia.local/datalake)
 | [ healthcare local](http://wdlmedia.local/healthcare)
 | [wdlmedia.local gui](http://wdlmedia.local/z/gui)
 | [wdlpc.local gui](http://wdlpc.local/z/gui)
+| [ social_media local](http://wdlmedia.local/social_media)
 
 # local2:
 ----
@@ -33,7 +31,7 @@
 | [ healthcare](http://wdlmedia/healthcare)
 | [wdlmedia gui](http://wdlmedia/z/gui)
 | [wdlpc gui](http://wdlpc/z/gui)
-| [wdlpc z](http://wdlpc/z)
+| [ social_media](http://wdlmedia/social_media)
 
 # ip
 ----
