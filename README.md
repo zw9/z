@@ -20,14 +20,14 @@
 # local:
 ----
 | [ datalake ](http://wdlmedia.local/datalake) | [ healthcare ](http://wdlmedia.local/healthcare) | [wdlmedia ](http://wdlmedia.local/z/gui) 
-| [wdlpc ](http://wdlpc.local/z/gui) | [ social_media ](http://wdlmedia.local/social_media)
+| [wdlpc ](http://wdlpc.local) | [ social_media ](http://wdlmedia.local/social_media)
 
 # local vpn:
 ----
 | [ datalake](http://wdlmedia/datalake)
 | [ healthcare](http://wdlmedia/healthcare)
 | [wdlmedia gui](http://wdlmedia/z/gui)
-| [wdlpc gui](http://wdlpc/z/gui)
+| [wdlpc gui](http://wdlpc)
 | [ social_media](http://wdlmedia/social_media)
 
 # ip
