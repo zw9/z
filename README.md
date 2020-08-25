@@ -20,7 +20,7 @@
 # local:
 ----
 | [ datalake ](http://wdlmedia.local/datalake) | [ healthcare ](http://wdlmedia.local/healthcare) | [wdlmedia ](http://wdlmedia.local/z/gui) 
-| [wdlpc ](http://wdlpc.local) | [ social_media ](http://wdlmedia.local/social_media)
+| [wdlpc ](http://wdlpc.local) | [ social_media ](http://wdlmedia.local/social_media) | [ webhost ](http://wdlmedia.local/webhost)
 
 # local vpn:
 ----
@@ -29,7 +29,7 @@
 | [wdlmedia gui](http://wdlmedia/z/gui)
 | [wdlpc gui](http://wdlpc)
 | [ social_media](http://wdlmedia/social_media)
-
+| [ webhost ](http://wdlmedia/webhost)
 # ip
 ----
 
