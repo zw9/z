@@ -1,11 +1,11 @@
 # Cur Focus:
 ----
-| [optum] (https://www.optum.com)
-| [SCAN] (https://www.scanhealthplan.com)
-| [agilonhealth] (https://www.agilonhealth.com)
-| [CMS] (https://www.cms.gov)
-| [ncqa.org] (https://www.ncqa.org)
-https://www.cms.gov
+| [optum](https://www.optum.com)
+| [SCAN](https://www.scanhealthplan.com)
+| [agilonhealth](https://www.agilonhealth.com)
+| [CMS](https://www.cms.gov)
+| [ncqa.org](https://www.ncqa.org)
+
 # Payload:
 ----
 | [apt](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://apt.getenjoyment.net)
