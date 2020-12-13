@@ -1,5 +1,7 @@
 # Cur Focus:
 ----
+| [https://public.tableau.com/s/](https://public.tableau.com/s/)
+| [https://datastudio.google.com/](https://datastudio.google.com/)
 | [nbviewer](https://nbviewer.jupyter.org/github/zw9/z)
 | [optum](https://www.optum.com)
 | [SCAN](https://www.scanhealthplan.com)
