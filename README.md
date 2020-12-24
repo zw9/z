@@ -11,6 +11,9 @@
 
 # Payload:
 ----
+| [jancox](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://jancox.com)
+| [patch](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://patch.com/california/beverlyhills)
+| [beverlyhillscourier](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://beverlyhillscourier)
 | [apt](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://apt.getenjoyment.net)
 | [Bnt](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://Bnt.rf.gd)
 | [energyflow](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://energyflow.000webhostapp.com)
@@ -30,17 +33,20 @@
 
 # local:
 ----
-| [ datalake ](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://wdlmedia.local/datalake) | [ healthcare ](http://wdlmedia.local/healthcare) | [wdlmedia ](http://wdlmedia.local/z/gui) 
-| [wdlpc ](http://wdlpc.local) | [ social_media ](http://wdlmedia.local/social_media) | [ webhost ](http://wdlmedia.local/webhost)
+| [ datalake ](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://wdlmedia.local/datalake1) 
+| [ doc ](http://wdlmedia.local/doc) 
+| [wdlmedia ](http://wdlmedia.local/) 
+| [wdlpc ](http://wdlmedia.local) 
+| [ viet ](http://wdlmedia.local/viet) 
+| [ jancox ](http://wdlmedia.local/jancox_)
 
 # local vpn:
 ----
-| [ datalake](http://wdlmedia/datalake)
-| [ healthcare](http://wdlmedia/healthcare)
-| [wdlmedia gui](http://wdlmedia/z/gui)
-| [wdlpc gui](http://wdlpc)
-| [ social_media](http://wdlmedia/social_media)
-| [ webhost ](http://wdlmedia/webhost)
+| [ datalake1](http://wdlmedia/datalake1)
+| [ doc](http://wdlmedia/doc)
+| [wdlmedia gui](http://wdlmedia/)
+| [ jancox](http://wdlmedia/jancox_)
+| [ viet ](http://wdlmedia/viet)
 # ip
 ----
 
