@@ -13,7 +13,10 @@
 ----
 | [jancox](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://jancox.com)
 | [patch](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://patch.com/california/beverlyhills)
-| [beverlyhillscourier](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://beverlyhillscourier)
+| [beverlyhillscourier](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://beverlyhillscourier.com)
+| [baidu](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://baidu.com)
+| [taobao](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://taobao.com)
+| [sohu](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://sohu.com)
 | [apt](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://apt.getenjoyment.net)
 | [Bnt](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://Bnt.rf.gd)
 | [energyflow](http://translate.google.com/translate?sl=authttpso&tl=vi&u=http://energyflow.000webhostapp.com)
