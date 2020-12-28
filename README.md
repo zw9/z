@@ -1,6 +1,6 @@
 # Cur Focus:
 ----
-| [https://public.tableau.com/s/](https://public.tableau.com/s/)
+| [https://public.tableau.com/s/](https://public.tableau.com/profile/z148)
 | [https://datastudio.google.com/](https://datastudio.google.com/)
 | [nbviewer](https://nbviewer.jupyter.org/github/zw9/z)
 | [optum](https://www.optum.com)
