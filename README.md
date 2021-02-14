@@ -32,8 +32,6 @@
 | [notebooks.azure.com](https://notebooks.azure.com/readerweb)
 | [pythonanywhere](https://zzz.pythonanywhere.com)
 | [r28joy](https://r28joy.herokuapp.com)
-| [tplinkwifi](http://tplinkwifi.net/)
-| [routerlogin](http://www.routerlogin.com)
 | [rpubs.com](https://rpubs.com/Atang148)
 | [s0](http://bnt.rf.gd/z0)
 | [webappzz](http://webappzz.somee.com)
@@ -48,6 +46,8 @@
 | [wdlpc ](http://wdlmedia.local) 
 | [ viet ](http://wdlmedia.local/viet) 
 | [ jancox ](http://wdlmedia.local/jancox_)
+| [routerlogin](http://www.routerlogin.com)
+| [tplinkwifi](http://tplinkwifi.net/)
 
 # local vpn:
 ----
