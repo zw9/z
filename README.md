@@ -43,7 +43,7 @@
 | [ datalake ](http://wdlmedia.local/datalake1) 
 | [ doc ](http://wdlmedia.local/doc) 
 | [wdlmedia ](http://wdlmedia.local/) 
-| [wdlpc ](http://wdlmedia.local) 
+| [wdlpc ](http://wdlpc.local/F) 
 | [ viet ](http://wdlmedia.local/viet) 
 | [ jancox ](http://wdlmedia.local/jancox_)
 | [routerlogin](http://www.routerlogin.com)
@@ -54,6 +54,7 @@
 | [ datalake1](http://wdlmedia/datalake1)
 | [ doc](http://wdlmedia/doc)
 | [wdlmedia gui](http://wdlmedia/)
+| [wdlpc gui](http://wdlpc/)
 | [ jancox](http://wdlmedia/jancox_)
 | [ viet ](http://wdlmedia/viet)
 
