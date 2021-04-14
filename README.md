@@ -40,11 +40,12 @@
 
 # local Payload:
 ----
+| [ Q ](http://wdlpc.local/Q) 
+| [ F data](http://wdlpc.local/F) 
+| [ C opsys](http://wdlpc.local/C) 
 | [ datalake ](http://wdlmedia.local/datalake1) 
 | [ doc ](http://wdlmedia.local/doc) 
 | [wdlmedia ](http://wdlmedia.local/) 
-| [wdlpc F ](http://wdlpc.local/F) 
-| [wdlpc C ](http://wdlpc.local/C) 
 | [ viet ](http://wdlmedia.local/viet) 
 | [ jancox ](http://wdlmedia.local/jancox_)
 | [routerlogin](http://www.routerlogin.com)
@@ -52,10 +53,11 @@
 
 # local vpn:
 ----
-| [ datalake1](http://wdlmedia/datalake1)
-| [ doc](http://wdlmedia/doc)
-| [wdlmedia gui](http://wdlmedia/)
-| [wdlpc gui](http://wdlpc/)
+| [ Q ](http://wdlpc/Q)
+| [ datalake1 ](http://wdlmedia/datalake1)
+| [ doc ](http://wdlmedia/doc)
+| [wdlmedia ](http://wdlmedia/)
+| [wdlpc ](http://wdlpc/)
 | [ jancox](http://wdlmedia/jancox_)
 | [ viet ](http://wdlmedia/viet)
 
