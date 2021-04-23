@@ -5,6 +5,9 @@
 | [bizanalystexpert nbviewer ](https://nbviewer.jupyter.org/github/bizanalystexpert)
 | [zw9](https://zw9.github.io)
 | [z](https://zw9.github.io/z)
+| [sourceforge](https://sourceforge.net/projects/zw9-proj/)
+| [bitbucket](https://bitbucket.org/dashboard/overview)
+| [shell.cloud.google](https://shell.cloud.google.com/)
 
 # Vendor:
 | [optum](https://www.optum.com)
@@ -12,6 +15,9 @@
 | [agilonhealth](https://www.agilonhealth.com)
 | [CMS](https://www.cms.gov)
 | [ncqa.org](https://www.ncqa.org)
+| [prospectmedical](https://www.prospectmedical.com/)
+| [catapultsg](https://catapultsg.com/)
+| [apg](https://www.apg.org/)
 
 # Interest:
 | [jancox](http://jancox.com)
