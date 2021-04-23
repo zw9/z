@@ -3,6 +3,8 @@
 | [public.tableau](https://public.tableau.com/profile/z148)
 | [datastudio.google](https://datastudio.google.com/)
 | [nbviewer](https://nbviewer.jupyter.org/github/zw9/z)
+| [zw9](https://zw9.github.io)
+| [z](https://zw9.github.io/z)
 
 # Vendor:
 ----
@@ -45,19 +47,19 @@
 | [ C opsys](http://wdlpc.local/C) 
 | [ datalake ](http://wdlmedia.local/datalake1) 
 | [ doc ](http://wdlmedia.local/doc) 
-| [wdlmedia ](http://wdlmedia.local/) 
+| [ wdlmedia ](http://wdlmedia.local/) 
 | [ viet ](http://wdlmedia.local/viet) 
 | [ jancox ](http://wdlmedia.local/jancox_)
-| [routerlogin](http://www.routerlogin.com)
-| [tplinkwifi](http://tplinkwifi.net/)
+| [ routerlogin](http://www.routerlogin.com)
+| [ tplinkwifi](http://tplinkwifi.net/)
 
 # local vpn:
 ----
 | [ Q ](http://wdlpc/Q)
 | [ datalake1 ](http://wdlmedia/datalake1)
 | [ doc ](http://wdlmedia/doc)
-| [wdlmedia ](http://wdlmedia/)
-| [wdlpc ](http://wdlpc/)
+| [ wdlmedia ](http://wdlmedia/)
+| [ wdlpc ](http://wdlpc/)
 | [ jancox](http://wdlmedia/jancox_)
 | [ viet ](http://wdlmedia/viet)
 
