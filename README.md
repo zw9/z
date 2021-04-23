@@ -1,5 +1,4 @@
-# Cur Focus:
-----
+## Cur Focus:
 | [public.tableau](https://public.tableau.com/profile/z148)
 | [datastudio.google](https://datastudio.google.com/)
 | [zw9 nbviewer ](https://nbviewer.jupyter.org/github/zw9/z)
@@ -8,7 +7,6 @@
 | [z](https://zw9.github.io/z)
 
 # Vendor:
-----
 | [optum](https://www.optum.com)
 | [SCAN](https://www.scanhealthplan.com)
 | [agilonhealth](https://www.agilonhealth.com)
@@ -16,7 +14,6 @@
 | [ncqa.org](https://www.ncqa.org)
 
 # Interest:
-----
 | [jancox](http://jancox.com)
 | [patch](http://patch.com/california/beverlyhills)
 | [beverlyhillscourier](http://beverlyhillscourier.com)
@@ -25,7 +22,6 @@
 | [sohu](http://sohu.com)
 
 # Payload External:
-----
 | [apt](http://apt.getenjoyment.net)
 | [Bnt](http://Bnt.rf.gd)
 | [energyflow](http://energyflow.000webhostapp.com)
@@ -42,7 +38,6 @@
 | [young-retreat-68939](https://young-retreat-68939.herokuapp.com)
 
 # local Payload:
-----
 | [ Q ](http://wdlpc.local/Q) 
 | [ F data](http://wdlpc.local/F) 
 | [ C opsys](http://wdlpc.local/C) 
@@ -55,7 +50,6 @@
 | [ tplinkwifi](http://tplinkwifi.net/)
 
 # local vpn:
-----
 | [ Q ](http://wdlpc/Q)
 | [ datalake1 ](http://wdlmedia/datalake1)
 | [ doc ](http://wdlmedia/doc)
