@@ -9,15 +9,10 @@
 | [shell.cloud.google](https://shell.cloud.google.com/)
 
 # Vendor:
-| [optum](https://www.optum.com)
-| [SCAN](https://www.scanhealthplan.com)
 | [adventglobal](https://www.adventglobal.com)
 | [hbisolutions](https://www.hbisolutions.com)
-| [CMS](https://www.cms.gov)
-| [ncqa.org](https://www.ncqa.org)
 | [prospectmedical](https://www.prospectmedical.com/)
 | [catapultsg](https://catapultsg.com/)
-| [apg](https://www.apg.org/)
 
 # Interest:
 | [jancox](http://jancox.com)
