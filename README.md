@@ -27,7 +27,6 @@
 # Payload External:
 | [apt](http://apt.getenjoyment.net)
 | [Bnt](http://Bnt.rf.gd)
-| [energyflow](http://energyflow.000webhostapp.com)
 | [f84](http://f84.epizy.com)
 | [fitanalytics](http://fitanalytics.000webhostapp.com)
 | [freeanalytics](http://freeanalytics.000webhostapp.com)
@@ -36,7 +35,6 @@
 | [r28joy](https://r28joy.herokuapp.com)
 | [rpubs.com](https://rpubs.com/Atang148)
 | [s0](http://bnt.rf.gd/z0)
-| [webappzz](http://webappzz.somee.com)
 | [wp infonowusa](hhttps://infonowusa.wordpress.com)
 | [young-retreat-68939](https://young-retreat-68939.herokuapp.com)
 
@@ -51,8 +49,6 @@
 | [ wdlmedia ](http://wdlmedia.local/) 
 | [ viet ](http://wdlmedia.local/viet) 
 | [ jancox ](http://wdlmedia.local/jancox_)
-| [ routerlogin](http://www.routerlogin.com)
-| [ tplinkwifi](http://tplinkwifi.net/)
 
 # local vpn:
 | [ Q ](http://wdlpc/Q)
