@@ -23,9 +23,6 @@
 | [jancox](http://jancox.com)
 | [patch](http://patch.com/california/beverlyhills)
 | [beverlyhillscourier](http://beverlyhillscourier.com)
-| [baidu](http://baidu.com)
-| [taobao](http://taobao.com)
-| [sohu](http://sohu.com)
 
 # Payload External:
 | [apt](http://apt.getenjoyment.net)
@@ -46,6 +43,8 @@
 # local Payload:
 | [ Q ](http://wdlpc.local/Q) 
 | [ F data](http://wdlpc.local/F) 
+| [ timeline](http://wdlpc.local/F/GitHub/HccHdsStars/rpt/rpt_timeline.html) 
+| [ TimeSheet](http://wdlpc.local/F/GitHub/HccHdsStars/rpt/TimeSheet.html) 
 | [ C opsys](http://wdlpc.local/C) 
 | [ datalake ](http://wdlmedia.local/datalake1) 
 | [ doc ](http://wdlmedia.local/doc) 
