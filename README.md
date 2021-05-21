@@ -3,7 +3,6 @@
 | [datastudio.google](https://datastudio.google.com/)
 | [zw9 nbviewer ](https://nbviewer.jupyter.org/github/zw9/z)
 | [bizanalystexpert nbviewer ](https://nbviewer.jupyter.org/github/bizanalystexpert)
-| [zw9](https://zw9.github.io)
 | [z](https://zw9.github.io/z)
 | [sourceforge](https://sourceforge.net/projects/zw9-proj/)
 | [bitbucket](https://bitbucket.org/dashboard/overview)
@@ -12,7 +11,8 @@
 # Vendor:
 | [optum](https://www.optum.com)
 | [SCAN](https://www.scanhealthplan.com)
-| [agilonhealth](https://www.agilonhealth.com)
+| [adventglobal](https://www.adventglobal.com)
+| [hbisolutions](https://www.hbisolutions.com)
 | [CMS](https://www.cms.gov)
 | [ncqa.org](https://www.ncqa.org)
 | [prospectmedical](https://www.prospectmedical.com/)
