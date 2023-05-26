@@ -7,8 +7,8 @@
 |[linkedin](http://linkedin.008881.xyz)
 |[008881](http://www.008881.xyz)
 |[--- 0008880.xyz]
-|[0008880](http://www.0008880.xyz)
-|[0008880](http://www.0008880.xyz)
+|[www](http://www.0008880.xyz)
+|[blog](http://blog.0008880.xyz)
 |[--- showthem.in]
 |[www](http://www.showthem.in)
 |[blog](http://blog.showthem.in)
