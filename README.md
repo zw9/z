@@ -1,5 +1,13 @@
 ## Cur Focus:
- 
+
+#social
+|[blog]|(https://blog.008881.xyz)
+|[facebook]|(https://facebook.008881.xyz)
+|[youtube]|(https://youtube.008881.xyz)
+|[linkedin]|(https://linkedin.008881.xyz)
+|[008881]|(https://www.008881.xyz)
+|[---]
+|[0008880]|(https://www.0008880.xyz)
 
 # local Payload:
 | [ A data](http://wdlpc.local/A) 
