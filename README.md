@@ -10,6 +10,9 @@
 
 # Alan 0008880.xyz
 |[0008880](http://www.0008880.xyz)
+|[sales.42web.io](http://sales.42web.io)
+|[0008880.xyz.preview.services](http://0008880.xyz.preview.services)
+|[0008880xyz.hyperphp.com](http://www.0008880xyz.hyperphp.com)
 |[blog](http://blog.0008880.xyz)
 |[facebook](http://facebook.0008880.xyz)
 |[youtube](http://youtube.0008880.xyz)
@@ -19,13 +22,13 @@
 # Avery showthem.in
 |[showthem](http://www.showthem.in)
 |[blog](http://blog.showthem.in)
-|[facebook](http://facebook.0008880.xyz)
-|[youtube](http://youtube.0008880.xyz)
-|[linkedin](http://linkedin.0008880.xyz)
+|[facebook](http://facebook.showthem.in)
+|[youtube](http://youtube.showthem.in)
+|[linkedin](http://linkedin.showthem.in)
 |[contact](mailto:contact@showthem.in)
 
 # Teresa 
-|[showthem](http://www.088884.xyz)
+|[088884](http://www.088884.xyz)
 |[blog](http://blog.088884.xyz)
 |[facebook](http://facebook.088884.xyz)
 |[youtube](http://youtube.088884.xyz)
