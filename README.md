@@ -25,11 +25,11 @@
 |[contact](mailto:contact@showthem.in)
 
 # Teresa 
-|[showthem](http://www.showthem.in)
-|[blog](http://blog.showthem.in)
-|[facebook](http://facebook.0008880.xyz)
-|[youtube](http://youtube.0008880.xyz)
-|[linkedin](http://linkedin.0008880.xyz)
+|[showthem](http://www.088884.xyz)
+|[blog](http://blog.088884.xyz)
+|[facebook](http://facebook.088884.xyz)
+|[youtube](http://youtube.088884.xyz)
+|[linkedin](http://linkedin.088884.xyz)
 
 # local Payload:
 | [ A data](http://wdlpc.local/A) 
