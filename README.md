@@ -10,6 +10,8 @@
 
 # Alan 0008880.xyz
 |[0008880](http://www.0008880.xyz)
+|[Jan Cox Talks podcast](https://open.spotify.com/show/5KNYR2QbaNLqHq9oNfPF0x)
+|[Giai Dap Thanc Mac podcast](https://open.spotify.com/show/4M9C8P4HHJJhobe7noKun4)
 |[sales.42web.io](http://sales.42web.io)
 |[0008880.xyz.preview.services](http://0008880.xyz.preview.services)
 |[0008880xyz.hyperphp.com](http://www.0008880xyz.hyperphp.com)
