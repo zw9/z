@@ -40,6 +40,7 @@
 | [ A data](http://wdlpc.local/A) 
 | [ C opsys](http://wdlpc.local/C) 
 | [---]
+| [ pi5 ](http://pi5.local) 
 | [ media ](http://wdlmedia.local/media) 
 | [ doc ](http://wdlmedia.local/doc) 
 | [ wdlmedia admin](http://wdlmedia.local/admin) 
@@ -48,6 +49,7 @@
 | [ A data](http://wdlpc/A) 
 | [ C opsys](http://wdlpc/C) 
 | [---]
+| [ pi5 ](http://pi5) 
 | [ media ](http://wdlmedia/media) 
 | [ doc ](http://wdlmedia/doc) 
 | [ wdlmedia admin](http://wdlmedia/admin) 
