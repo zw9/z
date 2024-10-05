@@ -29,6 +29,10 @@ w/o .local:
 
 # useful:
 |[keep](https://keep.google.com/)
-|[learning](https://www.linkedin.com/learning/?upsellOrderOrigin=default_guest_learning&accountId=2092548&u=2092548&success=true&authUUID=RV8m%2Fb1hQGyY%2BeJ1J%2B5MLg%3D%3D)
+|[learning](https://www.linkedin.com/learning/)
+|[zw9](https://zw9.github.io/z/)
+|[icloud](https://www.icloud.com/)
+|[xiaohongshu](https://www.xiaohongshu.com/)
+|[kindle](https://read.amazon.com/kindle-library)
 
 
