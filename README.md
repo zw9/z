@@ -1,4 +1,13 @@
 ## Cur Focus:
+.local:
+|[m1.local](http://m1.local/Projects/web_link.html)
+|[p1.local](http://p1.local)
+|[p5.local](http://p5.local)
+
+w/o .local:
+|[m1](http://m1./Projects/web_link.html)
+|[p1](http://p1)
+|[p5](http://p5)
 
 # Alan 0008880.xyz
 |[contact](mailto:contact@0008880.xyz)
