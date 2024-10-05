@@ -28,11 +28,19 @@ w/o .local:
 |[TuAnZen3](https://www.dropbox.com/scl/fo/wmopj095i40ob5klcjcfy/h?rlkey=c5goqzwifzcvijlmatd6dkmmf&dl=0)
 
 # useful:
-|[keep](https://keep.google.com/)
-|[learning](https://www.linkedin.com/learning/)
-|[zw9](https://zw9.github.io/z/)
+|[anaconda](https://anaconda.cloud/)
+|[hoopladigital](https://www.hoopladigital.com/)
 |[icloud](https://www.icloud.com/)
-|[xiaohongshu](https://www.xiaohongshu.com/)
+|[keep](https://keep.google.com/)
 |[kindle](https://read.amazon.com/kindle-library)
+|[learning](https://www.linkedin.com/learning/)
+|[linkedin](https://www.linkedin.com/in/)
+|[outlook](https://outlook.live.com/mail/0/)
+|[proton](https://mail.proton.me/u/2/inbox)
+|[teams](https://teams.live.com/)
+|[textnow](https://www.textnow.com/)
+|[vscode](https://vscode.dev/github/zw9/z)
+|[xiaohongshu](https://www.xiaohongshu.com/)
+|[focus](https://zw9.github.io/z/)
 
 
