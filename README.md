@@ -1,6 +1,8 @@
 ## Cur Focus:
 .local:
-|[m1.local](http://m1.local/Projects/web_link.html)
+|[m1.local](http://m1.local/)
+|[m2.local](http://m2.local/)
+|[m3.local](http://m3.local/)
 |[p1.local](http://p1.local)
 |[p5.local](http://p5.local)
 
