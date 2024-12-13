@@ -7,7 +7,9 @@
 |[p5.local](http://p5.local)
 
 w/o .local:
-|[m1](http://m1/Projects/web_link.html)
+|[m1](http://m1/)
+|[m2](http://m2/)
+|[m3](http://m3/)
 |[p1](http://p1)
 |[p5](http://p5)
 
