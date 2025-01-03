@@ -1,17 +1,5 @@
 ## Cur Focus:
-.local:
-|[m1.local](http://m1.local/)
-|[m2.local](http://m2.local/)
-|[m3.local](http://m3.local/)
-|[p1.local](http://p1.local)
-|[p5.local](http://p5.local)
 
-w/o .local:
-|[m1](http://m1/)
-|[m2](http://m2/)
-|[m3](http://m3/)
-|[p1](http://p1)
-|[p5](http://p5)
 
 # Alan 0008880.xyz
 |[blog](http://blog.0008880.xyz)
@@ -51,3 +39,5 @@ w/o .local:
 |[textnow chat](https://www.textnow.com/)
 |[vscode](https://vscode.dev/github/zw9/z)
 |[xiaohongshu](https://www.xiaohongshu.com/)
+|[tailscale](https://tailscale.com/admin/)
+
