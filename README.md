@@ -20,6 +20,8 @@
 |[TuAnZen4](https://www.dropbox.com/scl/fo/3hh0okdzdy5n6zifxpkdi/h?rlkey=okzkkv8vbe5xde56olqjfcce1&dl=0)
 
 # useful:
+|[JanCox](http://jancox.com)
+|[ToSuThien](http://tosuthien.com)
 |[anaconda](https://anaconda.cloud/)
 |[discordapp](https://discordapp.com/)
 |[focus](https://zw9.github.io/z/)
