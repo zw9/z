@@ -10,8 +10,25 @@
 |[tableau](http://tableau.0008880.xyz)
 |[youtube](http://youtube.0008880.xyz)
 |[zennow](http://zennow.0008880.xyz)
-|[docker](http://docker.0008880.xyz:9091)
+
+# Computing Cloud 
+|[dig oc web](http://docker.0008880.xyz:8082)
+|[dig oc bookmarks](http://docker.0008880.xyz:9091)
+|[kamatera](http://45-61-57-46.cloud-xip.com:8082/)
 |[coldair](http://coldair.gearhostpreview.com/)
+|[hostinger](http://srv737179.hstgr.cloud:8082/)
+|[coldair](http://coldair.gearhostpreview.com/)
+|[alibaba](https://home.console.alibabacloud.com/?spm=a3c0i.216172.6791778070.31.78fb4ce4JEYntm)
+|[vngcloud](https://dashboard.console.vngcloud.vn/)
+|[google cloud](https://console.cloud.google.com/home/dashboard?cloudshell=true&project=zw9-proj)
+|[hostinger cp](https://hpanel.hostinger.com/vps/737179/overview)
+|[vultr](https://my.vultr.com/subs/?id=6432aa74-f566-42b4-a6d8-ba41d5c7c6a1)
+|[digital ocean cp](https://cloud.digitalocean.com/droplets/478060351/graphs?i=486325&period=hour)
+|[kamatera cpl](https://console.kamatera.com/)
+|[aws](https://us-east-1.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-1)
+|[dynadot](https://www.dynadot.com/)
+|[xyz](https://gen.xyz/)
+
 
 # podcast:
 |[JanCoxTalks podcast](http://jancox.0008880.xyz)
