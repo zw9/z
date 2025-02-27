@@ -12,11 +12,11 @@
 |[zennow](http://zennow.0008880.xyz)
 
 # Computing Cloud 
-|[dig oc web](http://docker.0008880.xyz:8082)
-|[dig oc bookmarks](http://docker.0008880.xyz:9091)
-|[kamatera](http://45-61-57-46.cloud-xip.com:8082/)
+|[dig oc web](http://digitalocean:8082)
+|[dig oc bookmarks](http://digitalocean:9091)
+|[kamatera](http://kamatera:8082/)
 |[coldair](http://coldair.gearhostpreview.com/)
-|[hostinger](http://srv737179.hstgr.cloud:8082/)
+|[hostinger](http://hostinger:8082/)
 |[coldair](http://coldair.gearhostpreview.com/)
 |[alibaba](https://home.console.alibabacloud.com/?spm=a3c0i.216172.6791778070.31.78fb4ce4JEYntm)
 |[vngcloud](https://dashboard.console.vngcloud.vn/)
