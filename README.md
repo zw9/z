@@ -12,14 +12,8 @@
 |[zennow](http://zennow.0008880.xyz)
 
 # Computing Cloud 
-|[dig oc web](http://digitalocean:8082)
-|[dig oc bookmarks](http://digitalocean:9091)
-|[kamatera](http://kamatera:8082/)
-|[coldair](http://coldair.gearhostpreview.com/)
-|[hostinger](http://hostinger:8082/)
 |[coldair](http://coldair.gearhostpreview.com/)
 |[alibaba](https://home.console.alibabacloud.com/?spm=a3c0i.216172.6791778070.31.78fb4ce4JEYntm)
-|[vngcloud](https://dashboard.console.vngcloud.vn/)
 |[google cloud](https://console.cloud.google.com/home/dashboard?cloudshell=true&project=zw9-proj)
 |[hostinger cp](https://hpanel.hostinger.com/vps/737179/overview)
 |[vultr](https://my.vultr.com/subs/?id=6432aa74-f566-42b4-a6d8-ba41d5c7c6a1)
@@ -28,7 +22,7 @@
 |[aws](https://us-east-1.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-1)
 |[dynadot](https://www.dynadot.com/)
 |[xyz](https://gen.xyz/)
-
+|[linode](https://cloud.linode.com/support)
 
 # podcast:
 |[JanCoxTalks podcast](http://jancox.0008880.xyz)
