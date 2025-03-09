@@ -25,7 +25,7 @@
 |[linode](https://cloud.linode.com/support)
 |[railway](https://railway.com/dashboard)
 |[portainer](http://dell:9002)
-
+|[Trilium](http://dell:9012)
 
 # podcast:
 |[JanCoxTalks podcast](http://jancox.0008880.xyz)
