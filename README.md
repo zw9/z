@@ -12,6 +12,7 @@
 |[zennow](http://zennow.0008880.xyz)
 
 # Computing Cloud 
+|[portainer](http://dell:9000)
 |[coldair](http://coldair.gearhostpreview.com/)
 |[alibaba](https://home.console.alibabacloud.com/?spm=a3c0i.216172.6791778070.31.78fb4ce4JEYntm)
 |[google cloud](https://console.cloud.google.com/home/dashboard?cloudshell=true&project=zw9-proj)
@@ -24,8 +25,8 @@
 |[xyz](https://gen.xyz/)
 |[linode](https://cloud.linode.com/support)
 |[railway](https://railway.com/dashboard)
-|[portainer](http://dell:9002)
-|[Trilium](http://dell:9012)
+
+
 
 # podcast:
 |[JanCoxTalks podcast](http://jancox.0008880.xyz)
