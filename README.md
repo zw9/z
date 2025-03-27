@@ -26,6 +26,7 @@
 |[linode](https://cloud.linode.com/support)
 |[railway](https://railway.com/dashboard)
 |[lightnode](https://console.lightnode.com)
+|[idrive e2](https://app.idrivee2.com/dashboard)
 
 
 
