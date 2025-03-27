@@ -25,6 +25,7 @@
 |[xyz](https://gen.xyz/)
 |[linode](https://cloud.linode.com/support)
 |[railway](https://railway.com/dashboard)
+|[lightnode](https://console.lightnode.com)
 
 
 
