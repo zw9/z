@@ -38,6 +38,7 @@
 |[Jan Cox Talks 2600-2699](https://anchor.fm/s/f9f3682c/podcast/rss)
 |[Jan Cox Talks 2700-2799](https://anchor.fm/s/f91584a8/podcast/rss)
 |[Jan Cox Talks 2800-2899](https://anchor.fm/s/d4f2112c/podcast/rss)
+|[PoweredByPlay](https://feed.podbean.com/PoweredByPlay/feed.xml)
 
 # useful:
 |[JanCox](http://jancox.com)
