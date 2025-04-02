@@ -38,6 +38,7 @@
 |[TuAnZen2](https://www.dropbox.com/scl/fo/8un8p4cdpfm3odljz5wys/h?rlkey=doskj1h1xigc9ub0ifkgdh4vw&dl=0)
 |[TuAnZen3](https://www.dropbox.com/scl/fo/wmopj095i40ob5klcjcfy/h?rlkey=c5goqzwifzcvijlmatd6dkmmf&dl=0)
 |[TuAnZen4](https://www.dropbox.com/scl/fo/3hh0okdzdy5n6zifxpkdi/h?rlkey=okzkkv8vbe5xde56olqjfcce1&dl=0)
+|[Jan Cox Talks 2600-2699](https://anchor.fm/s/f9f3682c/podcast/rss)
 
 # useful:
 |[JanCox](http://jancox.com)
