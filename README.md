@@ -1,6 +1,5 @@
 ## Cur Focus:
 
-
 # Alan 0008880.xyz
 |[blog](http://blog.0008880.xyz)
 |[contact](mailto:contact@0008880.xyz)
@@ -29,8 +28,6 @@
 |[idrive e2](https://app.idrivee2.com/dashboard)
 |[heroku](https://dashboard.heroku.com/apps)
 
-
-
 # podcast:
 |[JanCoxTalks podcast](http://jancox.0008880.xyz)
 |[TuAnZen podcast](http://tuanzen.0008880.xyz)
@@ -39,6 +36,8 @@
 |[TuAnZen3](https://www.dropbox.com/scl/fo/wmopj095i40ob5klcjcfy/h?rlkey=c5goqzwifzcvijlmatd6dkmmf&dl=0)
 |[TuAnZen4](https://www.dropbox.com/scl/fo/3hh0okdzdy5n6zifxpkdi/h?rlkey=okzkkv8vbe5xde56olqjfcce1&dl=0)
 |[Jan Cox Talks 2600-2699](https://anchor.fm/s/f9f3682c/podcast/rss)
+|[Jan Cox Talks 2700-2799](https://anchor.fm/s/f91584a8/podcast/rss)
+|[Jan Cox Talks 2800-2899](https://anchor.fm/s/d4f2112c/podcast/rss)
 
 # useful:
 |[JanCox](http://jancox.com)
