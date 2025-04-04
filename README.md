@@ -12,6 +12,7 @@
 
 # Computing Cloud 
 |[portainer](http://dell:9000)
+|[web](http://dell:8082)
 |[coldair](http://coldair.gearhostpreview.com/)
 |[alibaba](https://home.console.alibabacloud.com/?spm=a3c0i.216172.6791778070.31.78fb4ce4JEYntm)
 |[google cloud](https://console.cloud.google.com/home/dashboard?cloudshell=true&project=zw9-proj)
