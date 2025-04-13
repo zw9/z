@@ -1,5 +1,11 @@
 ## Cur Focus:
 
+#Chatbot
+|[chatgpt](https://chatgpt.com)
+|[deepseek](https://deepseek.ai/)
+|[gemini](https://gemini.google.com/app)
+|[Leo](httpsbrave://leo-ai/)
+
 # Alan 0008880.xyz
 |[blog](http://blog.0008880.xyz)
 |[contact](mailto:contact@0008880.xyz)
