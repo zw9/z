@@ -10,9 +10,16 @@
 |[youtube](http://youtube.0008880.xyz)
 |[zennow](http://zennow.0008880.xyz)
 
-# Computing Cloud 
-|[portainer](http://dell:9000)
+# Home Lab 
+|[portainer dell](http://dell:9000/#!/2/docker/containers)
+|[portainer m2800](http://m2800:9000/#!/2/docker/containers)
+|[portainer m7520](http://m7520:9000/#!/2/docker/containers)
+|[portainer e6540](http://e6540:9000/#!/2/docker/containers)
+|[portainer hostinger](http://hostinger:9000/#!/2/docker/containers)
 |[web](http://dell:8082)
+|[pihole3](http://pihole3/admin)
+
+# Cloud Services
 |[coldair](http://coldair.gearhostpreview.com/)
 |[alibaba](https://home.console.alibabacloud.com/?spm=a3c0i.216172.6791778070.31.78fb4ce4JEYntm)
 |[google cloud](https://console.cloud.google.com/home/dashboard?cloudshell=true&project=zw9-proj)
