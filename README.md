@@ -5,6 +5,8 @@
 |[deepseek](https://deepseek.ai/)
 |[gemini](https://gemini.google.com/app)
 |[Leo](httpsbrave://leo-ai/)
+|[https://platform.openai.com/account/usage](openai usage)
+
 
 # Alan 0008880.xyz
 |[blog](http://blog.0008880.xyz)
