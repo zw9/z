@@ -4,7 +4,6 @@
 |[chatgpt](https://chatgpt.com)
 |[deepseek](https://deepseek.ai/)
 |[gemini](https://gemini.google.com/app)
-|[Leo](httpsbrave://leo-ai/)
 |[openai usage](https://platform.openai.com/account/usage)
 
 
